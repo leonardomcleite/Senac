@@ -1,0 +1,2719 @@
+3V 11 �	LGG Liege	TNT Airways	10:00:00			77X
+3V 11 �	LGG Liege	TNT Airways	10:00:00			77X
+4M 6302	MIA Miami	Lan Argentina	14:03:00	T-8	C42	757
+4M 6302	MIA Miami	Lan Argentina	14:03:00	T-8	C42	757
+4M 6357	EZE Buenos Aires	Lan Argentina	22:00:00	T-8	B12	777
+4M 6357	EZE Buenos Aires	Lan Argentina	22:00:00	T-8	B12	777
+4O 2993	MEX Mexico City	Interjet	00:50:00			320
+5C 932 �LGG Liege	C.A.L. Cargo Airlines	10:15:00			
+5X 1605	MCO Orlando	UPS	11:04:00			
+5X 1605	MCO Orlando	UPS	11:04:00			
+5X 2215	SDF Louisville	UPS	09:53:00			
+AB 4502	LAX Los Angeles	Air Berlin	17:30:00	T-8	C42	32B
+AB 4507	SAN San Diego	Air Berlin	17:20:00	T-8	C46	738
+AB 4509	SFO San Francisco	Air Berlin	17:45:00	T-8	C39	32B
+AB 4513	SEA Seattle	Air Berlin	18:35:00	T-8	C41	738
+AB 4518	YYZ Toronto	Air Berlin	20:15:00	T-8	C31D	CR7
+AB 4523	MIA Miami	Air Berlin	17:00:00	T-8	C44	757
+AB 4523	MIA Miami	Air Berlin	17:00:00	T-8	C44	757
+AB 4527	AUS Austin	Air Berlin	17:00:00	T-8	B1	738
+AB 4527	AUS Austin	Air Berlin	17:00:00	T-8	B1	738
+AB 4529	ORD Chicago	Air Berlin	17:10:00	T-8	C37	738
+AB 4563	DCA Washington	Air Berlin	17:29:00	T-8	C32G	CR7
+AB 4571	RDU Raleigh/Durham	Air Berlin	19:55:00	T-8	C31C	ERD
+AB 4571	RDU Raleigh/Durham	Air Berlin	19:55:00	T-8	C31C	ERD
+AB 4583	YUL Montreal	Air Berlin	21:20:00	T-8	C31B	ERD
+AB 4591	MIA Miami	Air Berlin	19:43:00	T-8	C46	757
+AB 4592	BOS Boston	Air Berlin	20:25:00	T-8	B2	738
+AB 4619	BNA Nashville	Air Berlin	16:55:00	T-8	C31D	ER4
+AB 4619	BNA Nashville	Air Berlin	16:55:00	T-8	C31D	ER4
+AB 4621	CMH Columbus	Air Berlin	18:50:00	T-8	C31B	ERD
+AB 4692	LAS Las Vegas	Air Berlin	17:29:00	T-8	C42	738
+AB 4713	ZRH Zurich	Air Berlin	18:05:00	T-8	B2	763
+AB 4713	ZRH Zurich	Air Berlin	18:05:00	T-8	B2	763
+AB 7249	TXL Berlin	Air Berlin	17:50:00	T-8		332
+AB 7451	DUS Dusseldorf	Air Berlin	17:40:00	T-8		332
+AB 9268	CLT Charlotte	Air Berlin	06:20:00	T-8	C35	321
+AB 9270	CLT Charlotte	Air Berlin	10:15:00	T-8	C34	320
+AB 9271	CLT Charlotte	Air Berlin	12:00:00	T-8	C34	320
+AB 9271	CLT Charlotte	Air Berlin	12:00:00	T-8	C34	320
+AB 9272	CLT Charlotte	Air Berlin	16:55:00	T-8	C38	320
+AB 9272	CLT Charlotte	Air Berlin	16:55:00	T-8	C38	320
+AB 9274	CLT Charlotte	Air Berlin	18:30:00	T-8	C34	321
+AB 9310	PHX Phoenix	Air Berlin	06:30:00	T-8	C38	320
+AB 9311	PHX Phoenix	Air Berlin	09:59:00	T-8	C35	320
+AB 9311	PHX Phoenix	Air Berlin	09:59:00	T-8	C35	320
+AB 9312	PHX Phoenix	Air Berlin	13:30:00	T-8	C36	321
+AB 9313	PHX Phoenix	Air Berlin	16:20:00	T-8	C34	321
+AC 6850	JNB Johannesburg	Air Canada	10:40:00	T-4		343
+AC 8901	YYZ Toronto	Air Canada	07:00:00	T-7	11	CRA
+AC 8901	YYZ Toronto	Air Canada	07:00:00	T-7	11	CRA
+AC 8903	YYZ Toronto	Air Canada	10:35:00	T-7	11	CRA
+AF 11	CDG Paris	Air France	21:50:00	T-1		77W
+AF 2078	PHX Phoenix	Air France	17:10:00	T-4	B37	73H
+AF 2092	SFO San Francisco	Air France	15:15:00	T-4	B34	75W
+AF 2146	MIA Miami	Air France	18:45:00	T-2	C63	M88
+AF 2192	DEN Denver	Air France	18:15:00	T-2	C62	73H
+AF 2278	MSY New Orleans	Air France	18:29:00	T-4	B47	319
+AF 23	CDG Paris	Air France	16:15:00	T-1		332
+AF 2320	ORD Chicago	Air France	16:15:00	T-4	B45	CR9
+AF 2322	CLE Cleveland	Air France	14:25:00	T-4	B51	CR9
+AF 2351	ATL Atlanta	Air France	19:45:00	T-4		738
+AF 2360	PIT Pittsburgh	Air France	14:59:00	T-4	B43	CR9
+AF 2360	PIT Pittsburgh	Air France	14:59:00	T-4	B43	CR9
+AF 2420	MSP Minneapolis	Air France	10:51:00	T-4	B33	717
+AF 2424	BUF Buffalo	Air France	15:30:00	T-4	B44	CR9
+AF 2426	CVG Cincinnati	Air France	16:45:00	T-4	B45	CR9
+AF 2430	PIT Pittsburgh	Air France	21:15:00	T-4		CR9
+AF 2462	SAN San Diego	Air France	19:15:00	T-4		738
+AF 2523	DTW Detroit	Air France	16:15:00	T-4	B25	319
+AF 2532	MCO Orlando	Air France	16:04:00	T-2	C69	M88
+AF 2532	MCO Orlando	Air France	16:04:00	T-2	C69	M88
+AF 2536	SLC Salt Lake City	Air France	19:05:00	T-2	C68	757
+AF 2536	SLC Salt Lake City	Air France	19:05:00	T-2	C68	757
+AF 2544 �	SEA Seattle	Air France	16:05:00	T-4	B38	73H
+AF 2544 �	SEA Seattle	Air France	16:05:00	T-4	B38	73H
+AF 2547	ATL Atlanta	Air France	17:35:00	T-4	B32	752
+AF 2554	BOS Boston	Air France	17:00:00	T-4	B44	CR9
+AF 2554	BOS Boston	Air France	17:00:00	T-4	B44	CR9
+AF 2572	AUS Austin	Air France	17:35:00	T-2	C70	738
+AF 2676	JAX Jacksonville	Air France	14:45:00	T-4	B45	CR9
+AF 2684	RDU Raleigh/Durham	Air France	16:30:00	T-4	B51	CR9
+AF 2728	FLL Fort Lauderdale	Air France	18:59:00	T-4	B33	M88
+AF 2728	FLL Fort Lauderdale	Air France	18:59:00	T-4	B33	M88
+AF 2736	MSY New Orleans	Air France	13:59:00	T-4	B35	319
+AF 2736	MSY New Orleans	Air France	13:59:00	T-4	B35	319
+AF 2753	LAX Los Angeles	Air France	21:15:00	T-4		76W
+AF 2755	DTW Detroit	Air France	09:15:00	T-4	B55	CR9
+AF 2808	LAS Las Vegas	Air France	17:00:00	T-4	B22	738
+AF 2808	LAS Las Vegas	Air France	17:00:00	T-4	B22	738
+AF 2837	BOS Boston	Air France	20:05:00	T-4		717
+AF 2837	BOS Boston	Air France	20:05:00	T-4		717
+AF 2950	SJU San Juan	Air France	14:59:00	T-4	B22	738
+AF 2950	SJU San Juan	Air France	14:59:00	T-4	B22	738
+AF 2958	SEA Seattle	Air France	18:15:00	T-4	B35	738
+AF 3496	SFO San Francisco	Air France	19:00:00	T-4	B39	752
+AF 3496	SFO San Francisco	Air France	19:00:00	T-4	B39	752
+AF 3575	BRU Brussels	Air France	19:30:00	T-4		76W
+AF 3581	FRA Frankfurt	Air France	19:43:00	T-4	B34	76W
+AF 3601	LHR London	Air France	19:00:00	T-4	B22	76W
+AF 3601	LHR London	Air France	19:00:00	T-4	B22	76W
+AF 3635	CDG Paris	Air France	19:25:00	T-4		333
+AF 3647	MAD Madrid	Air France	19:51:00	T-4	B26	76W
+AF 3657	DUB Dublin	Air France	20:59:00	T-4		764
+AF 3657	DUB Dublin	Air France	20:59:00	T-4		764
+AF 3667	BCN Barcelona	Air France	19:31:00	T-4	B32	764
+AF 3673	LHR London	Air France	22:30:00	T-4		76W
+AF 5638	LAX Los Angeles	Air France	18:15:00	T-4	B41	75W
+AF 5662	PDX Portland	Air France	18:29:00	T-4	B24	73H
+AF 5684	LAS Las Vegas	Air France	19:51:00	T-2		738
+AF 5712	FLL Fort Lauderdale	Air France	16:00:00	T-2	C63	M88
+AF 5712	FLL Fort Lauderdale	Air France	16:00:00	T-2	C63	M88
+AF 5729 �	MSP Minneapolis	Air France	16:00:00	T-4	B46	CR9
+AF 5729 �	MSP Minneapolis	Air France	16:00:00	T-4	B46	CR9
+AF 5806	RIC Richmond	Air France	18:45:00	T-4		CRJ
+AF 5896	MIA Miami	Air France	15:30:00	T-2	C62	M88
+AF 5988	SLC Salt Lake City	Air France	15:52:00	T-4	B41	320
+AF 5999	BUF Buffalo	Air France	20:15:00	T-4		CR9
+AF 6086	MCO Orlando	Air France	18:50:00	T-2	C69	M88
+AF 6880	SAT San Antonio	Air France	17:32:00	T-4	B25	319
+AF 6896	PAP Port Au Prince	Air France	08:45:00	T-4	B42	738
+AF 7	CDG Paris	Air France	19:10:00	T-1		388
+AF 7064	ROC Rochester	Air France	15:45:00	T-4	B53	CR9
+AF 7919	BOS Boston	Air France	15:55:00	T-4	B25	717
+AF 7919	BOS Boston	Air France	15:55:00	T-4	B25	717
+AF 7932	TPA Tampa	Air France	14:55:00	T-2	C67	717
+AF 7932	TPA Tampa	Air France	14:55:00	T-2	C67	717
+AF 8670	RDU Raleigh/Durham	Air France	19:25:00	T-4		CR9
+AF 8730	DEN Denver	Air France	18:15:00	T-2	C62	73H
+AF 8762	SJU San Juan	Air France	20:30:00	T-2		738
+AF 8788	LAS Las Vegas	Air France	15:08:00	T-4	B33	738
+AF 8835	DCA Washington	Air France	20:30:00	T-4		CR9
+AF 9	CDG Paris	Air France	23:35:00	T-1		772
+AF 9124	DCA Washington	Air France	15:30:00	T-4	B55	CR9
+AF 9193	DFW Dallas	Air France	18:55:00	T-4		CR9
+AF 9193	DFW Dallas	Air France	18:55:00	T-4		CR9
+AF 9260	BOS Boston	Air France	13:00:00	T-4	B47	CR9
+AF 9260	BOS Boston	Air France	13:00:00	T-4	B47	CR9
+AF 9412	ROC Rochester	Air France	20:10:00	T-4		CR9
+AF 9534	TPA Tampa	Air France	18:45:00	T-4	B42	717
+AI 102	DEL Delhi	Air India	14:25:00	T-4		77W
+AM 401	MEX Mexico City	Aeromexico	00:15:00	T-1	10	738
+AM 403	MEX Mexico City	Aeromexico	16:45:00	T-1	4	738
+AM 405	MEX Mexico City	Aeromexico	09:00:00	T-1	4	738
+AM 405	MEX Mexico City	Aeromexico	09:00:00	T-1	4	738
+AM 409	MEX Mexico City	Aeromexico	13:40:00	T-1	4	788
+AM 415	MTY Monterrey	Aeromexico	15:00:00	T-1	1	EMJ
+AM 415	MTY Monterrey	Aeromexico	15:00:00	T-1	1	EMJ
+AM 417	CUN Cancun	Aeromexico	07:10:00	T-1	9	738
+AM 5279	MEX Mexico City	Aeromexico	09:00:00	T-4	B24	757
+AM 5279	MEX Mexico City	Aeromexico	09:00:00	T-4	B24	757
+AM 5308	PIT Pittsburgh	Aeromexico	21:15:00	T-4		CR9
+AM 5350	BOS Boston	Aeromexico	15:55:00	T-4	B25	717
+AM 5350	BOS Boston	Aeromexico	15:55:00	T-4	B25	717
+AM 5415	BUF Buffalo	Aeromexico	20:15:00	T-4		CR9
+AM 5488	BOS Boston	Aeromexico	17:00:00	T-4	B44	CR9
+AM 5488	BOS Boston	Aeromexico	17:00:00	T-4	B44	CR9
+AM 5489	BOS Boston	Aeromexico	07:00:00	T-4	B37	717
+AM 5489	BOS Boston	Aeromexico	07:00:00	T-4	B37	717
+AM 5490	BOS Boston	Aeromexico	10:30:00	T-4	B22	717
+AM 5494	PHL Philadelphia	Aeromexico	15:30:00	T-4	B53	ERJ
+AM 5496	PHL Philadelphia	Aeromexico	20:10:00	T-4		ERJ
+AM 5514	ATL Atlanta	Aeromexico	06:10:00	T-4	B26	M88
+AM 5515	ATL Atlanta	Aeromexico	08:30:00	T-4	B32	75W
+AM 5517	ATL Atlanta	Aeromexico	17:35:00	T-4	B32	752
+AM 5518	ATL Atlanta	Aeromexico	19:45:00	T-4		738
+AM 5520	ATL Atlanta	Aeromexico	15:35:00	T-2	C68	M88
+AM 5762	BUF Buffalo	Aeromexico	11:45:00	T-4	B45	CR9
+AM 5776	PHL Philadelphia	Aeromexico	08:29:00	T-4	B48	ERJ
+AM 5904	BCN Barcelona	Aeromexico	19:31:00	T-4	B32	764
+AM 6601	MXP Milan	Aeromexico	20:35:00	T-1		330
+AM 6603	FCO Rome	Aeromexico	22:00:00	T-1		330
+AM 6603	FCO Rome	Aeromexico	22:00:00	T-1		330
+AR 1301	EZE Buenos Aires	Aerolineas Argentinas	15:25:00	T-7	3	330
+AS 1001	SFO San Francisco	Alaska Airlines	19:55:00	T-8	C41	32B
+AS 1001	SFO San Francisco	Alaska Airlines	19:55:00	T-8	C41	32B
+AS 1015	LAX Los Angeles	Alaska Airlines	06:00:00	T-8	B12	32B
+AS 1015	LAX Los Angeles	Alaska Airlines	06:00:00	T-8	B12	32B
+AS 1028	LAX Los Angeles	Alaska Airlines	10:00:00	T-8	C38	32B
+AS 1028	LAX Los Angeles	Alaska Airlines	10:00:00	T-8	C38	32B
+AS 1043	SEA Seattle	Alaska Airlines	18:35:00	T-8	C41	738
+AS 1048	LAX Los Angeles	Alaska Airlines	08:00:00	T-8	B3	32B
+AS 1048	LAX Los Angeles	Alaska Airlines	08:00:00	T-8	B3	32B
+AS 1051	LAX Los Angeles	Alaska Airlines	19:45:00	T-8	B1	32B
+AS 1059	LAX Los Angeles	Alaska Airlines	07:00:00	T-8	B5	32B
+AS 1059	LAX Los Angeles	Alaska Airlines	07:00:00	T-8	B5	32B
+AS 1114	BOS Boston	Alaska Airlines	12:40:00	T-8	B3	738
+AS 1219	BOS Boston	Alaska Airlines	07:30:00	T-8	C46	738
+AS 1279	SFO San Francisco	Alaska Airlines	08:00:00	T-8	C44	32B
+AS 1279	SFO San Francisco	Alaska Airlines	08:00:00	T-8	C44	32B
+AS 1288	SFO San Francisco	Alaska Airlines	15:30:00	T-8	B10	32B
+AS 1289	SFO San Francisco	Alaska Airlines	17:45:00	T-8	C39	32B
+AS 1291	BOS Boston	Alaska Airlines	16:00:00	T-8	C43	738
+AS 1291	BOS Boston	Alaska Airlines	16:00:00	T-8	C43	738
+AS 1296	SFO San Francisco	Alaska Airlines	10:30:00	T-8	C46	32B
+AS 1321	BOS Boston	Alaska Airlines	20:25:00	T-8	B2	738
+AS 1747	LAX Los Angeles	Alaska Airlines	12:30:00	T-8	C41	32B
+AS 1766	LAX Los Angeles	Alaska Airlines	11:00:00	T-8	C40	32B
+AS 1766	LAX Los Angeles	Alaska Airlines	11:00:00	T-8	C40	32B
+AS 1773	LAX Los Angeles	Alaska Airlines	18:45:00	T-8	C44	32B
+AS 1817	LAX Los Angeles	Alaska Airlines	14:45:00	T-8	C46	32B
+AS 1822	LAX Los Angeles	Alaska Airlines	16:30:00	T-8	C39	32B
+AS 1838	LAX Los Angeles	Alaska Airlines	17:30:00	T-8	C42	32B
+AS 1841	LAX Los Angeles	Alaska Airlines	20:55:00	T-8	C36	32B
+AS 1841	LAX Los Angeles	Alaska Airlines	20:55:00	T-8	C36	32B
+AS 1979	LAX Los Angeles	Alaska Airlines	09:00:00	T-8	B2	32B
+AS 1979	LAX Los Angeles	Alaska Airlines	09:00:00	T-8	B2	32B
+AS 5088	SLC Salt Lake City	Alaska Airlines	11:50:00	T-4	B37	73H
+AS 5185	SLC Salt Lake City	Alaska Airlines	15:52:00	T-4	B41	320
+AS 5238	SLC Salt Lake City	Alaska Airlines	17:35:00	T-4	B20	73H
+AS 5244 �	SEA Seattle	Alaska Airlines	16:05:00	T-4	B38	73H
+AS 5244 �	SEA Seattle	Alaska Airlines	16:05:00	T-4	B38	73H
+AS 5616	SEA Seattle	Alaska Airlines	18:15:00	T-4	B35	738
+AS 5766	SEA Seattle	Alaska Airlines	09:00:00	T-4	B37	738
+AS 5766	SEA Seattle	Alaska Airlines	09:00:00	T-4	B37	738
+AS 6131	SLC Salt Lake City	Alaska Airlines	07:00:00	T-4	B35	752
+AS 6131	SLC Salt Lake City	Alaska Airlines	07:00:00	T-4	B35	752
+AT 201	CMN Casablanca	Royal Air Maroc	18:15:00	T-1		788
+MH 9103	NRT Tokyo	Malaysia Airlines	09:25:00	T-1	3	788
+MH 9105	NRT Tokyo	Malaysia Airlines	12:15:00	T-1	6	773
+MH 9331	MIA Miami	Malaysia Airlines	14:03:00	T-8	C42	757
+MH 9331	MIA Miami	Malaysia Airlines	14:03:00	T-8	C42	757
+MH 9337	AUS Austin	Malaysia Airlines	17:00:00	T-8	B1	738
+MH 9337	AUS Austin	Malaysia Airlines	17:00:00	T-8	B1	738
+MH 9374	MIA Miami	Malaysia Airlines	19:43:00	T-8	C46	757
+MH 9377	DFW Dallas	Malaysia Airlines	16:15:00	T-8	C45	738
+MH 9383	MIA Miami	Malaysia Airlines	06:50:00	T-8	C36	757
+MH 9410	LHR London	Malaysia Airlines	20:30:00	T-8	B4	77W
+MH 9412	CDG Paris	Malaysia Airlines	17:10:00	T-8	C47	763
+MH 9446	MIA Miami	Malaysia Airlines	05:45:00	T-8	B1	738
+MH 9465	MIA Miami	Malaysia Airlines	10:45:00	T-8	C39	738
+MH 9469	MCO Orlando	Malaysia Airlines	14:59:00	T-8	B2	738
+MH 9469	MCO Orlando	Malaysia Airlines	14:59:00	T-8	B2	738
+MH 9471	MIA Miami	Malaysia Airlines	17:00:00	T-8	C44	757
+MH 9471	MIA Miami	Malaysia Airlines	17:00:00	T-8	C44	757
+MH 9532	MIA Miami	Malaysia Airlines	08:20:00	T-8	B6	757
+MH 9540	BOS Boston	Malaysia Airlines	20:25:00	T-8	B2	738
+MH 9570	ORD Chicago	Malaysia Airlines	17:10:00	T-8	C37	738
+MH 9622	BOS Boston	Malaysia Airlines	16:00:00	T-8	C43	738
+MH 9622	BOS Boston	Malaysia Airlines	16:00:00	T-8	C43	738
+AV 21	BOG Bogota	AVIANCA	06:35:00	T-4		330
+AV 2250	LAX Los Angeles	AVIANCA	17:00:00	T-7	12	757
+AV 2250	LAX Los Angeles	AVIANCA	17:00:00	T-7	12	757
+AV 2252	SFO San Francisco	AVIANCA	18:16:00	T-7	10	757
+AV 243	CTG Cartagena	AVIANCA	06:55:00	T-4		319
+AV 243	CTG Cartagena	AVIANCA	06:55:00	T-4		319
+AV 245	BOG Bogota	AVIANCA	00:15:00	T-4		319
+AV 43	MDE Medellin	AVIANCA	07:55:00	T-4		319
+AV 43	MDE Medellin	AVIANCA	07:55:00	T-4		319
+AV 43	EOH Medellin	AVIANCA	08:06:00			
+AV 571	SAL San Salvador	AVIANCA	09:30:00	T-4		320
+AV 575	SAP San Pedro Sula	AVIANCA	02:50:00	T-4		320
+AV 671	SAL San Salvador	AVIANCA	03:55:00	T-4		319
+AY 4004	BCN Barcelona	Finnair	17:25:00	T-8	B8	763
+AY 4008	MAD Madrid	Finnair	19:15:00	T-8	B7	757
+AY 4012	LHR London	Finnair	18:22:00	T-8	B6	77W
+AY 4016	LHR London	Finnair	20:30:00	T-8	B4	77W
+AY 4018	LHR London	Finnair	19:31:00	T-8	B14	77W
+AY 4024	ZRH Zurich	Finnair	18:05:00	T-8	B2	763
+AY 4024	ZRH Zurich	Finnair	18:05:00	T-8	B2	763
+AY 4162	PHX Phoenix	Finnair	13:30:00	T-8	C36	321
+AY 4164	PHX Phoenix	Finnair	06:30:00	T-8	C38	320
+AY 4166	PHX Phoenix	Finnair	09:59:00	T-8	C35	320
+AY 4166	PHX Phoenix	Finnair	09:59:00	T-8	C35	320
+AY 4170	PHX Phoenix	Finnair	16:20:00	T-8	C34	321
+AY 4174	CLT Charlotte	Finnair	18:30:00	T-8	C34	321
+AY 4176	CLT Charlotte	Finnair	12:00:00	T-8	C34	320
+AY 4176	CLT Charlotte	Finnair	12:00:00	T-8	C34	320
+AY 4178	CLT Charlotte	Finnair	10:15:00	T-8	C34	320
+AY 4180	CLT Charlotte	Finnair	16:55:00	T-8	C38	320
+AY 4180	CLT Charlotte	Finnair	16:55:00	T-8	C38	320
+AY 4186	CLT Charlotte	Finnair	06:20:00	T-8	C35	321
+AY 5402	LCY London	Finnair	18:55:00	T-7		318
+AY 5402	LCY London	Finnair	18:55:00	T-7		318
+AY 5472	LHR London	Finnair	21:00:00	T-7		744
+AY 5472	LHR London	Finnair	21:00:00	T-7		744
+AY 5474	LHR London	Finnair	18:55:00	T-7		744
+AY 5474	LHR London	Finnair	18:55:00	T-7		744
+AY 5476	LHR London	Finnair	19:20:00	T-7		744
+AY 5478	LHR London	Finnair	08:30:00	T-7		744
+AY 5482	LHR London	Finnair	23:05:00	T-7		777
+AY 5482	LHR London	Finnair	23:05:00	T-7		777
+AY 5512	LHR London	Finnair	18:30:00	T-7		744
+AY 5514	LHR London	Finnair	21:30:00	T-7		777
+AY 5516	LHR London	Finnair	20:00:00	T-7		744
+AY 5516	LHR London	Finnair	20:00:00	T-7		744
+AY 5654	MAD Madrid	Finnair	17:25:00	T-7		333
+AY 5656	MAD Madrid	Finnair	20:30:00	T-7		333
+AY 5671	YUL Montreal	Finnair	21:20:00	T-8	C31B	ERD
+AY 5673	ORD Chicago	Finnair	17:10:00	T-8	C37	738
+AY 5681	YYZ Toronto	Finnair	20:15:00	T-8	C31D	CR7
+AY 5685	CMH Columbus	Finnair	18:50:00	T-8	C31B	ERD
+AY 5691	RDU Raleigh/Durham	Finnair	19:55:00	T-8	C31C	ERD
+AY 5691	RDU Raleigh/Durham	Finnair	19:55:00	T-8	C31C	ERD
+AY 5695	BOS Boston	Finnair	20:25:00	T-8	B2	738
+AY 5703	DCA Washington	Finnair	21:42:00	T-8	C31D	CR7
+AY 5711	MIA Miami	Finnair	19:43:00	T-8	C46	757
+AY 5723	DCA Washington	Finnair	17:29:00	T-8	C32G	CR7
+AY 5731	LAX Los Angeles	Finnair	18:45:00	T-8	C44	32B
+AY 5737	SEA Seattle	Finnair	18:35:00	T-8	C41	738
+AY 5739	SFO San Francisco	Finnair	17:45:00	T-8	C39	32B
+AY 5741	SAN San Diego	Finnair	17:20:00	T-8	C46	738
+AY 5745	LAX Los Angeles	Finnair	17:30:00	T-8	C42	32B
+AY 5747	SFO San Francisco	Finnair	19:55:00	T-8	C41	32B
+AY 5747	SFO San Francisco	Finnair	19:55:00	T-8	C41	32B
+AY 5761	LAS Las Vegas	Finnair	17:29:00	T-8	C42	738
+AY 5790	MAN Manchester	Finnair	19:25:00	T-8	C35	757
+AY 5798	MXP Milan	Finnair	18:00:00	T-8	B12	763
+AY 5798	MXP Milan	Finnair	18:00:00	T-8	B12	763
+AY 5808	CDG Paris	Finnair	21:05:00	T-8	C37	757
+AY 5808	CDG Paris	Finnair	21:05:00	T-8	C37	757
+AY 5810	CDG Paris	Finnair	17:10:00	T-8	C47	763
+AY 6	HEL Helsinki	Finnair	17:45:00	T-8		333
+1I 281	TEB Teterboro	NetJets Aviation	11:40:00		
+AZ 3058	MEX Mexico City	Alitalia	16:45:00	T-1	4	738
+AZ 3086	LAX Los Angeles	Alitalia	17:00:00	T-4	B36	76W
+AZ 3086	LAX Los Angeles	Alitalia	17:00:00	T-4	B36	76W
+AZ 3112	LAS Las Vegas	Alitalia	17:00:00	T-4	B22	738
+AZ 3112	LAS Las Vegas	Alitalia	17:00:00	T-4	B22	738
+AZ 3120	SAN San Diego	Alitalia	19:15:00	T-4		738
+AZ 3122	ROC Rochester	Alitalia	15:45:00	T-4	B53	CR9
+AZ 3151	BOS Boston	Alitalia	15:55:00	T-4	B25	717
+AZ 3151	BOS Boston	Alitalia	15:55:00	T-4	B25	717
+AZ 3154	PHX Phoenix	Alitalia	17:10:00	T-4	B37	73H
+AZ 3205	BUF Buffalo	Alitalia	15:30:00	T-4	B44	CR9
+AZ 3216	DCA Washington	Alitalia	15:30:00	T-4	B55	CR9
+AZ 3232	TPA Tampa	Alitalia	18:45:00	T-4	B42	717
+AZ 3236	MCO Orlando	Alitalia	18:50:00	T-2	C69	M88
+AZ 3242	MIA Miami	Alitalia	18:45:00	T-2	C63	M88
+AZ 3243	MSY New Orleans	Alitalia	13:59:00	T-4	B35	319
+AZ 3243	MSY New Orleans	Alitalia	13:59:00	T-4	B35	319
+AZ 3251	ORD Chicago	Alitalia	16:15:00	T-4	B45	CR9
+AZ 3263	MCO Orlando	Alitalia	16:04:00	T-2	C69	M88
+AZ 3263	MCO Orlando	Alitalia	16:04:00	T-2	C69	M88
+AZ 3285	ROC Rochester	Alitalia	20:10:00	T-4		CR9
+AZ 3288 �	SEA Seattle	Alitalia	16:05:00	T-4	B38	73H
+AZ 3288 �	SEA Seattle	Alitalia	16:05:00	T-4	B38	73H
+AZ 3290	SFO San Francisco	Alitalia	15:15:00	T-4	B34	75W
+AZ 3301	SLC Salt Lake City	Alitalia	17:35:00	T-4	B20	73H
+AZ 3302	SLC Salt Lake City	Alitalia	19:05:00	T-2	C68	757
+AZ 3302	SLC Salt Lake City	Alitalia	19:05:00	T-2	C68	757
+AZ 3307	TPA Tampa	Alitalia	14:55:00	T-2	C67	717
+AZ 3307	TPA Tampa	Alitalia	14:55:00	T-2	C67	717
+AZ 3333	AUS Austin	Alitalia	17:35:00	T-2	C70	738
+AZ 3342	BOS Boston	Alitalia	17:00:00	T-4	B44	CR9
+AZ 3342	BOS Boston	Alitalia	17:00:00	T-4	B44	CR9
+AZ 3348	SLC Salt Lake City	Alitalia	15:52:00	T-4	B41	320
+AZ 3351	DFW Dallas	Alitalia	18:55:00	T-4		CR9
+AZ 3351	DFW Dallas	Alitalia	18:55:00	T-4		CR9
+AZ 3353	JAX Jacksonville	Alitalia	14:45:00	T-4	B45	CR9
+AZ 3357	FLL Fort Lauderdale	Alitalia	16:00:00	T-2	C63	M88
+AZ 3357	FLL Fort Lauderdale	Alitalia	16:00:00	T-2	C63	M88
+AZ 3367	MSY New Orleans	Alitalia	18:29:00	T-4	B47	319
+AZ 3371	SEA Seattle	Alitalia	18:15:00	T-4	B35	738
+AZ 3378	RDU Raleigh/Durham	Alitalia	16:30:00	T-4	B51	CR9
+AZ 3405	RDU Raleigh/Durham	Alitalia	19:25:00	T-4		CR9
+AZ 3406	CLE Cleveland	Alitalia	14:25:00	T-4	B51	CR9
+AZ 3411	FLL Fort Lauderdale	Alitalia	18:59:00	T-4	B33	M88
+AZ 3411	FLL Fort Lauderdale	Alitalia	18:59:00	T-4	B33	M88
+AZ 3419 �	MSP Minneapolis	Alitalia	16:00:00	T-4	B46	CR9
+AZ 3419 �	MSP Minneapolis	Alitalia	16:00:00	T-4	B46	CR9
+AZ 3476	LAS Las Vegas	Alitalia	19:51:00	T-2		738
+AZ 3488	LAX Los Angeles	Alitalia	15:23:00	T-4	B30	76W
+AZ 3489	LAX Los Angeles	Alitalia	18:15:00	T-4	B41	75W
+AZ 3505	YYZ Toronto	Alitalia	15:30:00	T-4	B42	CR7
+AZ 3508	SFO San Francisco	Alitalia	16:30:00	T-4	B35	75W
+AZ 3717	CDG Paris	Alitalia	16:15:00	T-1		332
+AZ 3718	CDG Paris	Alitalia	19:10:00	T-1		388
+AZ 3719	CDG Paris	Alitalia	21:50:00	T-1		77W
+AZ 3720	CDG Paris	Alitalia	23:35:00	T-1		772
+AZ 5800	ATL Atlanta	Alitalia	15:35:00	T-2	C68	M88
+AZ 5803	ATL Atlanta	Alitalia	19:45:00	T-4		738
+AZ 5841	BOS Boston	Alitalia	20:05:00	T-4		717
+AZ 5841	BOS Boston	Alitalia	20:05:00	T-4		717
+AZ 5855	BUF Buffalo	Alitalia	20:15:00	T-4		CR9
+AZ 5857	YYZ Toronto	Alitalia	20:50:00	T-4		CR7
+AZ 5858	ATL Atlanta	Alitalia	17:35:00	T-4	B32	752
+AZ 5881	DCA Washington	Alitalia	20:30:00	T-4		CR9
+AZ 5882	ORD Chicago	Alitalia	19:50:00	T-4		CR9
+AZ 5884	JAX Jacksonville	Alitalia	20:15:00	T-4		CR9
+AZ 5886	PIT Pittsburgh	Alitalia	14:59:00	T-4	B43	CR9
+AZ 5886	PIT Pittsburgh	Alitalia	14:59:00	T-4	B43	CR9
+AZ 5894	LAS Las Vegas	Alitalia	15:08:00	T-4	B33	738
+AZ 5896	MIA Miami	Alitalia	15:30:00	T-2	C62	M88
+AZ 5902	PIT Pittsburgh	Alitalia	21:15:00	T-4		CR9
+AZ 5903	RIC Richmond	Alitalia	18:45:00	T-4		CRJ
+AZ 5910	CDG Paris	Alitalia	19:25:00	T-4		333
+AZ 5913	CVG Cincinnati	Alitalia	16:45:00	T-4	B45	CR9
+AZ 5923	LAX Los Angeles	Alitalia	21:15:00	T-4		76W
+AZ 60	FCO Rome	Alitalia	17:05:00			
+AZ 605	MXP Milan	Alitalia	20:35:00	T-1		330
+AZ 609	FCO Rome	Alitalia	16:35:00	T-1		330
+AZ 611	FCO Rome	Alitalia	22:00:00	T-1		330
+AZ 611	FCO Rome	Alitalia	22:00:00	T-1		330
+AZ 7603	MXP Milan	Alitalia	18:12:00	T-4	B38	764
+B6 1013	LGB Long Beach	JetBlue Airways	18:11:00	T-5	26	320
+B6 1025	TPA Tampa	JetBlue Airways	08:05:00	T-5	19	320
+B6 1025	TPA Tampa	JetBlue Airways	08:05:00	T-5	19	320
+B6 1041	SAV Savannah	JetBlue Airways	14:49:00	T-5	18	320
+B6 105	ORD Chicago	JetBlue Airways	19:30:00	T-5	20	E90
+B6 1051	CUN Cancun	JetBlue Airways	11:10:00	T-5	17	320
+B6 108	PWM Portland	JetBlue Airways	22:45:00	T-5	4	E90
+B6 1103	SJU San Juan	JetBlue Airways	20:50:00	T-5	7	320
+B6 1119	CLT Charlotte	JetBlue Airways	17:30:00	T-5	7	E90
+B6 1129	RSW Fort Myers	JetBlue Airways	11:46:00	T-5	6	320
+B6 116	SYR Syracuse	JetBlue Airways	09:36:00	T-5	11	E90
+B6 118	BOS Boston	JetBlue Airways	13:59:00	T-5	20	E90
+B6 118	BOS Boston	JetBlue Airways	13:59:00	T-5	20	E90
+B6 1183	MCO Orlando	JetBlue Airways	21:51:00	T-5	12	320
+B6 1185	RDU Raleigh/Durham	JetBlue Airways	17:22:00	T-5	4	E90
+B6 1201	FLL Fort Lauderdale	JetBlue Airways	20:10:00	T-5	23	320
+B6 1205	PDX Portland	JetBlue Airways	20:40:00	T-5	21	320
+B6 1221	NAS Nassau	JetBlue Airways	13:49:00	T-5	19	320
+B6 123	LAX Los Angeles	JetBlue Airways	08:15:00	T-5	24	32S
+B6 1273	CHS Charleston	JetBlue Airways	07:45:00	T-5	3	320
+B6 1295	AUS Austin	JetBlue Airways	20:59:00	T-5	16	320
+B6 1295	AUS Austin	JetBlue Airways	20:59:00	T-5	16	320
+B6 1307	IAD Washington	JetBlue Airways	08:01:00	T-5	27	E90
+B6 1307	IAD Washington	JetBlue Airways	08:01:00	T-5	27	E90
+B6 1318	BOS Boston	JetBlue Airways	12:45:00	T-5	7	E90
+B6 135	PHX Phoenix	JetBlue Airways	19:20:00	T-5	8	320
+B6 1373	CHS Charleston	JetBlue Airways	15:40:00	T-5	5	320
+B6 1403	SJU San Juan	JetBlue Airways	05:39:00	T-5	6	320
+B6 1407	IAD Washington	JetBlue Airways	17:29:00	T-5	3	E90
+B6 1415	SFO San Francisco	JetBlue Airways	11:00:00	T-5		32S
+B6 1415	SFO San Francisco	JetBlue Airways	11:00:00	T-5		32S
+B6 15	SFO San Francisco	JetBlue Airways	06:40:00	T-5	22	32S
+B6 1501	FLL Fort Lauderdale	JetBlue Airways	11:55:00	T-5	3	E90
+B6 1501	FLL Fort Lauderdale	JetBlue Airways	11:55:00	T-5	3	E90
+B6 1503	SJU San Juan	JetBlue Airways	23:59:00	T-5	9	320
+B6 1507	IAD Washington	JetBlue Airways	21:55:00	T-5	15	E90
+B6 1507	IAD Washington	JetBlue Airways	21:55:00	T-5	15	E90
+B6 1533	CTG Cartagena	JetBlue Airways	08:29:00	T-5	22	320
+B6 1537	STI Santiago	JetBlue Airways	09:52:00	T-5	24	320
+B6 1561	BGI Bridgetown	JetBlue Airways	20:59:00	T-5	25	320
+B6 1561	BGI Bridgetown	JetBlue Airways	20:59:00	T-5	25	320
+B6 1601	FLL Fort Lauderdale	JetBlue Airways	16:59:00	T-5	25	321
+B6 1601	FLL Fort Lauderdale	JetBlue Airways	16:59:00	T-5	25	321
+B6 161	SMF Sacramento	JetBlue Airways	19:31:00	T-5	27	320
+B6 163	SRQ Sarasota	JetBlue Airways	07:40:00	T-5	25	320
+B6 1634	BTV Burlington	JetBlue Airways	07:50:00	T-5	4	E90
+B6 167	OAK Oakland	JetBlue Airways	17:11:00	T-5	18	320
+B6 1677	JAX Jacksonville	JetBlue Airways	20:29:00	T-5	26	320
+B6 1691	LIR Liberia	JetBlue Airways	09:45:00	T-5	6	320
+B6 1701	FLL Fort Lauderdale	JetBlue Airways	09:00:00	T-5	3	320
+B6 1701	FLL Fort Lauderdale	JetBlue Airways	09:00:00	T-5	3	320
+B6 1729	RSW Fort Myers	JetBlue Airways	15:45:00	T-5	2	E90
+B6 1731	BDA Bermuda	JetBlue Airways	08:00:00	T-5	10	E90
+B6 1731	BDA Bermuda	JetBlue Airways	08:00:00	T-5	10	E90
+B6 1783	MCO Orlando	JetBlue Airways	13:45:00	T-5	17	320
+B6 1801	FLL Fort Lauderdale	JetBlue Airways	15:54:00	T-5	23	320
+B6 1816	SYR Syracuse	JetBlue Airways	22:29:00	T-5	19	E90
+B6 1817	POS Port Of Spain	JetBlue Airways	11:00:00	T-5	8	320
+B6 1817	POS Port Of Spain	JetBlue Airways	11:00:00	T-5	8	320
+B6 183	MCO Orlando	JetBlue Airways	17:59:00	T-5	16	320
+B6 183	MCO Orlando	JetBlue Airways	17:59:00	T-5	16	320
+B6 1835	PAP Port Au Prince	JetBlue Airways	06:29:00	T-5		320
+B6 189	SAN San Diego	JetBlue Airways	09:30:00	T-5	19	320
+B6 1901	FLL Fort Lauderdale	JetBlue Airways	21:50:00	T-5	8	320
+B6 1917	POS Port Of Spain	JetBlue Airways	20:00:00	T-5	11	320
+B6 1917	POS Port Of Spain	JetBlue Airways	20:00:00	T-5	11	320
+B6 1983	MCO Orlando	JetBlue Airways	10:29:00	T-5	9	320
+B6 2002	BUF Buffalo	JetBlue Airways	22:59:00	T-5	6	E90
+B6 2002	BUF Buffalo	JetBlue Airways	22:59:00	T-5	6	E90
+B6 2053	PBI West Palm Beach	JetBlue Airways	21:55:00	T-5	6	320
+B6 2053	PBI West Palm Beach	JetBlue Airways	21:55:00	T-5	6	320
+B6 208	PWM Portland	JetBlue Airways	09:04:00	T-5	4	E90
+B6 208	PWM Portland	JetBlue Airways	09:04:00	T-5	4	E90
+B6 213	LGB Long Beach	JetBlue Airways	13:55:00	T-5		320
+B6 213	LGB Long Beach	JetBlue Airways	13:55:00	T-5		320
+B6 219	CLT Charlotte	JetBlue Airways	08:10:00	T-5	11	E90
+B6 2202	BUF Buffalo	JetBlue Airways	18:40:00	T-5	2	E90
+B6 223	LAX Los Angeles	JetBlue Airways	09:50:00	T-5	27	32S
+B6 225	TPA Tampa	JetBlue Airways	19:30:00	T-5	1	320
+B6 229	RSW Fort Myers	JetBlue Airways	09:10:00	T-5	25	E90
+B6 23	LAX Los Angeles	JetBlue Airways	06:30:00	T-5	24	32S
+B6 2302	BUF Buffalo	JetBlue Airways	16:30:00	T-5	6	E90
+B6 234	BTV Burlington	JetBlue Airways	22:45:00	T-5	7	E90
+B6 237	STI Santiago	JetBlue Airways	22:25:00	T-5		320
+B6 2402	BUF Buffalo	JetBlue Airways	13:09:00	T-5	21	E90
+B6 2602	BUF Buffalo	JetBlue Airways	10:35:00	T-5	5	E90
+B6 263	SEA Seattle	JetBlue Airways	17:42:00	T-5	27	320
+B6 2702	BUF Buffalo	JetBlue Airways	06:50:00	T-5	6	320
+B6 286	ROC Rochester	JetBlue Airways	14:29:00	T-5	3	E90
+B6 3	SJU San Juan	JetBlue Airways	06:59:00	T-5	9	321
+B6 3	SJU San Juan	JetBlue Airways	06:59:00	T-5	9	321
+B6 301	FLL Fort Lauderdale	JetBlue Airways	14:20:00	T-5	26	320
+B6 308	PWM Portland	JetBlue Airways	13:25:00	T-5	4	E90
+B6 316	SYR Syracuse	JetBlue Airways	12:06:00	T-5	1	E90
+B6 318	BOS Boston	JetBlue Airways	06:45:00	T-5	20	E90
+B6 323	LAX Los Angeles	JetBlue Airways	11:25:00	T-5	22	32S
+B6 325	TPA Tampa	JetBlue Airways	14:30:00	T-5	16	320
+B6 329	RSW Fort Myers	JetBlue Airways	20:46:00	T-5	3	320
+B6 34	BTV Burlington	JetBlue Airways	11:35:00	T-5	4	E90
+B6 353	PBI West Palm Beach	JetBlue Airways	06:00:00	T-5	21	320
+B6 353	PBI West Palm Beach	JetBlue Airways	06:00:00	T-5	21	320
+B6 359	BUR Burbank	JetBlue Airways	17:30:00	T-5		320
+B6 369	PUJ Punta Cana	JetBlue Airways	12:12:00	T-5	25	320
+B6 403	SJU San Juan	JetBlue Airways	10:05:00	T-5	21	320
+B6 403	SJU San Juan	JetBlue Airways	10:05:00	T-5	21	320
+B6 409	SDQ Santo Domingo	JetBlue Airways	12:30:00	T-5	18	320
+B6 411	LAS Las Vegas	JetBlue Airways	09:57:00	T-5	23	320
+B6 411	LAS Las Vegas	JetBlue Airways	09:57:00	T-5	23	320
+B6 415	SFO San Francisco	JetBlue Airways	16:40:00	T-5	24	32S
+B6 418	BOS Boston	JetBlue Airways	20:59:00	T-5	5	320
+B6 418	BOS Boston	JetBlue Airways	20:59:00	T-5	5	320
+B6 421	NAS Nassau	JetBlue Airways	09:00:00	T-5		320
+B6 421	NAS Nassau	JetBlue Airways	09:00:00	T-5		320
+B6 423	LAX Los Angeles	JetBlue Airways	16:00:00	T-5		32S
+B6 423	LAX Los Angeles	JetBlue Airways	16:00:00	T-5		32S
+B6 453	PBI West Palm Beach	JetBlue Airways	06:52:00	T-5	1	320
+B6 477	JAX Jacksonville	JetBlue Airways	14:59:00	T-5	8	320
+B6 477	JAX Jacksonville	JetBlue Airways	14:59:00	T-5	8	320
+B6 479	MBJ Montego Bay	JetBlue Airways	07:03:00	T-5	16	320
+B6 479	MBJ Montego Bay	JetBlue Airways	07:03:00	T-5	16	320
+B6 483	MCO Orlando	JetBlue Airways	09:10:00	T-5	18	320
+B6 486	ROC Rochester	JetBlue Airways	22:29:00	T-5	3	E90
+B6 5006	DXB Dubai	JetBlue Airways	23:00:00	T-4		388
+B6 5006	DXB Dubai	JetBlue Airways	23:00:00	T-4		388
+B6 5008	DXB Dubai	JetBlue Airways	10:40:00	T-4		388
+B6 5010	MXP Milan	JetBlue Airways	22:20:00	T-1		77W
+B6 509	SDQ Santo Domingo	JetBlue Airways	09:27:00	T-5	16	320
+B6 518	BOS Boston	JetBlue Airways	10:30:00	T-5	20	E90
+B6 5201	JNB Johannesburg	JetBlue Airways	10:40:00	T-4		343
+B6 523	LAX Los Angeles	JetBlue Airways	18:35:00	T-5	22	32S
+B6 5307	FRA Frankfurt	JetBlue Airways	20:25:00	T-4		388
+B6 553	PBI West Palm Beach	JetBlue Airways	13:05:00	T-5	9	320
+B6 553	PBI West Palm Beach	JetBlue Airways	13:05:00	T-5	9	320
+B6 557	AUA Aruba	JetBlue Airways	06:59:00	T-5	27	320
+B6 557	AUA Aruba	JetBlue Airways	06:59:00	T-5	27	320
+B6 575 �	MSY New Orleans	JetBlue Airways	15:00:00	T-5	1	E90
+B6 575 �	MSY New Orleans	JetBlue Airways	15:00:00	T-5	1	E90
+B6 581	HOU Houston	JetBlue Airways	14:20:00	T-5	14	E90
+B6 583	MCO Orlando	JetBlue Airways	06:00:00	T-5	3	320
+B6 583	MCO Orlando	JetBlue Airways	06:00:00	T-5	3	320
+B6 586	ROC Rochester	JetBlue Airways	09:30:00	T-5	7	320
+B6 59	KIN Kingston	JetBlue Airways	14:54:00	T-5	22	320
+B6 601	FLL Fort Lauderdale	JetBlue Airways	06:05:00	T-5	25	320
+B6 601	FLL Fort Lauderdale	JetBlue Airways	06:05:00	T-5	25	320
+B6 609	SDQ Santo Domingo	JetBlue Airways	23:59:00	T-5	14	320
+B6 611	LAS Las Vegas	JetBlue Airways	21:30:00	T-5	27	320
+B6 615	SFO San Francisco	JetBlue Airways	08:59:00	T-5	26	32S
+B6 615	SFO San Francisco	JetBlue Airways	08:59:00	T-5	26	32S
+B6 621	NAS Nassau	JetBlue Airways	06:45:00	T-5	18	320
+B6 623	LAX Los Angeles	JetBlue Airways	21:10:00	T-5	22	32S
+B6 627	POP Puerto Plata	JetBlue Airways	09:25:00	T-5	5	320
+B6 637	STI Santiago	JetBlue Airways	05:35:00	T-5	19	321
+B6 6465	PAE Everett	JetBlue Airways	07:30:00	T-5	11	
+B6 65	ABQ Albuquerque	JetBlue Airways	20:00:00	T-5	4	320
+B6 65	ABQ Albuquerque	JetBlue Airways	20:00:00	T-5	4	320
+B6 653	PBI West Palm Beach	JetBlue Airways	08:30:00	T-5	2	320
+B6 661	BGI Bridgetown	JetBlue Airways	08:20:00	T-5	8	321
+B6 669	SJC San Jose	JetBlue Airways	18:30:00	T-5	17	320
+B6 675	MSY New Orleans	JetBlue Airways	06:45:00	T-5	4	320
+B6 677	JAX Jacksonville	JetBlue Airways	08:00:00	T-5	5	320
+B6 677	JAX Jacksonville	JetBlue Airways	08:00:00	T-5	5	320
+B6 683	MCO Orlando	JetBlue Airways	08:00:00	T-5	7	320
+B6 683	MCO Orlando	JetBlue Airways	08:00:00	T-5	7	320
+B6 702	BUF Buffalo	JetBlue Airways	21:36:00	T-5	9	E90
+B6 703	SJU San Juan	JetBlue Airways	14:54:00	T-5	25	320
+B6 71	SLC Salt Lake City	JetBlue Airways	18:45:00	T-5	23	320
+B6 711	LAS Las Vegas	JetBlue Airways	18:56:00	T-5		320
+B6 711	LAS Las Vegas	JetBlue Airways	18:56:00	T-5		320
+B6 718	BOS Boston	JetBlue Airways	22:55:00	T-5		320
+B6 718	BOS Boston	JetBlue Airways	22:55:00	T-5		320
+B6 745	PSE Ponce	JetBlue Airways	23:59:00	T-5	11	320
+B6 751	CUN Cancun	JetBlue Airways	07:29:00	T-5	16	320
+B6 753	PBI West Palm Beach	JetBlue Airways	15:59:00	T-5	9	321
+B6 753	PBI West Palm Beach	JetBlue Airways	15:59:00	T-5	9	321
+B6 757	AUA Aruba	JetBlue Airways	11:29:00	T-5		320
+B6 765	GCM Grand Cayman Island	JetBlue Airways	08:20:00	T-5	9	320
+B6 779	MBJ Montego Bay	JetBlue Airways	09:41:00	T-5	15	320
+B6 787	SXM Sint Maarten	JetBlue Airways	08:25:00	T-5	1	320
+B6 795	AUS Austin	JetBlue Airways	08:45:00	T-5	21	320
+B6 803	SJU San Juan	JetBlue Airways	19:30:00	T-5	9	320
+B6 83	MCO Orlando	JetBlue Airways	15:30:00	T-5	12	320
+B6 837	STI Santiago	JetBlue Airways	13:11:00	T-5	23	320
+B6 839	BQN Aguadilla	JetBlue Airways	23:59:00	T-5	21	320
+B6 841	SAV Savannah	JetBlue Airways	07:50:00	T-5	18	320
+B6 855	PLS Providenciales	JetBlue Airways	10:59:00	T-5	26	320
+B6 855	PLS Providenciales	JetBlue Airways	10:59:00	T-5	26	320
+B6 869	PUJ Punta Cana	JetBlue Airways	08:21:00	T-5	23	320
+B6 881	UVF Saint Lucia	JetBlue Airways	08:25:00	T-5	21	320
+B6 883	MCO Orlando	JetBlue Airways	20:00:00	T-5		320
+B6 883	MCO Orlando	JetBlue Airways	20:00:00	T-5		320
+B6 885	RDU Raleigh/Durham	JetBlue Airways	07:40:00	T-5	6	E90
+B6 89	SAN San Diego	JetBlue Airways	16:41:00	T-5		320
+B6 9	SDQ Santo Domingo	JetBlue Airways	15:30:00	T-5	27	321
+B6 901	FLL Fort Lauderdale	JetBlue Airways	07:50:00	T-5	15	321
+B6 905	ORD Chicago	JetBlue Airways	08:52:00	T-5	17	320
+B6 915	SFO San Francisco	JetBlue Airways	20:30:00	T-5	24	32S
+B6 918	BOS Boston	JetBlue Airways	16:30:00	T-5	20	E90
+B6 925	TPA Tampa	JetBlue Airways	09:48:00	T-5	2	320
+B6 929	RSW Fort Myers	JetBlue Airways	06:15:00	T-5	2	320
+B6 97	DEN Denver	JetBlue Airways	20:29:00	T-5	18	320
+DY 7002	OSL Oslo	Norwegian Air Shuttle	21:30:00			788
+DY 7006	ARN Stockholm	Norwegian Air Shuttle	21:30:00			788
+DY 7012	CPH Copenhagen	Norwegian Air Shuttle	22:30:00			788
+BA 112	LHR London	British Airways	18:30:00	T-7		744
+BA 114	LHR London	British Airways	21:30:00	T-7		777
+BA 116	LHR London	British Airways	20:00:00	T-7		744
+BA 116	LHR London	British Airways	20:00:00	T-7		744
+BA 1511	LHR London	British Airways	18:22:00	T-8	B6	77W
+BA 1515	LHR London	British Airways	20:30:00	T-8	B4	77W
+BA 1517	LHR London	British Airways	19:31:00	T-8	B14	77W
+BA 1534	CDG Paris	British Airways	17:10:00	T-8	C47	763
+BA 1552	MAN Manchester	British Airways	19:25:00	T-8	C35	757
+BA 1556	BCN Barcelona	British Airways	17:25:00	T-8	B8	763
+BA 1566	MAD Madrid	British Airways	19:15:00	T-8	B7	757
+BA 1570	CDG Paris	British Airways	21:05:00	T-8	C37	757
+BA 1570	CDG Paris	British Airways	21:05:00	T-8	C37	757
+BA 1582	MXP Milan	British Airways	18:00:00	T-8	B12	763
+BA 1582	MXP Milan	British Airways	18:00:00	T-8	B12	763
+BA 172	LHR London	British Airways	21:00:00	T-7		744
+BA 172	LHR London	British Airways	21:00:00	T-7		744
+BA 174	LHR London	British Airways	18:55:00	T-7		744
+BA 174	LHR London	British Airways	18:55:00	T-7		744
+BA 176	LHR London	British Airways	19:20:00	T-7		744
+BA 178	LHR London	British Airways	08:30:00	T-7		744
+BA 182	LHR London	British Airways	23:05:00	T-7		777
+BA 182	LHR London	British Airways	23:05:00	T-7		777
+BA 2	LCY London	British Airways	18:55:00	T-7		318
+BA 2	LCY London	British Airways	18:55:00	T-7		318
+BA 2472	IND Indianapolis	British Airways	15:30:00	T-8	C32H	ER4
+BA 2475	ORF Norfolk	British Airways	15:30:00	T-8	C31C	ER4
+BA 2477	CVG Cincinnati	British Airways	15:10:00	T-8	C32F	ER4
+BA 2501	MIA Miami	British Airways	19:43:00	T-8	C46	757
+BA 2524	LAX Los Angeles	British Airways	12:30:00	T-8	C41	32B
+BA 4268	MAD Madrid	British Airways	20:30:00	T-7		333
+BA 4270	MAD Madrid	British Airways	17:25:00	T-7		333
+BA 4310	LAX Los Angeles	British Airways	06:00:00	T-8	B12	32B
+BA 4310	LAX Los Angeles	British Airways	06:00:00	T-8	B12	32B
+BA 4312	LAX Los Angeles	British Airways	19:45:00	T-8	B1	32B
+BA 4319	LAX Los Angeles	British Airways	11:00:00	T-8	C40	32B
+BA 4319	LAX Los Angeles	British Airways	11:00:00	T-8	C40	32B
+BA 4321	LAX Los Angeles	British Airways	18:45:00	T-8	C44	32B
+BA 4326	LAX Los Angeles	British Airways	08:00:00	T-8	B3	32B
+BA 4326	LAX Los Angeles	British Airways	08:00:00	T-8	B3	32B
+BA 4329	SFO San Francisco	British Airways	08:00:00	T-8	C44	32B
+BA 4329	SFO San Francisco	British Airways	08:00:00	T-8	C44	32B
+BA 4330	SFO San Francisco	British Airways	15:30:00	T-8	B10	32B
+BA 4331	LAX Los Angeles	British Airways	14:45:00	T-8	C46	32B
+BA 4333	LAX Los Angeles	British Airways	16:30:00	T-8	C39	32B
+BA 4334	SFO San Francisco	British Airways	17:45:00	T-8	C39	32B
+BA 4335	SFO San Francisco	British Airways	19:55:00	T-8	C41	32B
+BA 4335	SFO San Francisco	British Airways	19:55:00	T-8	C41	32B
+BA 4337	LAX Los Angeles	British Airways	17:30:00	T-8	C42	32B
+BA 4338	LAX Los Angeles	British Airways	20:55:00	T-8	C36	32B
+BA 4338	LAX Los Angeles	British Airways	20:55:00	T-8	C36	32B
+BA 4350	MIA Miami	British Airways	06:50:00	T-8	C36	757
+BA 4352	MIA Miami	British Airways	14:03:00	T-8	C42	757
+BA 4352	MIA Miami	British Airways	14:03:00	T-8	C42	757
+BA 4358	DFW Dallas	British Airways	16:15:00	T-8	C45	738
+BA 4362	MIA Miami	British Airways	08:20:00	T-8	B6	757
+BA 4364	MIA Miami	British Airways	10:45:00	T-8	C39	738
+BA 4367	MIA Miami	British Airways	05:45:00	T-8	B1	738
+BA 4382	MIA Miami	British Airways	17:00:00	T-8	C44	757
+BA 4382	MIA Miami	British Airways	17:00:00	T-8	C44	757
+BA 4433	ORD Chicago	British Airways	17:10:00	T-8	C37	738
+BA 4605	NRT Tokyo	British Airways	12:15:00	T-1	6	773
+BA 4676	MCO Orlando	British Airways	14:59:00	T-8	B2	738
+BA 4676	MCO Orlando	British Airways	14:59:00	T-8	B2	738
+BA 4769	SJU San Juan	British Airways	16:00:00	T-8	C40	757
+BA 4769	SJU San Juan	British Airways	16:00:00	T-8	C40	757
+BA 5104	YYZ Toronto	British Airways	20:15:00	T-8	C31D	CR7
+BA 5136	CLE Cleveland	British Airways	15:10:00	T-8	C31B	ER4
+BA 5209	YYZ Toronto	British Airways	14:57:00	T-8	C31D	CR7
+BA 5209	YYZ Toronto	British Airways	14:57:00	T-8	C31D	CR7
+BA 5212	CMH Columbus	British Airways	15:30:00	T-8	C31E	ER4
+BA 5242	BOS Boston	British Airways	16:00:00	T-8	C43	738
+BA 5242	BOS Boston	British Airways	16:00:00	T-8	C43	738
+BA 5355	DCA Washington	British Airways	15:50:00	T-8	C43	738
+BA 5399	RDU Raleigh/Durham	British Airways	15:05:00	T-8	C31A	ERD
+BA 5399	RDU Raleigh/Durham	British Airways	15:05:00	T-8	C31A	ERD
+BA 5521	RDU Raleigh/Durham	British Airways	19:55:00	T-8	C31C	ERD
+BA 5521	RDU Raleigh/Durham	British Airways	19:55:00	T-8	C31C	ERD
+BA 5704	SEA Seattle	British Airways	18:35:00	T-8	C41	738
+BA 5751	YUL Montreal	British Airways	15:03:00	T-8	C32G	ERD
+BA 5751	YUL Montreal	British Airways	15:03:00	T-8	C32G	ERD
+BA 5771	YUL Montreal	British Airways	21:20:00	T-8	C31B	ERD
+BA 6006	HEL Helsinki	British Airways	17:45:00	T-8		333
+BA 6799	SJU San Juan	British Airways	08:30:00	T-8	B7	757
+BA 6921	BNA Nashville	British Airways	16:55:00	T-8	C31D	ER4
+BA 6921	BNA Nashville	British Airways	16:55:00	T-8	C31D	ER4
+BA 7833	CMH Columbus	British Airways	18:50:00	T-8	C31B	ERD
+BA 7840	LAS Las Vegas	British Airways	17:29:00	T-8	C42	738
+BA 7868	PIT Pittsburgh	British Airways	15:14:00	T-8	C32I	E75
+BA 7883	YUL Montreal	British Airways	09:20:00	T-8	C31C	ERD
+BA 7905	SAN San Diego	British Airways	17:20:00	T-8	C46	738
+BA 8006	ORY Paris	British Airways	21:30:00	T-7		752
+BA 8405	BOS Boston	British Airways	07:30:00	T-8	C46	738
+BA 8406	BOS Boston	British Airways	12:40:00	T-8	B3	738
+BA 8408	BOS Boston	British Airways	20:25:00	T-8	B2	738
+BA 8411	BWI Baltimore	British Airways	16:29:00	T-8	C32G	ER4
+BA 8665	LAS Las Vegas	British Airways	06:35:00	T-8	C39	738
+BA 8687	AUS Austin	British Airways	17:00:00	T-8	B1	738
+BA 8687	AUS Austin	British Airways	17:00:00	T-8	B1	738
+BR 31	TPE Taipei	EVA Air	00:20:00	T-1		77W
+BW 10 �	MBJ Montego Bay	Caribbean Airlines	07:45:00	T-4		738
+BW 16 �	KIN Kingston	Caribbean Airlines	01:55:00	T-4		738
+BW 521 �	POS Port Of Spain	Caribbean Airlines	07:05:00	T-4		738
+BW 521 �	POS Port Of Spain	Caribbean Airlines	07:05:00	T-4		738
+BW 525 �	POS Port Of Spain	Caribbean Airlines	16:40:00	T-4		738
+BW 527 �	GEO Georgetown	Caribbean Airlines	01:35:00	T-4		738
+BW 551 �	POS Port Of Spain	Caribbean Airlines	01:20:00	T-4		763
+CI 11	TPE Taipei	China Airlines	00:55:00	T-4		77W
+CI 5391	SEA Seattle	China Airlines	09:10:00			74Y
+CI 9613	LAX Los Angeles	China Airlines	09:20:00	T-4	A2	320
+CI 9615	LAX Los Angeles	China Airlines	16:55:00	T-4	A2	320
+CI 9615	LAX Los Angeles	China Airlines	16:55:00	T-4	A2	320
+CI 9639	SFO San Francisco	China Airlines	18:50:00	T-4	A2	320
+CM 8005	ICN Seoul	Copa Airlines	13:00:00	T-4		77W
+CM 8005	ICN Seoul	Copa Airlines	13:00:00	T-4		77W
+CM 803	PTY Panama City	Copa Airlines	08:55:00	T-4	A7	738
+CM 803	PTY Panama City	Copa Airlines	08:55:00	T-4	A7	738
+CM 807	PTY Panama City	Copa Airlines	01:10:00	T-4	A7	738
+CM 831	PTY Panama City	Copa Airlines	14:05:00	T-4	A2	738
+CM 831	PTY Panama City	Copa Airlines	14:05:00	T-4	A2	738
+WS 6320	YQB Quebec	WestJet	13:00:00	T-4	B43	ERJ
+WS 6320	YQB Quebec	WestJet	13:00:00	T-4	B43	ERJ
+WS 6354	YUL Montreal	WestJet	19:50:00	T-4		ERJ
+WS 6461	PIT Pittsburgh	WestJet	21:15:00	T-4		CR9
+WS 6464	BWI Baltimore	WestJet	16:10:00	T-4	B48	ERJ
+WS 6469	SJU San Juan	WestJet	20:30:00	T-2		738
+WS 6535	BUF Buffalo	WestJet	20:15:00	T-4		CR9
+WS 6569	YYZ Toronto	WestJet	15:30:00	T-4	B42	CR7
+WS 6589	ATL Atlanta	WestJet	19:45:00	T-4		738
+WS 6592	BOS Boston	WestJet	20:05:00	T-4		717
+WS 6592	BOS Boston	WestJet	20:05:00	T-4		717
+WS 6593	CLE Cleveland	WestJet	19:10:00	T-4		ERJ
+WS 6595	PHL Philadelphia	WestJet	20:10:00	T-4		ERJ
+WS 6657	YYZ Toronto	WestJet	20:50:00	T-4		CR7
+WS 6659	YUL Montreal	WestJet	08:29:00	T-4	B53	CRJ
+WS 6777	YYZ Toronto	WestJet	09:00:00	T-4	B47	CR7
+WS 6777	YYZ Toronto	WestJet	09:00:00	T-4	B47	CR7
+WS 6819	YQB Quebec	WestJet	21:15:00	T-4		ERJ
+WS 6846	RDU Raleigh/Durham	WestJet	19:25:00	T-4		CR9
+WS 6881	IAD Washington	WestJet	19:35:00	T-4		ERJ
+WS 6898	JAX Jacksonville	WestJet	20:15:00	T-4		CR9
+WS 6915	DCA Washington	WestJet	20:30:00	T-4		CR9
+WS 7133	MCO Orlando	WestJet	18:50:00	T-2	C69	M88
+CX 7527	BOS Boston	Cathay Pacific	07:30:00	T-8	C46	738
+CX 7528	CLE Cleveland	Cathay Pacific	15:10:00	T-8	C31B	ER4
+CX 7545	CMH Columbus	Cathay Pacific	15:30:00	T-8	C31E	ER4
+CX 7558	BOS Boston	Cathay Pacific	12:40:00	T-8	B3	738
+CX 7559	MIA Miami	Cathay Pacific	08:20:00	T-8	B6	757
+CX 7560	MIA Miami	Cathay Pacific	05:45:00	T-8	B1	738
+CX 7573	PIT Pittsburgh	Cathay Pacific	15:14:00	T-8	C32I	E75
+CX 7612	MIA Miami	Cathay Pacific	17:00:00	T-8	C44	757
+CX 7612	MIA Miami	Cathay Pacific	17:00:00	T-8	C44	757
+CX 7618	BOS Boston	Cathay Pacific	16:00:00	T-8	C43	738
+CX 7618	BOS Boston	Cathay Pacific	16:00:00	T-8	C43	738
+CX 7698	GRU Sao Paulo	Cathay Pacific	22:40:00	T-8	B14	77W
+CX 7712	GIG Rio De Janeiro	Cathay Pacific	21:35:00	T-8	B3	763
+CX 7720	RDU Raleigh/Durham	Cathay Pacific	15:05:00	T-8	C31A	ERD
+CX 7720	RDU Raleigh/Durham	Cathay Pacific	15:05:00	T-8	C31A	ERD
+CX 7823	SCL Santiago	Cathay Pacific	20:00:00	T-1	8	787
+CX 7823	SCL Santiago	Cathay Pacific	20:00:00	T-1	8	787
+CX 7872	LIM Lima	Cathay Pacific	22:45:00	T-8		763
+CX 831	HKG Hong Kong	Cathay Pacific	13:55:00	T-7		77W
+CX 831	HKG Hong Kong	Cathay Pacific	13:55:00	T-7		77W
+CX 841	HKG Hong Kong	Cathay Pacific	09:00:00	T-7		77W
+CX 841	HKG Hong Kong	Cathay Pacific	09:00:00	T-7		77W
+CX 845	HKG Hong Kong	Cathay Pacific	00:50:00	T-7		77W
+CX 889	YVR Vancouver	Cathay Pacific	21:10:00	T-7		77W
+CX 95	YYC Calgary	Cathay Pacific	22:25:00			74N
+CZ 1002	ATL Atlanta	China Southern Airlines	08:30:00	T-4	B32	75W
+CZ 1018	LAX Los Angeles	China Southern Airlines	15:23:00	T-4	B30	76W
+CZ 1025	SEA Seattle	China Southern Airlines	09:00:00	T-4	B37	738
+CZ 1025	SEA Seattle	China Southern Airlines	09:00:00	T-4	B37	738
+CZ 1028	MSY New Orleans	China Southern Airlines	08:10:00	T-4	B25	319
+CZ 1029	BOS Boston	China Southern Airlines	07:00:00	T-4	B37	717
+CZ 1029	BOS Boston	China Southern Airlines	07:00:00	T-4	B37	717
+CZ 1031	FLL Fort Lauderdale	China Southern Airlines	07:00:00	T-2	C63	M88
+CZ 1031	FLL Fort Lauderdale	China Southern Airlines	07:00:00	T-2	C63	M88
+CZ 1033	MCO Orlando	China Southern Airlines	08:15:00	T-4	B20	M88
+CZ 1060	MIA Miami	China Southern Airlines	08:00:00	T-2	C69	M88
+CZ 1060	MIA Miami	China Southern Airlines	08:00:00	T-2	C69	M88
+CZ 1067	LAX Los Angeles	China Southern Airlines	07:10:00	T-4	B24	76W
+CZ 300	CAN Guangzhou	China Southern Airlines	10:40:00	T-4		77W
+DL 1000	ICN Seoul	Delta Air Lines	12:00:00	T-1		388
+DL 1000	ICN Seoul	Delta Air Lines	12:00:00	T-1		388
+DL 1001	ICN Seoul	Delta Air Lines	00:50:00	T-1		388
+DL 1007	PVG Shanghai	Delta Air Lines	15:25:00	T-1		773
+DL 1011 �	SVO Moscow	Delta Air Lines	19:20:00	T-1		333
+DL 1013 �	SVO Moscow	Delta Air Lines	14:20:00	T-1		333
+DL 1014	CDG Paris	Delta Air Lines	21:50:00	T-1		77W
+DL 1015	CDG Paris	Delta Air Lines	19:10:00	T-1		388
+DL 1016	CDG Paris	Delta Air Lines	16:15:00	T-1		332
+DL 1017	CDG Paris	Delta Air Lines	23:35:00	T-1		772
+DL 1026	MEX Mexico City	Delta Air Lines	09:00:00	T-1	4	738
+DL 1026	MEX Mexico City	Delta Air Lines	09:00:00	T-1	4	738
+DL 1027	CUN Cancun	Delta Air Lines	07:10:00	T-1	9	738
+DL 1033	MEX Mexico City	Delta Air Lines	00:15:00	T-1	10	738
+DL 1034	MEX Mexico City	Delta Air Lines	16:45:00	T-1	4	738
+DL 1035	MEX Mexico City	Delta Air Lines	13:40:00	T-1	4	788
+DL 1040	FCO Rome	Delta Air Lines	16:35:00	T-1		330
+DL 1041	FCO Rome	Delta Air Lines	22:00:00	T-1		330
+DL 1041	FCO Rome	Delta Air Lines	22:00:00	T-1		330
+DL 1046	MXP Milan	Delta Air Lines	20:35:00	T-1		330
+DL 2001	SJU San Juan	Delta Air Lines	20:30:00	T-2		738
+DL 2045	DEN Denver	Delta Air Lines	18:15:00	T-2	C62	73H
+DL 2062	AUS Austin	Delta Air Lines	08:15:00	T-2	C70	319
+DL 2076	PBI West Palm Beach	Delta Air Lines	08:10:00	T-2	C62	M88
+DL 208	MCO Orlando	Delta Air Lines	18:50:00	T-2	C69	M88
+DL 2111	MCO Orlando	Delta Air Lines	08:15:00	T-4	B20	M88
+DL 2152	FLL Fort Lauderdale	Delta Air Lines	16:00:00	T-2	C63	M88
+DL 2152	FLL Fort Lauderdale	Delta Air Lines	16:00:00	T-2	C63	M88
+DL 2190	MIA Miami	Delta Air Lines	08:00:00	T-2	C69	M88
+DL 2190	MIA Miami	Delta Air Lines	08:00:00	T-2	C69	M88
+DL 2300	TPA Tampa	Delta Air Lines	18:45:00	T-4	B42	717
+DL 2311	MIA Miami	Delta Air Lines	15:30:00	T-2	C62	M88
+DL 2364	FLL Fort Lauderdale	Delta Air Lines	07:00:00	T-2	C63	M88
+DL 2364	FLL Fort Lauderdale	Delta Air Lines	07:00:00	T-2	C63	M88
+DL 2407	MCO Orlando	Delta Air Lines	16:04:00	T-2	C69	M88
+DL 2407	MCO Orlando	Delta Air Lines	16:04:00	T-2	C69	M88
+DL 2433	SLC Salt Lake City	Delta Air Lines	19:05:00	T-2	C68	757
+DL 2433	SLC Salt Lake City	Delta Air Lines	19:05:00	T-2	C68	757
+DL 2444	MIA Miami	Delta Air Lines	18:45:00	T-2	C63	M88
+DL 2474	SJU San Juan	Delta Air Lines	08:35:00	T-4	B28	73H
+DL 2485	AUS Austin	Delta Air Lines	17:35:00	T-2	C70	738
+DL 2571	BOS Boston	Delta Air Lines	20:05:00	T-4		717
+DL 2571	BOS Boston	Delta Air Lines	20:05:00	T-4		717
+DL 2577	FLL Fort Lauderdale	Delta Air Lines	18:59:00	T-4	B33	M88
+DL 2577	FLL Fort Lauderdale	Delta Air Lines	18:59:00	T-4	B33	M88
+DL 2595	BOS Boston	Delta Air Lines	15:55:00	T-4	B25	717
+DL 2595	BOS Boston	Delta Air Lines	15:55:00	T-4	B25	717
+DL 2598	FLL Fort Lauderdale	Delta Air Lines	08:35:00	T-2	C68	738
+DL 2647	TPA Tampa	Delta Air Lines	08:05:00	T-2	C63	717
+DL 2647	TPA Tampa	Delta Air Lines	08:05:00	T-2	C63	717
+DL 2649	TPA Tampa	Delta Air Lines	14:55:00	T-2	C67	717
+DL 2649	TPA Tampa	Delta Air Lines	14:55:00	T-2	C67	717
+DL 400	CDG Paris	Delta Air Lines	19:25:00	T-4		333
+DL 4001	RSW Fort Myers	Delta Air Lines	07:40:00	T-4	B51	CR9
+DL 4004	BOS Boston	Delta Air Lines	13:00:00	T-4	B47	CR9
+DL 4004	BOS Boston	Delta Air Lines	13:00:00	T-4	B47	CR9
+DL 4005	BOS Boston	Delta Air Lines	17:00:00	T-4	B44	CR9
+DL 4005	BOS Boston	Delta Air Lines	17:00:00	T-4	B44	CR9
+DL 4006	RIC Richmond	Delta Air Lines	18:45:00	T-4		CRJ
+DL 4007	BUF Buffalo	Delta Air Lines	11:45:00	T-4	B45	CR9
+DL 401	LHR London	Delta Air Lines	19:00:00	T-4	B22	76W
+DL 401	LHR London	Delta Air Lines	19:00:00	T-4	B22	76W
+DL 4010	BUF Buffalo	Delta Air Lines	08:00:00	T-4	B49	CR9
+DL 4010	BUF Buffalo	Delta Air Lines	08:00:00	T-4	B49	CR9
+DL 4011	BUF Buffalo	Delta Air Lines	15:30:00	T-4	B44	CR9
+DL 4016	BUF Buffalo	Delta Air Lines	20:15:00	T-4		CR9
+DL 4018	CLE Cleveland	Delta Air Lines	14:25:00	T-4	B51	CR9
+DL 4019	DTW Detroit	Delta Air Lines	09:15:00	T-4	B55	CR9
+DL 4020	CVG Cincinnati	Delta Air Lines	16:45:00	T-4	B45	CR9
+DL 4022	DCA Washington	Delta Air Lines	09:30:00	T-4	B48	CR9
+DL 4023	DTW Detroit	Delta Air Lines	19:29:00	T-4		CR9
+DL 403	LHR London	Delta Air Lines	22:30:00	T-4		76W
+DL 4031	DCA Washington	Delta Air Lines	15:30:00	T-4	B55	CR9
+DL 4032	DCA Washington	Delta Air Lines	20:30:00	T-4		CR9
+DL 4034	DFW Dallas	Delta Air Lines	18:55:00	T-4		CR9
+DL 4034	DFW Dallas	Delta Air Lines	18:55:00	T-4		CR9
+DL 4037	JAX Jacksonville	Delta Air Lines	08:15:00	T-4	B18	CR9
+DL 4040	JAX Jacksonville	Delta Air Lines	14:45:00	T-4	B45	CR9
+DL 4041	JAX Jacksonville	Delta Air Lines	20:15:00	T-4		CR9
+DL 4043	YUL Montreal	Delta Air Lines	08:29:00	T-4	B53	CRJ
+DL 407	ZRH Zurich	Delta Air Lines	20:21:00	T-4	B35	76W
+DL 4081 �	MSP Minneapolis	Delta Air Lines	16:00:00	T-4	B46	CR9
+DL 4081 �	MSP Minneapolis	Delta Air Lines	16:00:00	T-4	B46	CR9
+DL 409	SJU San Juan	Delta Air Lines	14:59:00	T-4	B22	738
+DL 409	SJU San Juan	Delta Air Lines	14:59:00	T-4	B22	738
+DL 4093	ORD Chicago	Delta Air Lines	08:22:00	T-4	B55	CR9
+DL 4095	ORD Chicago	Delta Air Lines	16:15:00	T-4	B45	CR9
+DL 4099	ORD Chicago	Delta Air Lines	19:50:00	T-4		CR9
+DL 410	FRA Frankfurt	Delta Air Lines	19:43:00	T-4	B34	76W
+DL 4102	PIT Pittsburgh	Delta Air Lines	07:20:00	T-4	B43	CR9
+DL 4104	PIT Pittsburgh	Delta Air Lines	14:59:00	T-4	B43	CR9
+DL 4104	PIT Pittsburgh	Delta Air Lines	14:59:00	T-4	B43	CR9
+DL 4107	PIT Pittsburgh	Delta Air Lines	21:15:00	T-4		CR9
+DL 4108	RDU Raleigh/Durham	Delta Air Lines	07:20:00	T-4	B43	CR9
+DL 411	DUB Dublin	Delta Air Lines	20:59:00	T-4		764
+DL 411	DUB Dublin	Delta Air Lines	20:59:00	T-4		764
+DL 4111	RDU Raleigh/Durham	Delta Air Lines	12:30:00	T-4	B48	CR9
+DL 4113	RDU Raleigh/Durham	Delta Air Lines	16:30:00	T-4	B51	CR9
+DL 4115	RDU Raleigh/Durham	Delta Air Lines	19:25:00	T-4		CR9
+DL 4117	SAV Savannah	Delta Air Lines	13:45:00	T-4	B53	CR9
+DL 4120	ROC Rochester	Delta Air Lines	15:45:00	T-4	B53	CR9
+DL 4121	ROC Rochester	Delta Air Lines	20:10:00	T-4		CR9
+DL 4123	SAV Savannah	Delta Air Lines	08:45:00	T-4	B49	CR9
+DL 414	MAD Madrid	Delta Air Lines	19:51:00	T-4	B26	76W
+DL 415	SFO San Francisco	Delta Air Lines	16:30:00	T-4	B35	75W
+DL 416	DKR Dakar	Delta Air Lines	21:41:00	T-4		75W
+DL 418	MXP Milan	Delta Air Lines	18:12:00	T-4	B38	764
+DL 419 �	SEA Seattle	Delta Air Lines	16:05:00	T-4	B38	73H
+DL 419 �	SEA Seattle	Delta Air Lines	16:05:00	T-4	B38	73H
+DL 42	BRU Brussels	Delta Air Lines	19:30:00	T-4		76W
+DL 420	MSP Minneapolis	Delta Air Lines	08:00:00	T-4	B32	752
+DL 420	MSP Minneapolis	Delta Air Lines	08:00:00	T-4	B32	752
+DL 4200	BWI Baltimore	Delta Air Lines	16:10:00	T-4	B48	ERJ
+DL 4202	CHS Charleston	Delta Air Lines	17:59:00	T-4	B43	ERJ
+DL 4202	CHS Charleston	Delta Air Lines	17:59:00	T-4	B43	ERJ
+DL 4203	CLE Cleveland	Delta Air Lines	09:45:00	T-4	B53	ERJ
+DL 4204	CLE Cleveland	Delta Air Lines	19:10:00	T-4		ERJ
+DL 4205	CMH Columbus	Delta Air Lines	08:59:00	T-4	B49	ERJ
+DL 4205	CMH Columbus	Delta Air Lines	08:59:00	T-4	B49	ERJ
+DL 4206	CMH Columbus	Delta Air Lines	18:55:00	T-4		ERJ
+DL 4206	CMH Columbus	Delta Air Lines	18:55:00	T-4		ERJ
+DL 4207	IAD Washington	Delta Air Lines	14:54:00	T-4	B55	ERJ
+DL 4208	PHL Philadelphia	Delta Air Lines	08:29:00	T-4	B48	ERJ
+DL 4209	CHS Charleston	Delta Air Lines	07:40:00	T-4	B47	ERJ
+DL 421	SLC Salt Lake City	Delta Air Lines	07:00:00	T-4	B35	752
+DL 421	SLC Salt Lake City	Delta Air Lines	07:00:00	T-4	B35	752
+DL 4210	IAD Washington	Delta Air Lines	19:35:00	T-4		ERJ
+DL 4213	RIC Richmond	Delta Air Lines	12:29:00	T-4	B51	ERJ
+DL 4215	ROC Rochester	Delta Air Lines	09:00:00	T-4	B46	ERJ
+DL 4215	ROC Rochester	Delta Air Lines	09:00:00	T-4	B46	ERJ
+DL 4216	PHL Philadelphia	Delta Air Lines	15:30:00	T-4	B53	ERJ
+DL 4217	PHL Philadelphia	Delta Air Lines	20:10:00	T-4		ERJ
+DL 4218	SYR Syracuse	Delta Air Lines	09:00:00	T-4	B43	ERJ
+DL 4218	SYR Syracuse	Delta Air Lines	09:00:00	T-4	B43	ERJ
+DL 4219	SYR Syracuse	Delta Air Lines	14:40:00	T-4	B48	ERJ
+DL 422	LAX Los Angeles	Delta Air Lines	09:15:00	T-4	B32	75W
+DL 4220	SYR Syracuse	Delta Air Lines	19:19:00	T-4		ERJ
+DL 4221	YQB Quebec	Delta Air Lines	13:00:00	T-4	B43	ERJ
+DL 4221	YQB Quebec	Delta Air Lines	13:00:00	T-4	B43	ERJ
+DL 4222	YQB Quebec	Delta Air Lines	21:15:00	T-4		ERJ
+DL 4224	YUL Montreal	Delta Air Lines	19:50:00	T-4		ERJ
+DL 4226	CMH Columbus	Delta Air Lines	14:59:00	T-4	B47	ERJ
+DL 4226	CMH Columbus	Delta Air Lines	14:59:00	T-4	B47	ERJ
+DL 4227	IAD Washington	Delta Air Lines	08:00:00	T-4	B51	ERJ
+DL 4227	IAD Washington	Delta Air Lines	08:00:00	T-4	B51	ERJ
+DL 4228	ORF Norfolk	Delta Air Lines	14:51:00	T-4	B46	ERJ
+DL 423	LAX Los Angeles	Delta Air Lines	11:39:00	T-4	B34	75W
+DL 424	LAX Los Angeles	Delta Air Lines	07:10:00	T-4	B24	76W
+DL 4242	YYZ Toronto	Delta Air Lines	20:50:00	T-4		CR7
+DL 4243	YYZ Toronto	Delta Air Lines	15:30:00	T-4	B42	CR7
+DL 4246	YYZ Toronto	Delta Air Lines	09:00:00	T-4	B47	CR7
+DL 4246	YYZ Toronto	Delta Air Lines	09:00:00	T-4	B47	CR7
+DL 425	PHX Phoenix	Delta Air Lines	08:35:00	T-4	B36	752
+DL 426	MSP Minneapolis	Delta Air Lines	10:51:00	T-4	B33	717
+DL 427	LAX Los Angeles	Delta Air Lines	21:15:00	T-4		76W
+DL 428	MCO Orlando	Delta Air Lines	11:15:00	T-2	C62	M88
+DL 429	SDQ Santo Domingo	Delta Air Lines	15:55:00	T-4	B20	73H
+DL 429	SDQ Santo Domingo	Delta Air Lines	15:55:00	T-4	B20	73H
+DL 430	ATL Atlanta	Delta Air Lines	15:35:00	T-2	C68	M88
+DL 431	ATL Atlanta	Delta Air Lines	06:10:00	T-4	B26	M88
+DL 432	STI Santiago	Delta Air Lines	19:35:00	T-4		73H
+DL 433	ATL Atlanta	Delta Air Lines	17:35:00	T-4	B32	752
+DL 434	SFO San Francisco	Delta Air Lines	11:29:00	T-4	B35	75W
+DL 435	SFO San Francisco	Delta Air Lines	19:00:00	T-4	B39	752
+DL 435	SFO San Francisco	Delta Air Lines	19:00:00	T-4	B39	752
+DL 436	LAS Las Vegas	Delta Air Lines	17:00:00	T-4	B22	738
+DL 436	LAS Las Vegas	Delta Air Lines	17:00:00	T-4	B22	738
+DL 437	BOS Boston	Delta Air Lines	10:30:00	T-4	B22	717
+DL 4371	LHR London	Delta Air Lines	08:15:00	T-4		346
+DL 4373	LHR London	Delta Air Lines	18:30:00	T-4		333
+DL 4375	LHR London	Delta Air Lines	19:30:00	T-4		744
+DL 4377	LHR London	Delta Air Lines	21:30:00	T-4		333
+DL 438	SEA Seattle	Delta Air Lines	18:15:00	T-4	B35	738
+DL 439	LAX Los Angeles	Delta Air Lines	17:00:00	T-4	B36	76W
+DL 439	LAX Los Angeles	Delta Air Lines	17:00:00	T-4	B36	76W
+DL 440	BOS Boston	Delta Air Lines	07:00:00	T-4	B37	717
+DL 440	BOS Boston	Delta Air Lines	07:00:00	T-4	B37	717
+DL 441	MIA Miami	Delta Air Lines	11:29:00	T-4	B24	M88
+DL 442	LAS Las Vegas	Delta Air Lines	10:00:00	T-4	B39	738
+DL 442	LAS Las Vegas	Delta Air Lines	10:00:00	T-4	B39	738
+DL 443	LAS Las Vegas	Delta Air Lines	15:08:00	T-4	B33	738
+DL 445	MSY New Orleans	Delta Air Lines	18:29:00	T-4	B47	319
+DL 446	AMS Amsterdam	Delta Air Lines	16:29:00	T-4	B24	333
+DL 447	LAX Los Angeles	Delta Air Lines	18:15:00	T-4	B41	75W
+DL 448	SAT San Antonio	Delta Air Lines	17:32:00	T-4	B25	319
+DL 449	BOG Bogota	Delta Air Lines	23:59:00	T-4		752
+DL 450	ATL Atlanta	Delta Air Lines	19:45:00	T-4		738
+DL 451	STI Santiago	Delta Air Lines	08:30:00	T-4	B22	73H
+DL 452	STI Santiago	Delta Air Lines	13:47:00	T-4	B26	738
+DL 453	SAN San Diego	Delta Air Lines	19:15:00	T-4		738
+DL 454	STT Saint Thomas	Delta Air Lines	08:35:00	T-4	B41	757
+DL 455	PAP Port Au Prince	Delta Air Lines	08:45:00	T-4	B42	738
+DL 456	PLS Providenciales	Delta Air Lines	11:40:00	T-4	B26	73H
+DL 457	NAS Nassau	Delta Air Lines	09:30:00	T-4	B25	73H
+DL 458	ATL Atlanta	Delta Air Lines	08:30:00	T-4	B32	75W
+DL 459	SFO San Francisco	Delta Air Lines	15:15:00	T-4	B34	75W
+DL 46	SFO San Francisco	Delta Air Lines	07:00:00	T-4	B33	75W
+DL 46	SFO San Francisco	Delta Air Lines	07:00:00	T-4	B33	75W
+DL 460	SJU San Juan	Delta Air Lines	07:10:00	T-4	B20	738
+DL 461	SXM Sint Maarten	Delta Air Lines	08:45:00	T-4	B33	757
+DL 462	LAS Las Vegas	Delta Air Lines	08:00:00	T-4	B38	739
+DL 462	LAS Las Vegas	Delta Air Lines	08:00:00	T-4	B38	739
+DL 463	TPA Tampa	Delta Air Lines	11:35:00	T-4	B38	717
+DL 464	MBJ Montego Bay	Delta Air Lines	09:00:00	T-4	B20	738
+DL 464	MBJ Montego Bay	Delta Air Lines	09:00:00	T-4	B20	738
+DL 465	SJU San Juan	Delta Air Lines	12:00:00	T-4	B25	738
+DL 465	SJU San Juan	Delta Air Lines	12:00:00	T-4	B25	738
+DL 467	SLC Salt Lake City	Delta Air Lines	15:52:00	T-4	B41	320
+DL 468	TLV Tel Aviv-Yafo	Delta Air Lines	21:23:00	T-4		777
+DL 469	SFO San Francisco	Delta Air Lines	09:00:00	T-4	B35	75W
+DL 469	SFO San Francisco	Delta Air Lines	09:00:00	T-4	B35	75W
+DL 471	GRU Sao Paulo	Delta Air Lines	20:09:00	T-4	B38	764
+DL 472	LAX Los Angeles	Delta Air Lines	08:10:00	T-4	B39	75W
+DL 473	NRT Tokyo	Delta Air Lines	11:57:00	T-4	B28	777
+DL 473	NRT Tokyo	Delta Air Lines	11:57:00	T-4	B28	777
+DL 476	BCN Barcelona	Delta Air Lines	19:31:00	T-4	B32	764
+DL 477	LAX Los Angeles	Delta Air Lines	15:23:00	T-4	B30	76W
+DL 478	ACC Accra	Delta Air Lines	20:00:00	T-4	B30	76W
+DL 478	ACC Accra	Delta Air Lines	20:00:00	T-4	B30	76W
+DL 480	MCO Orlando	Delta Air Lines	12:59:00	T-4	B36	319
+DL 480	MCO Orlando	Delta Air Lines	12:59:00	T-4	B36	319
+DL 481	MEX Mexico City	Delta Air Lines	09:00:00	T-4	B24	757
+DL 481	MEX Mexico City	Delta Air Lines	09:00:00	T-4	B24	757
+DL 482	LAS Las Vegas	Delta Air Lines	19:51:00	T-2		738
+DL 484	AUA Aruba	Delta Air Lines	08:33:00	T-2	C67	738
+DL 485	BDA Bermuda	Delta Air Lines	09:23:00	T-4	B38	319
+DL 486	PHX Phoenix	Delta Air Lines	17:10:00	T-4	B37	73H
+DL 487	SDQ Santo Domingo	Delta Air Lines	12:10:00	T-4	B20	738
+DL 488	MSY New Orleans	Delta Air Lines	08:10:00	T-4	B25	319
+DL 489	PUJ Punta Cana	Delta Air Lines	08:35:00	T-4	B34	738
+DL 490	MSY New Orleans	Delta Air Lines	13:59:00	T-4	B35	319
+DL 490	MSY New Orleans	Delta Air Lines	13:59:00	T-4	B35	319
+DL 491	SLC Salt Lake City	Delta Air Lines	17:35:00	T-4	B20	73H
+DL 493	SDQ Santo Domingo	Delta Air Lines	08:20:00	T-4	B26	73H
+DL 494	SEA Seattle	Delta Air Lines	09:00:00	T-4	B37	738
+DL 494	SEA Seattle	Delta Air Lines	09:00:00	T-4	B37	738
+DL 495	DTW Detroit	Delta Air Lines	16:15:00	T-4	B25	319
+DL 496	SLC Salt Lake City	Delta Air Lines	11:50:00	T-4	B37	73H
+DL 497	SDQ Santo Domingo	Delta Air Lines	19:15:00	T-4	B25	738
+DL 498	PDX Portland	Delta Air Lines	18:29:00	T-4	B24	73H
+DL 499	FLL Fort Lauderdale	Delta Air Lines	11:03:00	T-4	B36	M88
+DL 499	FLL Fort Lauderdale	Delta Air Lines	11:03:00	T-4	B36	M88
+DL 7750	CAN Guangzhou	Delta Air Lines	10:40:00	T-4		77W
+DL 9347	AMS Amsterdam	Delta Air Lines	21:40:00	T-4		74M
+DL 9357	AMS Amsterdam	Delta Air Lines	17:50:00	T-4		777
+2D* 401	GEO Georgetown	Dynamic Airways	01:00:00			767
+EI 104	DUB Dublin	Aer Lingus	17:30:00	T-5		330
+EI 108	DUB Dublin	Aer Lingus	20:40:00	T-5		330
+EI 5000	AUS Austin	Aer Lingus	20:59:00	T-5	16	320
+EI 5000	AUS Austin	Aer Lingus	20:59:00	T-5	16	320
+EI 5008	BOS Boston	Aer Lingus	13:59:00	T-5	20	E90
+EI 5008	BOS Boston	Aer Lingus	13:59:00	T-5	20	E90
+EI 5012	BOS Boston	Aer Lingus	20:59:00	T-5	5	320
+EI 5012	BOS Boston	Aer Lingus	20:59:00	T-5	5	320
+EI 5014	BOS Boston	Aer Lingus	10:30:00	T-5	20	E90
+EI 5016	BOS Boston	Aer Lingus	22:55:00	T-5		320
+EI 5016	BOS Boston	Aer Lingus	22:55:00	T-5		320
+EI 5018	BOS Boston	Aer Lingus	12:45:00	T-5	7	E90
+EI 5020	BOS Boston	Aer Lingus	16:30:00	T-5	20	E90
+EI 5022	BOS Boston	Aer Lingus	06:45:00	T-5	20	E90
+EI 5024	BUF Buffalo	Aer Lingus	16:30:00	T-5	6	E90
+EI 5026	BUF Buffalo	Aer Lingus	21:36:00	T-5	9	E90
+EI 5028	BUF Buffalo	Aer Lingus	22:59:00	T-5	6	E90
+EI 5028	BUF Buffalo	Aer Lingus	22:59:00	T-5	6	E90
+EI 5030	BUF Buffalo	Aer Lingus	18:40:00	T-5	2	E90
+EI 5042	CLT Charlotte	Aer Lingus	17:30:00	T-5	7	E90
+EI 5044	MCO Orlando	Aer Lingus	15:30:00	T-5	12	320
+EI 5048	MCO Orlando	Aer Lingus	17:59:00	T-5	16	320
+EI 5048	MCO Orlando	Aer Lingus	17:59:00	T-5	16	320
+EI 5050	MCO Orlando	Aer Lingus	20:00:00	T-5		320
+EI 5050	MCO Orlando	Aer Lingus	20:00:00	T-5		320
+EI 5054	MCO Orlando	Aer Lingus	21:51:00	T-5	12	320
+EI 5058	RDU Raleigh/Durham	Aer Lingus	17:22:00	T-5	4	E90
+EI 5064	ROC Rochester	Aer Lingus	22:29:00	T-5	3	E90
+EI 5070	ROC Rochester	Aer Lingus	14:29:00	T-5	3	E90
+EI 5076	SAN San Diego	Aer Lingus	16:41:00	T-5		320
+EI 5082	SYR Syracuse	Aer Lingus	22:29:00	T-5	19	E90
+EI 5088	TPA Tampa	Aer Lingus	19:30:00	T-5	1	320
+EI 5090	TPA Tampa	Aer Lingus	14:30:00	T-5	16	320
+EI 5318	FLL Fort Lauderdale	Aer Lingus	20:10:00	T-5	23	320
+EI 5320	FLL Fort Lauderdale	Aer Lingus	16:59:00	T-5	25	321
+EI 5320	FLL Fort Lauderdale	Aer Lingus	16:59:00	T-5	25	321
+EI 5322	FLL Fort Lauderdale	Aer Lingus	15:54:00	T-5	23	320
+EI 5324	FLL Fort Lauderdale	Aer Lingus	21:50:00	T-5	8	320
+EI 5328	RSW Fort Myers	Aer Lingus	15:45:00	T-5	2	E90
+EI 5330	RSW Fort Myers	Aer Lingus	20:46:00	T-5	3	320
+EI 5336	SJU San Juan	Aer Lingus	19:30:00	T-5	9	320
+EI 5338	SJU San Juan	Aer Lingus	20:50:00	T-5	7	320
+EI 5340	SJU San Juan	Aer Lingus	23:59:00	T-5	9	320
+EI 5344	SJU San Juan	Aer Lingus	14:54:00	T-5	25	320
+EK 202	DXB Dubai	Emirates	23:00:00	T-4		388
+EK 202	DXB Dubai	Emirates	23:00:00	T-4		388
+EK 204	DXB Dubai	Emirates	10:40:00	T-4		388
+EK 206	MXP Milan	Emirates	22:20:00	T-1		77W
+EK 6119	SAN San Diego	Emirates	16:41:00	T-5		320
+EK 6123	SFO San Francisco	Emirates	16:40:00	T-5	24	32S
+EK 6125	SFO San Francisco	Emirates	11:00:00	T-5		32S
+EK 6125	SFO San Francisco	Emirates	11:00:00	T-5		32S
+EK 6129	LAS Las Vegas	Emirates	09:57:00	T-5	23	320
+EK 6129	LAS Las Vegas	Emirates	09:57:00	T-5	23	320
+EK 6131	LAS Las Vegas	Emirates	18:56:00	T-5		320
+EK 6131	LAS Las Vegas	Emirates	18:56:00	T-5		320
+EK 6133	LAS Las Vegas	Emirates	21:30:00	T-5	27	320
+EK 6137	OAK Oakland	Emirates	17:11:00	T-5	18	320
+EK 6143	BUR Burbank	Emirates	17:30:00	T-5		320
+EK 6147	SEA Seattle	Emirates	17:42:00	T-5	27	320
+EK 6155	SJC San Jose	Emirates	18:30:00	T-5	17	320
+EK 6161	PHX Phoenix	Emirates	19:20:00	T-5	8	320
+EK 6167	SLC Salt Lake City	Emirates	18:45:00	T-5	23	320
+EK 6173	SMF Sacramento	Emirates	19:31:00	T-5	27	320
+EK 6179	ABQ Albuquerque	Emirates	20:00:00	T-5	4	320
+EK 6179	ABQ Albuquerque	Emirates	20:00:00	T-5	4	320
+EK 6185	PDX Portland	Emirates	20:40:00	T-5	21	320
+EK 6189	HOU Houston	Emirates	14:20:00	T-5	14	E90
+EK 6701	BOS Boston	Emirates	10:30:00	T-5	20	E90
+EK 6703	BOS Boston	Emirates	16:30:00	T-5	20	E90
+EK 6707	BTV Burlington	Emirates	11:35:00	T-5	4	E90
+EK 6711	BTV Burlington	Emirates	22:45:00	T-5	7	E90
+EK 6713	BUF Buffalo	Emirates	10:35:00	T-5	5	E90
+EK 6715	BUF Buffalo	Emirates	16:30:00	T-5	6	E90
+EK 6717	BUF Buffalo	Emirates	21:36:00	T-5	9	E90
+EK 6721	CLT Charlotte	Emirates	17:30:00	T-5	7	E90
+EK 6725	FLL Fort Lauderdale	Emirates	11:55:00	T-5	3	E90
+EK 6725	FLL Fort Lauderdale	Emirates	11:55:00	T-5	3	E90
+EK 6727	FLL Fort Lauderdale	Emirates	15:54:00	T-5	23	320
+EK 6729	FLL Fort Lauderdale	Emirates	21:50:00	T-5	8	320
+EK 6733	IAD Washington	Emirates	17:29:00	T-5	3	E90
+EK 6735	IAD Washington	Emirates	21:55:00	T-5	15	E90
+EK 6735	IAD Washington	Emirates	21:55:00	T-5	15	E90
+EK 6737	JAX Jacksonville	Emirates	14:59:00	T-5	8	320
+EK 6737	JAX Jacksonville	Emirates	14:59:00	T-5	8	320
+EK 6739	JAX Jacksonville	Emirates	20:29:00	T-5	26	320
+EK 6743	MCO Orlando	Emirates	10:29:00	T-5	9	320
+EK 6745	MCO Orlando	Emirates	17:59:00	T-5	16	320
+EK 6745	MCO Orlando	Emirates	17:59:00	T-5	16	320
+EK 6747	MCO Orlando	Emirates	21:51:00	T-5	12	320
+EK 6749	ORD Chicago	Emirates	08:52:00	T-5	17	320
+EK 6751	ORD Chicago	Emirates	19:30:00	T-5	20	E90
+EK 6755	PWM Portland	Emirates	13:25:00	T-5	4	E90
+EK 6759	PWM Portland	Emirates	22:45:00	T-5	4	E90
+EK 6763	RDU Raleigh/Durham	Emirates	17:22:00	T-5	4	E90
+EK 6767	TPA Tampa	Emirates	09:48:00	T-5	2	320
+EK 6769	TPA Tampa	Emirates	19:30:00	T-5	1	320
+EK 6777	AUS Austin	Emirates	20:59:00	T-5	16	320
+EK 6777	AUS Austin	Emirates	20:59:00	T-5	16	320
+EK 6781	DEN Denver	Emirates	20:29:00	T-5	18	320
+EK 6785	LGB Long Beach	Emirates	13:55:00	T-5		320
+EK 6785	LGB Long Beach	Emirates	13:55:00	T-5		320
+EK 6787	LGB Long Beach	Emirates	18:11:00	T-5	26	320
+EK 6791	PBI West Palm Beach	Emirates	13:05:00	T-5	9	320
+EK 6791	PBI West Palm Beach	Emirates	13:05:00	T-5	9	320
+EK 6793	PBI West Palm Beach	Emirates	15:59:00	T-5	9	321
+EK 6793	PBI West Palm Beach	Emirates	15:59:00	T-5	9	321
+EK 6795	PBI West Palm Beach	Emirates	21:55:00	T-5	6	320
+EK 6795	PBI West Palm Beach	Emirates	21:55:00	T-5	6	320
+EK 6803	ROC Rochester	Emirates	14:29:00	T-5	3	E90
+EK 6807	ROC Rochester	Emirates	22:29:00	T-5	3	E90
+EK 6809	RSW Fort Myers	Emirates	11:46:00	T-5	6	320
+EK 6811	RSW Fort Myers	Emirates	20:46:00	T-5	3	320
+EK 6815	SJU San Juan	Emirates	10:05:00	T-5	21	320
+EK 6815	SJU San Juan	Emirates	10:05:00	T-5	21	320
+EK 6817	SJU San Juan	Emirates	19:30:00	T-5	9	320
+EK 6819	SJU San Juan	Emirates	23:59:00	T-5	9	320
+EK 6827	SYR Syracuse	Emirates	12:06:00	T-5	1	E90
+EK 6831	SYR Syracuse	Emirates	22:29:00	T-5	19	E90
+EK 6833	CUN Cancun	Emirates	11:10:00	T-5	17	320
+EK 6839	PUJ Punta Cana	Emirates	12:12:00	T-5	25	320
+EK 6845	STI Santiago	Emirates	09:52:00	T-5	24	320
+EK 6849	STI Santiago	Emirates	22:25:00	T-5		320
+EK 6851	SDQ Santo Domingo	Emirates	12:30:00	T-5	18	320
+EK 6855	SDQ Santo Domingo	Emirates	23:59:00	T-5	14	320
+EK 6861	BGI Bridgetown	Emirates	20:59:00	T-5	25	320
+EK 6861	BGI Bridgetown	Emirates	20:59:00	T-5	25	320
+EK 6869	BOS Boston	Emirates	20:59:00	T-5	5	320
+EK 6869	BOS Boston	Emirates	20:59:00	T-5	5	320
+EK 6871	LAX Los Angeles	Emirates	09:50:00	T-5	27	32S
+EK 6873	LAX Los Angeles	Emirates	21:10:00	T-5	22	32S
+EK 6875	LAX Los Angeles	Emirates	16:00:00	T-5		32S
+EK 6875	LAX Los Angeles	Emirates	16:00:00	T-5		32S
+EK 6877	SAV Savannah	Emirates	14:49:00	T-5	18	320
+EK 6883 �	MSY New Orleans	Emirates	15:00:00	T-5	1	E90
+EK 6883 �	MSY New Orleans	Emirates	15:00:00	T-5	1	E90
+EK 6889	CHS Charleston	Emirates	15:40:00	T-5	5	320
+EQ 551 �	UIO Quito	TAME	08:55:00			E70
+EQ 551 �	UIO Quito	TAME	08:55:00			E70
+EY 100	AUH Abu Dhabi	Etihad Airways	21:55:00	T-4		77W
+EY 100	AUH Abu Dhabi	Etihad Airways	21:55:00	T-4		77W
+EY 102	AUH Abu Dhabi	Etihad Airways	11:40:00	T-4		77W
+EY 1574	TXL Berlin	Etihad Airways	17:50:00	T-8		332
+EY 1623	DUS Dusseldorf	Etihad Airways	17:40:00	T-8		332
+EY 3004	LAX Los Angeles	Etihad Airways	18:45:00	T-8	C44	32B
+EY 3054	MAN Manchester	Etihad Airways	19:25:00	T-8	C35	757
+EY 3064	CDG Paris	Etihad Airways	17:10:00	T-8	C47	763
+EY 3071	RDU Raleigh/Durham	Etihad Airways	19:55:00	T-8	C31C	ERD
+EY 3071	RDU Raleigh/Durham	Etihad Airways	19:55:00	T-8	C31C	ERD
+EY 3101	LAX Los Angeles	Etihad Airways	19:45:00	T-8	B1	32B
+EY 3102	ORD Chicago	Etihad Airways	17:10:00	T-8	C37	738
+EY 3127	MIA Miami	Etihad Airways	10:45:00	T-8	C39	738
+EY 3143	CMH Columbus	Etihad Airways	18:50:00	T-8	C31B	ERD
+EY 3226	BOS Boston	Etihad Airways	20:25:00	T-8	B2	738
+EY 3285	SFO San Francisco	Etihad Airways	19:55:00	T-8	C41	32B
+EY 3285	SFO San Francisco	Etihad Airways	19:55:00	T-8	C41	32B
+EY 3300	LAS Las Vegas	Etihad Airways	17:29:00	T-8	C42	738
+EY 3315	CDG Paris	Etihad Airways	21:05:00	T-8	C37	757
+EY 3315	CDG Paris	Etihad Airways	21:05:00	T-8	C37	757
+EY 3321	BOS Boston	Etihad Airways	12:40:00	T-8	B3	738
+EY 3330	LAX Los Angeles	Etihad Airways	12:30:00	T-8	C41	32B
+EY 3338	LAX Los Angeles	Etihad Airways	11:00:00	T-8	C40	32B
+EY 3338	LAX Los Angeles	Etihad Airways	11:00:00	T-8	C40	32B
+EY 3366	DFW Dallas	Etihad Airways	16:15:00	T-8	C45	738
+EY 3370	SEA Seattle	Etihad Airways	18:35:00	T-8	C41	738
+EY 3374	SAN San Diego	Etihad Airways	17:20:00	T-8	C46	738
+EY 3385	RDU Raleigh/Durham	Etihad Airways	15:05:00	T-8	C31A	ERD
+EY 3385	RDU Raleigh/Durham	Etihad Airways	15:05:00	T-8	C31A	ERD
+EY 3402	SFO San Francisco	Etihad Airways	15:30:00	T-8	B10	32B
+EY 3405	MIA Miami	Etihad Airways	14:03:00	T-8	C42	757
+EY 3405	MIA Miami	Etihad Airways	14:03:00	T-8	C42	757
+EY 3433	SFO San Francisco	Etihad Airways	17:45:00	T-8	C39	32B
+EY 3436	BOS Boston	Etihad Airways	16:00:00	T-8	C43	738
+EY 3436	BOS Boston	Etihad Airways	16:00:00	T-8	C43	738
+EY 3437	AUS Austin	Etihad Airways	17:00:00	T-8	B1	738
+EY 3437	AUS Austin	Etihad Airways	17:00:00	T-8	B1	738
+EY 3439	MIA Miami	Etihad Airways	19:43:00	T-8	C46	757
+EY 3440	MCO Orlando	Etihad Airways	14:59:00	T-8	B2	738
+EY 3440	MCO Orlando	Etihad Airways	14:59:00	T-8	B2	738
+EY 3441	CMH Columbus	Etihad Airways	15:30:00	T-8	C31E	ER4
+EY 3442	CLE Cleveland	Etihad Airways	15:10:00	T-8	C31B	ER4
+EY 3443	BNA Nashville	Etihad Airways	16:55:00	T-8	C31D	ER4
+EY 3443	BNA Nashville	Etihad Airways	16:55:00	T-8	C31D	ER4
+EY 3444	CVG Cincinnati	Etihad Airways	15:10:00	T-8	C32F	ER4
+EY 3445	BWI Baltimore	Etihad Airways	16:29:00	T-8	C32G	ER4
+EY 3447	IND Indianapolis	Etihad Airways	15:30:00	T-8	C32H	ER4
+EY 3448	ORF Norfolk	Etihad Airways	15:30:00	T-8	C31C	ER4
+EY 3450	PIT Pittsburgh	Etihad Airways	15:14:00	T-8	C32I	E75
+EY 3453	RDU Raleigh/Durham	Etihad Airways	12:40:00	T-8	C32G	ERD
+EY 7993	DUB Dublin	Etihad Airways	17:30:00	T-5		330
+EY 8243	FLL Fort Lauderdale	Etihad Airways	14:20:00	T-5	26	320
+EY 8244	LAX Los Angeles	Etihad Airways	11:25:00	T-5	22	32S
+EY 8246	MCO Orlando	Etihad Airways	20:00:00	T-5		320
+EY 8246	MCO Orlando	Etihad Airways	20:00:00	T-5		320
+EY 8248	TPA Tampa	Etihad Airways	14:30:00	T-5	16	320
+EY 8255	PWM Portland	Etihad Airways	22:45:00	T-5	4	E90
+EY 8256	IAD Washington	Etihad Airways	17:29:00	T-5	3	E90
+EY 8258	FLL Fort Lauderdale	Etihad Airways	11:55:00	T-5	3	E90
+EY 8258	FLL Fort Lauderdale	Etihad Airways	11:55:00	T-5	3	E90
+EY 8264	BOS Boston	Etihad Airways	13:59:00	T-5	20	E90
+EY 8264	BOS Boston	Etihad Airways	13:59:00	T-5	20	E90
+EY 8265	LAX Los Angeles	Etihad Airways	16:00:00	T-5		32S
+EY 8265	LAX Los Angeles	Etihad Airways	16:00:00	T-5		32S
+EY 8266	ABQ Albuquerque	Etihad Airways	20:00:00	T-5	4	320
+EY 8266	ABQ Albuquerque	Etihad Airways	20:00:00	T-5	4	320
+EY 8268	BOS Boston	Etihad Airways	22:55:00	T-5		320
+EY 8268	BOS Boston	Etihad Airways	22:55:00	T-5		320
+EY 8271	AUS Austin	Etihad Airways	20:59:00	T-5	16	320
+EY 8271	AUS Austin	Etihad Airways	20:59:00	T-5	16	320
+EY 8272	SJU San Juan	Etihad Airways	19:30:00	T-5	9	320
+EY 8273	BOS Boston	Etihad Airways	12:45:00	T-5	7	E90
+EY 8276	BQN Aguadilla	Etihad Airways	23:59:00	T-5	21	320
+EY 8277	BTV Burlington	Etihad Airways	22:45:00	T-5	7	E90
+EY 8278	BUF Buffalo	Etihad Airways	18:40:00	T-5	2	E90
+EY 8279	BUF Buffalo	Etihad Airways	21:36:00	T-5	9	E90
+EY 8283	BOS Boston	Etihad Airways	20:59:00	T-5	5	320
+EY 8283	BOS Boston	Etihad Airways	20:59:00	T-5	5	320
+EY 8284	RSW Fort Myers	Etihad Airways	20:46:00	T-5	3	320
+EY 8286	BTV Burlington	Etihad Airways	11:35:00	T-5	4	E90
+EY 8288	FLL Fort Lauderdale	Etihad Airways	20:10:00	T-5	23	320
+EY 8289	BUF Buffalo	Etihad Airways	13:09:00	T-5	21	E90
+EY 8290	JAX Jacksonville	Etihad Airways	14:59:00	T-5	8	320
+EY 8290	JAX Jacksonville	Etihad Airways	14:59:00	T-5	8	320
+EY 8292	CHS Charleston	Etihad Airways	15:40:00	T-5	5	320
+EY 8293	FLL Fort Lauderdale	Etihad Airways	21:50:00	T-5	8	320
+EY 8294	JAX Jacksonville	Etihad Airways	20:29:00	T-5	26	320
+EY 8295	LAS Las Vegas	Etihad Airways	21:30:00	T-5	27	320
+EY 8297	LGB Long Beach	Etihad Airways	13:55:00	T-5		320
+EY 8297	LGB Long Beach	Etihad Airways	13:55:00	T-5		320
+EY 8298	LAX Los Angeles	Etihad Airways	18:35:00	T-5	22	32S
+EY 8299	LAS Las Vegas	Etihad Airways	18:56:00	T-5		320
+EY 8299	LAS Las Vegas	Etihad Airways	18:56:00	T-5		320
+EY 8300	HOU Houston	Etihad Airways	14:20:00	T-5	14	E90
+EY 8301	MCO Orlando	Etihad Airways	21:51:00	T-5	12	320
+EY 8302	MCO Orlando	Etihad Airways	15:30:00	T-5	12	320
+EY 8305	ORD Chicago	Etihad Airways	19:30:00	T-5	20	E90
+EY 8306	DEN Denver	Etihad Airways	20:29:00	T-5	18	320
+EY 8307	PBI West Palm Beach	Etihad Airways	15:59:00	T-5	9	321
+EY 8307	PBI West Palm Beach	Etihad Airways	15:59:00	T-5	9	321
+EY 8308	PBI West Palm Beach	Etihad Airways	13:05:00	T-5	9	320
+EY 8308	PBI West Palm Beach	Etihad Airways	13:05:00	T-5	9	320
+EY 8309 �	MSY New Orleans	Etihad Airways	15:00:00	T-5	1	E90
+EY 8309 �	MSY New Orleans	Etihad Airways	15:00:00	T-5	1	E90
+EY 8310	PHX Phoenix	Etihad Airways	19:20:00	T-5	8	320
+EY 8311	PSE Ponce	Etihad Airways	23:59:00	T-5	11	320
+EY 8314	LAX Los Angeles	Etihad Airways	21:10:00	T-5	22	32S
+EY 8315	PBI West Palm Beach	Etihad Airways	21:55:00	T-5	6	320
+EY 8315	PBI West Palm Beach	Etihad Airways	21:55:00	T-5	6	320
+EY 8316	ROC Rochester	Etihad Airways	22:29:00	T-5	3	E90
+EY 8317	PDX Portland	Etihad Airways	20:40:00	T-5	21	320
+EY 8318	RSW Fort Myers	Etihad Airways	15:45:00	T-5	2	E90
+EY 8320	SAV Savannah	Etihad Airways	14:49:00	T-5	18	320
+EY 8321	ROC Rochester	Etihad Airways	14:29:00	T-5	3	E90
+EY 8322	SJU San Juan	Etihad Airways	14:54:00	T-5	25	320
+EY 8323	PWM Portland	Etihad Airways	13:25:00	T-5	4	E90
+EY 8324	RSW Fort Myers	Etihad Airways	11:46:00	T-5	6	320
+EY 8325	SFO San Francisco	Etihad Airways	20:30:00	T-5	24	32S
+EY 8326	SJC San Jose	Etihad Airways	18:30:00	T-5	17	320
+EY 8328	SYR Syracuse	Etihad Airways	12:06:00	T-5	1	E90
+EY 8329	SFO San Francisco	Etihad Airways	11:00:00	T-5		32S
+EY 8329	SFO San Francisco	Etihad Airways	11:00:00	T-5		32S
+EY 8330	SJU San Juan	Etihad Airways	20:50:00	T-5	7	320
+EY 8331	TPA Tampa	Etihad Airways	19:30:00	T-5	1	320
+EY 8337	SLC Salt Lake City	Etihad Airways	18:45:00	T-5	23	320
+EY 8339	SMF Sacramento	Etihad Airways	19:31:00	T-5	27	320
+EY 8341	SYR Syracuse	Etihad Airways	22:29:00	T-5	19	E90
+EY 8348	SFO San Francisco	Etihad Airways	16:40:00	T-5	24	32S
+EY 8372	IAD Washington	Etihad Airways	21:55:00	T-5	15	E90
+EY 8372	IAD Washington	Etihad Airways	21:55:00	T-5	15	E90
+EY 8376	BUF Buffalo	Etihad Airways	16:30:00	T-5	6	E90
+EY 8379	MCO Orlando	Etihad Airways	13:45:00	T-5	17	320
+US 1	LAX Los Angeles	US Airways	09:00:00	T-8	B2	32B
+US 1	LAX Los Angeles	US Airways	09:00:00	T-8	B2	32B
+US 100	LHR London	US Airways	18:22:00	T-8	B6	77W
+US 1029	DCA Washington	US Airways	15:50:00	T-8	C43	738
+US 104	LHR London	US Airways	20:30:00	T-8	B4	77W
+US 106	LHR London	US Airways	19:31:00	T-8	B14	77W
+US 1085	MIA Miami	US Airways	08:20:00	T-8	B6	757
+US 1096	BOS Boston	US Airways	16:00:00	T-8	C43	738
+US 1096	BOS Boston	US Airways	16:00:00	T-8	C43	738
+US 1101	MIA Miami	US Airways	06:50:00	T-8	C36	757
+US 117	LAX Los Angeles	US Airways	14:45:00	T-8	C46	32B
+US 120	CDG Paris	US Airways	21:05:00	T-8	C37	757
+US 120	CDG Paris	US Airways	21:05:00	T-8	C37	757
+US 1226	ANU Antigua	US Airways	07:00:00	T-8	B8	738
+US 1226	ANU Antigua	US Airways	07:00:00	T-8	B8	738
+US 1282	SXM Sint Maarten	US Airways	07:10:00	T-8	C34	757
+US 1320	STT Saint Thomas	US Airways	08:00:00	T-8	C41	757
+US 1320	STT Saint Thomas	US Airways	08:00:00	T-8	C41	757
+US 1327	CUN Cancun	US Airways	09:40:00	T-8	C37	738
+US 133	LAX Los Angeles	US Airways	16:30:00	T-8	C39	32B
+US 1357	SJU San Juan	US Airways	08:30:00	T-8	B7	757
+US 1416	BDA Bermuda	US Airways	17:00:00	T-8	C33	738
+US 1416	BDA Bermuda	US Airways	17:00:00	T-8	C33	738
+US 1434	CUN Cancun	US Airways	19:29:00	T-8	C38	738
+US 1441	LAS Las Vegas	US Airways	06:35:00	T-8	C39	738
+US 1451	MIA Miami	US Airways	14:03:00	T-8	C42	757
+US 1451	MIA Miami	US Airways	14:03:00	T-8	C42	757
+US 15	SFO San Francisco	US Airways	08:00:00	T-8	C44	32B
+US 15	SFO San Francisco	US Airways	08:00:00	T-8	C44	32B
+US 1592	PAP Port Au Prince	US Airways	09:30:00	T-8	B12	763
+US 163	SFO San Francisco	US Airways	19:55:00	T-8	C41	32B
+US 163	SFO San Francisco	US Airways	19:55:00	T-8	C41	32B
+US 1646	MIA Miami	US Airways	10:45:00	T-8	C39	738
+US 1653	CLT Charlotte	US Airways	08:20:00	T-8	C42	738
+US 1671	CUN Cancun	US Airways	12:00:00	T-8	B6	738
+US 1671	CUN Cancun	US Airways	12:00:00	T-8	B6	738
+US 171	LAX Los Angeles	US Airways	06:00:00	T-8	B12	32B
+US 171	LAX Los Angeles	US Airways	06:00:00	T-8	B12	32B
+US 177	SFO San Francisco	US Airways	17:45:00	T-8	C39	32B
+US 179	SFO San Francisco	US Airways	10:30:00	T-8	C46	32B
+US 181	LAX Los Angeles	US Airways	17:30:00	T-8	C42	32B
+US 185	LAX Los Angeles	US Airways	20:55:00	T-8	C36	32B
+US 185	LAX Los Angeles	US Airways	20:55:00	T-8	C36	32B
+US 19	LAX Los Angeles	US Airways	11:00:00	T-8	C40	32B
+US 19	LAX Los Angeles	US Airways	11:00:00	T-8	C40	32B
+US 1919	CLT Charlotte	US Airways	16:55:00	T-8	C38	320
+US 1919	CLT Charlotte	US Airways	16:55:00	T-8	C38	320
+US 193	BOS Boston	US Airways	12:40:00	T-8	B3	738
+US 198	MXP Milan	US Airways	18:00:00	T-8	B12	763
+US 198	MXP Milan	US Airways	18:00:00	T-8	B12	763
+US 199	ORD Chicago	US Airways	17:10:00	T-8	C37	738
+US 2069	CLT Charlotte	US Airways	12:00:00	T-8	C34	320
+US 2069	CLT Charlotte	US Airways	12:00:00	T-8	C34	320
+US 21	LAX Los Angeles	US Airways	18:45:00	T-8	C44	32B
+US 210	MAN Manchester	US Airways	19:25:00	T-8	C35	757
+US 2283	EGE Vail	US Airways	17:25:00	T-8	C36	757
+US 2285	MCO Orlando	US Airways	14:59:00	T-8	B2	738
+US 2285	MCO Orlando	US Airways	14:59:00	T-8	B2	738
+US 2299	MIA Miami	US Airways	05:45:00	T-8	B1	738
+US 2314	BOS Boston	US Airways	20:25:00	T-8	B2	738
+US 235	SEA Seattle	US Airways	18:35:00	T-8	C41	738
+US 2351	MIA Miami	US Airways	17:00:00	T-8	C44	757
+US 2351	MIA Miami	US Airways	17:00:00	T-8	C44	757
+US 2387	MIA Miami	US Airways	19:43:00	T-8	C46	757
+US 2393	MCO Orlando	US Airways	07:00:00	T-8	C40	738
+US 2393	MCO Orlando	US Airways	07:00:00	T-8	C40	738
+US 255	LAX Los Angeles	US Airways	10:00:00	T-8	C38	32B
+US 255	LAX Los Angeles	US Airways	10:00:00	T-8	C38	32B
+US 291	AUS Austin	US Airways	17:00:00	T-8	B1	738
+US 291	AUS Austin	US Airways	17:00:00	T-8	B1	738
+US 293	LAX Los Angeles	US Airways	19:45:00	T-8	B1	32B
+US 2949	BNA Nashville	US Airways	16:55:00	T-8	C31D	ER4
+US 2949	BNA Nashville	US Airways	16:55:00	T-8	C31D	ER4
+US 2963	CVG Cincinnati	US Airways	15:10:00	T-8	C32F	ER4
+US 3	LAX Los Angeles	US Airways	12:30:00	T-8	C41	32B
+US 3044	BWI Baltimore	US Airways	16:29:00	T-8	C32G	ER4
+US 3121	DCA Washington	US Airways	21:42:00	T-8	C31D	CR7
+US 3169	ORF Norfolk	US Airways	15:30:00	T-8	C31C	ER4
+US 3202	IND Indianapolis	US Airways	15:30:00	T-8	C32H	ER4
+US 3225	DCA Washington	US Airways	11:10:00	T-8	C32H	ERD
+US 3295	RDU Raleigh/Durham	US Airways	15:05:00	T-8	C31A	ERD
+US 3295	RDU Raleigh/Durham	US Airways	15:05:00	T-8	C31A	ERD
+US 33	LAX Los Angeles	US Airways	08:00:00	T-8	B3	32B
+US 33	LAX Los Angeles	US Airways	08:00:00	T-8	B3	32B
+US 3309	YUL Montreal	US Airways	09:20:00	T-8	C31C	ERD
+US 3332	YYZ Toronto	US Airways	20:15:00	T-8	C31D	CR7
+US 3361	RDU Raleigh/Durham	US Airways	12:40:00	T-8	C32G	ERD
+US 3365	DCA Washington	US Airways	17:29:00	T-8	C32G	CR7
+US 3370	DCA Washington	US Airways	08:48:00	T-8	C31D	CR7
+US 3374	RDU Raleigh/Durham	US Airways	19:55:00	T-8	C31C	ERD
+US 3374	RDU Raleigh/Durham	US Airways	19:55:00	T-8	C31C	ERD
+US 3378	DCA Washington	US Airways	13:05:00	T-8	C32F	CR7
+US 3378	DCA Washington	US Airways	13:05:00	T-8	C32F	CR7
+US 3409	YYZ Toronto	US Airways	14:57:00	T-8	C31D	CR7
+US 3409	YYZ Toronto	US Airways	14:57:00	T-8	C31D	CR7
+US 3465	RDU Raleigh/Durham	US Airways	08:15:00	T-8	C32G	ERD
+US 3485	YUL Montreal	US Airways	21:20:00	T-8	C31B	ERD
+US 3490	YYZ Toronto	US Airways	09:00:00	T-8	C32F	CR7
+US 3490	YYZ Toronto	US Airways	09:00:00	T-8	C32F	CR7
+US 3535	CMH Columbus	US Airways	18:50:00	T-8	C31B	ERD
+US 3569	YUL Montreal	US Airways	15:03:00	T-8	C32G	ERD
+US 3569	YUL Montreal	US Airways	15:03:00	T-8	C32G	ERD
+US 3615	CLE Cleveland	US Airways	15:10:00	T-8	C31B	ER4
+US 3639	CMH Columbus	US Airways	15:30:00	T-8	C31E	ER4
+US 413	CLT Charlotte	US Airways	06:20:00	T-8	C35	321
+US 425	CLT Charlotte	US Airways	18:30:00	T-8	C34	321
+US 436	PHX Phoenix	US Airways	06:30:00	T-8	C38	320
+US 4360	PIT Pittsburgh	US Airways	15:14:00	T-8	C32I	E75
+US 44	CDG Paris	US Airways	17:10:00	T-8	C47	763
+US 45	LAS Las Vegas	US Airways	17:29:00	T-8	C42	738
+US 597	PHX Phoenix	US Airways	09:59:00	T-8	C35	320
+US 597	PHX Phoenix	US Airways	09:59:00	T-8	C35	320
+US 639	PHX Phoenix	US Airways	16:20:00	T-8	C34	321
+US 64	ZRH Zurich	US Airways	18:05:00	T-8	B2	763
+US 64	ZRH Zurich	US Airways	18:05:00	T-8	B2	763
+US 65	DFW Dallas	US Airways	16:15:00	T-8	C45	738
+US 654	PHX Phoenix	US Airways	13:30:00	T-8	C36	321
+US 66	BCN Barcelona	US Airways	17:25:00	T-8	B8	763
+US 67	SJU San Juan	US Airways	16:00:00	T-8	C40	757
+US 67	SJU San Juan	US Airways	16:00:00	T-8	C40	757
+US 6746	MAD Madrid	US Airways	17:25:00	T-7		333
+US 6748	MAD Madrid	US Airways	20:30:00	T-7		333
+US 6920	DUS Dusseldorf	US Airways	17:40:00	T-8		332
+US 6924	TXL Berlin	US Airways	17:50:00	T-8		332
+US 7092	ORY Paris	US Airways	21:30:00	T-7		752
+US 7153	LHR London	US Airways	21:30:00	T-7		777
+US 7154	LHR London	US Airways	20:00:00	T-7		744
+US 7154	LHR London	US Airways	20:00:00	T-7		744
+US 7155	LHR London	US Airways	21:00:00	T-7		744
+US 7155	LHR London	US Airways	21:00:00	T-7		744
+US 7156	LHR London	US Airways	18:55:00	T-7		744
+US 7156	LHR London	US Airways	18:55:00	T-7		744
+US 7157	LHR London	US Airways	19:20:00	T-7		744
+US 7158	LHR London	US Airways	08:30:00	T-7		744
+US 7160	LHR London	US Airways	18:30:00	T-7		744
+US 7161	LHR London	US Airways	23:05:00	T-7		777
+US 7161	LHR London	US Airways	23:05:00	T-7		777
+US 7410	LCY London	US Airways	18:55:00	T-7		318
+US 7410	LCY London	US Airways	18:55:00	T-7		318
+US 7643	HEL Helsinki	US Airways	17:45:00	T-8		333
+US 84	BOS Boston	US Airways	07:30:00	T-8	C46	738
+US 85	SFO San Francisco	US Airways	15:30:00	T-8	B10	32B
+US 873	CLT Charlotte	US Airways	10:15:00	T-8	C34	320
+US 9	LAX Los Angeles	US Airways	07:00:00	T-8	B5	32B
+US 9	LAX Los Angeles	US Airways	07:00:00	T-8	B5	32B
+US 9225	CLT Charlotte	US Airways	11:45:00			
+US 94	MAD Madrid	US Airways	19:15:00	T-8	B7	757
+US 95	SAN San Diego	US Airways	17:20:00	T-8	C46	738
+US 951	GRU Sao Paulo	US Airways	22:40:00	T-8	B14	77W
+US 953	EZE Buenos Aires	US Airways	22:00:00	T-8	B12	777
+US 953	EZE Buenos Aires	US Airways	22:00:00	T-8	B12	777
+US 973	GIG Rio De Janeiro	US Airways	21:35:00	T-8	B3	763
+FI 614	KEF Reykjavik	Icelandair	20:00:00	T-7		75T
+FI 614	KEF Reykjavik	Icelandair	20:00:00	T-7		75T
+FJ 5001	LAX Los Angeles	Fiji Airways	16:30:00	T-8	C39	32B
+FX 1712	MDT Middletown	FedEx	07:59:00			
+FX 1712	MDT Middletown	FedEx	07:59:00			
+FX 869	MEM Memphis	FedEx	11:27:00			
+G3 8007	GRU Sao Paulo	Gol	20:09:00	T-4	B38	764
+G3 8066	LAS Las Vegas	Gol	08:00:00	T-4	B38	739
+G3 8066	LAS Las Vegas	Gol	08:00:00	T-4	B38	739
+G3 8068	LAS Las Vegas	Gol	10:00:00	T-4	B39	738
+G3 8068	LAS Las Vegas	Gol	10:00:00	T-4	B39	738
+G3 8070	LAX Los Angeles	Gol	08:10:00	T-4	B39	75W
+G3 8074	MCO Orlando	Gol	08:15:00	T-4	B20	M88
+G3 8076	MCO Orlando	Gol	11:15:00	T-2	C62	M88
+G3 8078	MIA Miami	Gol	08:00:00	T-2	C69	M88
+G3 8078	MIA Miami	Gol	08:00:00	T-2	C69	M88
+G3 8152	MIA Miami	Gol	11:29:00	T-4	B24	M88
+G3 8202	BOS Boston	Gol	07:00:00	T-4	B37	717
+G3 8202	BOS Boston	Gol	07:00:00	T-4	B37	717
+G3 8216	MSP Minneapolis	Gol	10:51:00	T-4	B33	717
+G3 8228	MSP Minneapolis	Gol	08:00:00	T-4	B32	752
+G3 8228	MSP Minneapolis	Gol	08:00:00	T-4	B32	752
+G3 8248	SFO San Francisco	Gol	09:00:00	T-4	B35	75W
+G3 8248	SFO San Francisco	Gol	09:00:00	T-4	B35	75W
+G3 8316	LAX Los Angeles	Gol	07:10:00	T-4	B24	76W
+G3 8318	SEA Seattle	Gol	09:00:00	T-4	B37	738
+G3 8318	SEA Seattle	Gol	09:00:00	T-4	B37	738
+G3 8322	BOS Boston	Gol	10:30:00	T-4	B22	717
+G3 8336	YUL Montreal	Gol	08:29:00	T-4	B53	CRJ
+GA 9919	AUH Abu Dhabi	Garuda Indonesia	21:55:00	T-4		77W
+GA 9919	AUH Abu Dhabi	Garuda Indonesia	21:55:00	T-4		77W
+GEC 8224 �	MEX Mexico City	Lufthansa Cargo	18:55:00			
+GEC 8224 �	MEX Mexico City	Lufthansa Cargo	18:55:00			
+GF 4118	SFO San Francisco	Gulf Air	17:45:00	T-8	C39	32B
+GF 4125	SFO San Francisco	Gulf Air	15:30:00	T-8	B10	32B
+GF 4129	LAX Los Angeles	Gulf Air	17:30:00	T-8	C42	32B
+GF 4157	LAX Los Angeles	Gulf Air	16:30:00	T-8	C39	32B
+GF 4163	DFW Dallas	Gulf Air	16:15:00	T-8	C45	738
+GF 4168	ORD Chicago	Gulf Air	17:10:00	T-8	C37	738
+GF 4258	DCA Washington	Gulf Air	15:50:00	T-8	C43	738
+GF 4302	ORF Norfolk	Gulf Air	15:30:00	T-8	C31C	ER4
+GF 6604	LHR London	Gulf Air	20:30:00	T-8	B4	77W
+GF 6616	LHR London	Gulf Air	19:31:00	T-8	B14	77W
+GF 6644	CDG Paris	Gulf Air	17:10:00	T-8	C47	763
+GF 6654	LHR London	Gulf Air	18:22:00	T-8	B6	77W
+GF 6784	PIT Pittsburgh	Gulf Air	15:14:00	T-8	C32I	E75
+GF 6794	CLE Cleveland	Gulf Air	15:10:00	T-8	C31B	ER4
+AA 1	LAX Los Angeles	American Airlines	09:00:00	T-8	B2	32B
+AA 1	LAX Los Angeles	American Airlines	09:00:00	T-8	B2	32B
+AA 100	LHR London	American Airlines	18:22:00	T-8	B6	77W
+AA 1029	DCA Washington	American Airlines	15:50:00	T-8	C43	738
+AA 104	LHR London	American Airlines	20:30:00	T-8	B4	77W
+AA 106	LHR London	American Airlines	19:31:00	T-8	B14	77W
+AA 1085	MIA Miami	American Airlines	08:20:00	T-8	B6	757
+AA 1096	BOS Boston	American Airlines	16:00:00	T-8	C43	738
+AA 1096	BOS Boston	American Airlines	16:00:00	T-8	C43	738
+AA 1101	MIA Miami	American Airlines	06:50:00	T-8	C36	757
+AA 117	LAX Los Angeles	American Airlines	14:45:00	T-8	C46	32B
+AA 120	CDG Paris	American Airlines	21:05:00	T-8	C37	757
+AA 120	CDG Paris	American Airlines	21:05:00	T-8	C37	757
+AA 1226	ANU Antigua	American Airlines	07:00:00	T-8	B8	738
+AA 1226	ANU Antigua	American Airlines	07:00:00	T-8	B8	738
+AA 1282	SXM Sint Maarten	American Airlines	07:10:00	T-8	C34	757
+AA 1320	STT Saint Thomas	American Airlines	08:00:00	T-8	C41	757
+AA 1320	STT Saint Thomas	American Airlines	08:00:00	T-8	C41	757
+AA 1327	CUN Cancun	American Airlines	09:40:00	T-8	C37	738
+AA 133	LAX Los Angeles	American Airlines	16:30:00	T-8	C39	32B
+AA 1357	SJU San Juan	American Airlines	08:30:00	T-8	B7	757
+AA 1416	BDA Bermuda	American Airlines	17:00:00	T-8	C33	738
+AA 1416	BDA Bermuda	American Airlines	17:00:00	T-8	C33	738
+AA 1434	CUN Cancun	American Airlines	19:29:00	T-8	C38	738
+AA 1441	LAS Las Vegas	American Airlines	06:35:00	T-8	C39	738
+AA 1451	MIA Miami	American Airlines	14:03:00	T-8	C42	757
+AA 1451	MIA Miami	American Airlines	14:03:00	T-8	C42	757
+AA 15	SFO San Francisco	American Airlines	08:00:00	T-8	C44	32B
+AA 15	SFO San Francisco	American Airlines	08:00:00	T-8	C44	32B
+AA 1592	PAP Port Au Prince	American Airlines	09:30:00	T-8	B12	763
+AA 163	SFO San Francisco	American Airlines	19:55:00	T-8	C41	32B
+AA 163	SFO San Francisco	American Airlines	19:55:00	T-8	C41	32B
+AA 1646	MIA Miami	American Airlines	10:45:00	T-8	C39	738
+AA 1653	CLT Charlotte	American Airlines	08:20:00	T-8	C42	738
+AA 1671	CUN Cancun	American Airlines	12:00:00	T-8	B6	738
+AA 1671	CUN Cancun	American Airlines	12:00:00	T-8	B6	738
+AA 171	LAX Los Angeles	American Airlines	06:00:00	T-8	B12	32B
+AA 171	LAX Los Angeles	American Airlines	06:00:00	T-8	B12	32B
+AA 177	SFO San Francisco	American Airlines	17:45:00	T-8	C39	32B
+AA 179	SFO San Francisco	American Airlines	10:30:00	T-8	C46	32B
+AA 181	LAX Los Angeles	American Airlines	17:30:00	T-8	C42	32B
+AA 185	LAX Los Angeles	American Airlines	20:55:00	T-8	C36	32B
+AA 185	LAX Los Angeles	American Airlines	20:55:00	T-8	C36	32B
+AA 19	LAX Los Angeles	American Airlines	11:00:00	T-8	C40	32B
+AA 19	LAX Los Angeles	American Airlines	11:00:00	T-8	C40	32B
+AA 1919	CLT Charlotte	American Airlines	16:55:00	T-8	C38	320
+AA 1919	CLT Charlotte	American Airlines	16:55:00	T-8	C38	320
+AA 193	BOS Boston	American Airlines	12:40:00	T-8	B3	738
+AA 198	MXP Milan	American Airlines	18:00:00	T-8	B12	763
+AA 198	MXP Milan	American Airlines	18:00:00	T-8	B12	763
+AA 199	ORD Chicago	American Airlines	17:10:00	T-8	C37	738
+AA 2069	CLT Charlotte	American Airlines	12:00:00	T-8	C34	320
+AA 2069	CLT Charlotte	American Airlines	12:00:00	T-8	C34	320
+AA 21	LAX Los Angeles	American Airlines	18:45:00	T-8	C44	32B
+AA 210	MAN Manchester	American Airlines	19:25:00	T-8	C35	757
+AA 2283	EGE Vail	American Airlines	17:25:00	T-8	C36	757
+AA 2285	MCO Orlando	American Airlines	14:59:00	T-8	B2	738
+AA 2285	MCO Orlando	American Airlines	14:59:00	T-8	B2	738
+AA 2299	MIA Miami	American Airlines	05:45:00	T-8	B1	738
+AA 2314	BOS Boston	American Airlines	20:25:00	T-8	B2	738
+AA 235	SEA Seattle	American Airlines	18:35:00	T-8	C41	738
+AA 2351	MIA Miami	American Airlines	17:00:00	T-8	C44	757
+AA 2351	MIA Miami	American Airlines	17:00:00	T-8	C44	757
+AA 2387	MIA Miami	American Airlines	19:43:00	T-8	C46	757
+AA 2393	MCO Orlando	American Airlines	07:00:00	T-8	C40	738
+AA 2393	MCO Orlando	American Airlines	07:00:00	T-8	C40	738
+AA 255	LAX Los Angeles	American Airlines	10:00:00	T-8	C38	32B
+AA 255	LAX Los Angeles	American Airlines	10:00:00	T-8	C38	32B
+AA 291	AUS Austin	American Airlines	17:00:00	T-8	B1	738
+AA 291	AUS Austin	American Airlines	17:00:00	T-8	B1	738
+AA 293	LAX Los Angeles	American Airlines	19:45:00	T-8	B1	32B
+AA 2949	BNA Nashville	American Airlines	16:55:00	T-8	C31D	ER4
+AA 2949	BNA Nashville	American Airlines	16:55:00	T-8	C31D	ER4
+AA 2963	CVG Cincinnati	American Airlines	15:10:00	T-8	C32F	ER4
+AA 3	LAX Los Angeles	American Airlines	12:30:00	T-8	C41	32B
+AA 3044	BWI Baltimore	American Airlines	16:29:00	T-8	C32G	ER4
+AA 3121	DCA Washington	American Airlines	21:42:00	T-8	C31D	CR7
+AA 3169	ORF Norfolk	American Airlines	15:30:00	T-8	C31C	ER4
+AA 3202	IND Indianapolis	American Airlines	15:30:00	T-8	C32H	ER4
+AA 3225	DCA Washington	American Airlines	11:10:00	T-8	C32H	ERD
+AA 3295	RDU Raleigh/Durham	American Airlines	15:05:00	T-8	C31A	ERD
+AA 3295	RDU Raleigh/Durham	American Airlines	15:05:00	T-8	C31A	ERD
+AA 33	LAX Los Angeles	American Airlines	08:00:00	T-8	B3	32B
+AA 33	LAX Los Angeles	American Airlines	08:00:00	T-8	B3	32B
+AA 3309	YUL Montreal	American Airlines	09:20:00	T-8	C31C	ERD
+AA 3332	YYZ Toronto	American Airlines	20:15:00	T-8	C31D	CR7
+AA 3361	RDU Raleigh/Durham	American Airlines	12:40:00	T-8	C32G	ERD
+AA 3365	DCA Washington	American Airlines	17:29:00	T-8	C32G	CR7
+AA 3370	DCA Washington	American Airlines	08:48:00	T-8	C31D	CR7
+AA 3374	RDU Raleigh/Durham	American Airlines	19:55:00	T-8	C31C	ERD
+AA 3374	RDU Raleigh/Durham	American Airlines	19:55:00	T-8	C31C	ERD
+AA 3378	DCA Washington	American Airlines	13:05:00	T-8	C32F	CR7
+AA 3378	DCA Washington	American Airlines	13:05:00	T-8	C32F	CR7
+AA 3409	YYZ Toronto	American Airlines	14:57:00	T-8	C31D	CR7
+AA 3409	YYZ Toronto	American Airlines	14:57:00	T-8	C31D	CR7
+AA 3465	RDU Raleigh/Durham	American Airlines	08:15:00	T-8	C32G	ERD
+AA 3485	YUL Montreal	American Airlines	21:20:00	T-8	C31B	ERD
+AA 3490	YYZ Toronto	American Airlines	09:00:00	T-8	C32F	CR7
+AA 3490	YYZ Toronto	American Airlines	09:00:00	T-8	C32F	CR7
+AA 3535	CMH Columbus	American Airlines	18:50:00	T-8	C31B	ERD
+AA 3569	YUL Montreal	American Airlines	15:03:00	T-8	C32G	ERD
+AA 3569	YUL Montreal	American Airlines	15:03:00	T-8	C32G	ERD
+AA 3615	CLE Cleveland	American Airlines	15:10:00	T-8	C31B	ER4
+AA 3639	CMH Columbus	American Airlines	15:30:00	T-8	C31E	ER4
+AA 413	CLT Charlotte	American Airlines	06:20:00	T-8	C35	321
+AA 425	CLT Charlotte	American Airlines	18:30:00	T-8	C34	321
+AA 436	PHX Phoenix	American Airlines	06:30:00	T-8	C38	320
+AA 4360	PIT Pittsburgh	American Airlines	15:14:00	T-8	C32I	E75
+AA 44	CDG Paris	American Airlines	17:10:00	T-8	C47	763
+AA 45	LAS Las Vegas	American Airlines	17:29:00	T-8	C42	738
+AA 597	PHX Phoenix	American Airlines	09:59:00	T-8	C35	320
+AA 597	PHX Phoenix	American Airlines	09:59:00	T-8	C35	320
+AA 6133	LHR London	American Airlines	18:30:00	T-7		744
+AA 6135	LHR London	American Airlines	21:30:00	T-7		777
+AA 6137	LHR London	American Airlines	20:00:00	T-7		744
+AA 6137	LHR London	American Airlines	20:00:00	T-7		744
+AA 6139	LHR London	American Airlines	18:55:00	T-7		744
+AA 6139	LHR London	American Airlines	18:55:00	T-7		744
+AA 6141	LHR London	American Airlines	19:20:00	T-7		744
+AA 6143	LHR London	American Airlines	08:30:00	T-7		744
+AA 6145	LHR London	American Airlines	23:05:00	T-7		777
+AA 6145	LHR London	American Airlines	23:05:00	T-7		777
+AA 6212	LHR London	American Airlines	21:00:00	T-7		744
+AA 6212	LHR London	American Airlines	21:00:00	T-7		744
+AA 6228	LCY London	American Airlines	18:55:00	T-7		318
+AA 6228	LCY London	American Airlines	18:55:00	T-7		318
+AA 6245	ORY Paris	American Airlines	21:30:00	T-7		752
+AA 639	PHX Phoenix	American Airlines	16:20:00	T-8	C34	321
+AA 64	ZRH Zurich	American Airlines	18:05:00	T-8	B2	763
+AA 64	ZRH Zurich	American Airlines	18:05:00	T-8	B2	763
+AA 65	DFW Dallas	American Airlines	16:15:00	T-8	C45	738
+AA 654	PHX Phoenix	American Airlines	13:30:00	T-8	C36	321
+AA 66	BCN Barcelona	American Airlines	17:25:00	T-8	B8	763
+AA 67	SJU San Juan	American Airlines	16:00:00	T-8	C40	757
+AA 67	SJU San Juan	American Airlines	16:00:00	T-8	C40	757
+AA 7366	LAX Los Angeles	American Airlines	18:35:00	T-7		744
+AA 7643	GYE Guayaquil	American Airlines	21:30:00	T-8	C45	763
+AA 7711	LIM Lima	American Airlines	22:45:00	T-8		763
+AA 7718	SCL Santiago	American Airlines	20:00:00	T-1	8	787
+AA 7718	SCL Santiago	American Airlines	20:00:00	T-1	8	787
+AA 7786	GRU Sao Paulo	American Airlines	18:15:00	T-8		763
+AA 7807	GIG Rio De Janeiro	American Airlines	19:05:00	T-8		763
+AA 7807	GIG Rio De Janeiro	American Airlines	19:05:00	T-8		763
+AA 7809	GRU Sao Paulo	American Airlines	20:50:00	T-8		330
+AA 7972	DOH Doha	American Airlines	21:20:00	T-8		77W
+AA 8068	DUS Dusseldorf	American Airlines	17:40:00	T-8		332
+AA 8075	TXL Berlin	American Airlines	17:50:00	T-8		332
+AA 84	BOS Boston	American Airlines	07:30:00	T-8	C46	738
+AA 8402	NRT Tokyo	American Airlines	12:15:00	T-1	6	773
+AA 8495	NRT Tokyo	American Airlines	09:25:00	T-1	3	788
+AA 85	SFO San Francisco	American Airlines	15:30:00	T-8	B10	32B
+AA 8644	MAD Madrid	American Airlines	17:25:00	T-7		333
+AA 8646	MAD Madrid	American Airlines	20:30:00	T-7		333
+AA 873	CLT Charlotte	American Airlines	10:15:00	T-8	C34	320
+AA 8924	HKG Hong Kong	American Airlines	13:55:00	T-7		77W
+AA 8924	HKG Hong Kong	American Airlines	13:55:00	T-7		77W
+AA 8926	HKG Hong Kong	American Airlines	09:00:00	T-7		77W
+AA 8926	HKG Hong Kong	American Airlines	09:00:00	T-7		77W
+AA 8927	HKG Hong Kong	American Airlines	00:50:00	T-7		77W
+AA 8986	HEL Helsinki	American Airlines	17:45:00	T-8		333
+AA 9	LAX Los Angeles	American Airlines	07:00:00	T-8	B5	32B
+AA 9	LAX Los Angeles	American Airlines	07:00:00	T-8	B5	32B
+AA 9068	AUH Abu Dhabi	American Airlines	21:55:00	T-4		77W
+AA 9068	AUH Abu Dhabi	American Airlines	21:55:00	T-4		77W
+AA 9070	AUH Abu Dhabi	American Airlines	11:40:00	T-4		77W
+AA 94	MAD Madrid	American Airlines	19:15:00	T-8	B7	757
+AA 95	SAN San Diego	American Airlines	17:20:00	T-8	C46	738
+AA 951	GRU Sao Paulo	American Airlines	22:40:00	T-8	B14	77W
+AA 953	EZE Buenos Aires	American Airlines	22:00:00	T-8	B12	777
+AA 953	EZE Buenos Aires	American Airlines	22:00:00	T-8	B12	777
+AA 9629	ORD Chicago	American Airlines	06:10:00		16	
+AA 973	GIG Rio De Janeiro	American Airlines	21:35:00	T-8	B3	763
+HA 2002	BOS Boston	Hawaiian Airlines	10:30:00	T-5	20	E90
+HA 2004	BOS Boston	Hawaiian Airlines	12:45:00	T-5	7	E90
+HA 2006	CLT Charlotte	Hawaiian Airlines	08:10:00	T-5	11	E90
+HA 2010	CLT Charlotte	Hawaiian Airlines	17:30:00	T-5	7	E90
+HA 2014	RDU Raleigh/Durham	Hawaiian Airlines	17:22:00	T-5	4	E90
+HA 2018	BUF Buffalo	Hawaiian Airlines	13:09:00	T-5	21	E90
+HA 2020	BUF Buffalo	Hawaiian Airlines	10:35:00	T-5	5	E90
+HA 2024	ROC Rochester	Hawaiian Airlines	14:29:00	T-5	3	E90
+HA 2026	ROC Rochester	Hawaiian Airlines	09:30:00	T-5	7	320
+HA 2030	SYR Syracuse	Hawaiian Airlines	09:36:00	T-5	11	E90
+HA 2032	SYR Syracuse	Hawaiian Airlines	12:06:00	T-5	1	E90
+HA 2038	FLL Fort Lauderdale	Hawaiian Airlines	09:00:00	T-5	3	320
+HA 2038	FLL Fort Lauderdale	Hawaiian Airlines	09:00:00	T-5	3	320
+HA 2040	FLL Fort Lauderdale	Hawaiian Airlines	07:50:00	T-5	15	321
+HA 2042	RSW Fort Myers	Hawaiian Airlines	15:45:00	T-5	2	E90
+HA 2044	RSW Fort Myers	Hawaiian Airlines	09:10:00	T-5	25	E90
+HA 2046	RSW Fort Myers	Hawaiian Airlines	11:46:00	T-5	6	320
+HA 2048	PBI West Palm Beach	Hawaiian Airlines	15:59:00	T-5	9	321
+HA 2048	PBI West Palm Beach	Hawaiian Airlines	15:59:00	T-5	9	321
+HA 2052	PBI West Palm Beach	Hawaiian Airlines	13:05:00	T-5	9	320
+HA 2052	PBI West Palm Beach	Hawaiian Airlines	13:05:00	T-5	9	320
+HA 2054	PWM Portland	Hawaiian Airlines	09:04:00	T-5	4	E90
+HA 2054	PWM Portland	Hawaiian Airlines	09:04:00	T-5	4	E90
+HA 2056	PWM Portland	Hawaiian Airlines	13:25:00	T-5	4	E90
+HA 2060	BTV Burlington	Hawaiian Airlines	11:35:00	T-5	4	E90
+HA 2062	BTV Burlington	Hawaiian Airlines	07:50:00	T-5	4	E90
+HA 2066	MCO Orlando	Hawaiian Airlines	08:00:00	T-5	7	320
+HA 2066	MCO Orlando	Hawaiian Airlines	08:00:00	T-5	7	320
+HA 2068	MCO Orlando	Hawaiian Airlines	09:10:00	T-5	18	320
+HA 2072	TPA Tampa	Hawaiian Airlines	14:30:00	T-5	16	320
+HA 2074	TPA Tampa	Hawaiian Airlines	09:48:00	T-5	2	320
+HA 2076	TPA Tampa	Hawaiian Airlines	08:05:00	T-5	19	320
+HA 2076	TPA Tampa	Hawaiian Airlines	08:05:00	T-5	19	320
+HA 2078	BOS Boston	Hawaiian Airlines	13:59:00	T-5	20	E90
+HA 2078	BOS Boston	Hawaiian Airlines	13:59:00	T-5	20	E90
+HA 2080	BUF Buffalo	Hawaiian Airlines	16:30:00	T-5	6	E90
+HA 2082	FLL Fort Lauderdale	Hawaiian Airlines	11:55:00	T-5	3	E90
+HA 2082	FLL Fort Lauderdale	Hawaiian Airlines	11:55:00	T-5	3	E90
+HA 2088	MCO Orlando	Hawaiian Airlines	10:29:00	T-5	9	320
+HA 2090	PBI West Palm Beach	Hawaiian Airlines	08:30:00	T-5	2	320
+HA 2303	LAX Los Angeles	Hawaiian Airlines	08:15:00	T-5	24	32S
+HA 2305	LAX Los Angeles	Hawaiian Airlines	11:25:00	T-5	22	32S
+HA 2307	LAX Los Angeles	Hawaiian Airlines	18:35:00	T-5	22	32S
+HA 2309	LAX Los Angeles	Hawaiian Airlines	09:50:00	T-5	27	32S
+HA 2311	LAX Los Angeles	Hawaiian Airlines	21:10:00	T-5	22	32S
+HA 2321	LAS Las Vegas	Hawaiian Airlines	09:57:00	T-5	23	320
+HA 2321	LAS Las Vegas	Hawaiian Airlines	09:57:00	T-5	23	320
+HA 2323	LAS Las Vegas	Hawaiian Airlines	21:30:00	T-5	27	320
+HA 2327	LAS Las Vegas	Hawaiian Airlines	18:56:00	T-5		320
+HA 2327	LAS Las Vegas	Hawaiian Airlines	18:56:00	T-5		320
+HA 2517	LAS Las Vegas	Hawaiian Airlines	09:45:00	T-4	A2	320
+HA 2519	LAX Los Angeles	Hawaiian Airlines	07:00:00	T-4	A2	320
+HA 2519	LAX Los Angeles	Hawaiian Airlines	07:00:00	T-4	A2	320
+HA 2521	LAX Los Angeles	Hawaiian Airlines	09:20:00	T-4	A2	320
+HA 2549	LAX Los Angeles	Hawaiian Airlines	13:00:00	T-4	A6	320
+HA 2549	LAX Los Angeles	Hawaiian Airlines	13:00:00	T-4	A6	320
+HA 2555	SFO San Francisco	Hawaiian Airlines	10:30:00	T-4	A7	320
+HA 51	HNL Honolulu	Hawaiian Airlines	09:35:00	T-5	14	332
+IB 391	CLT Charlotte	Iberia	18:30:00	T-8	C34	321
+IB 4000	MAD Madrid	Iberia	19:15:00	T-8	B7	757
+IB 4019	SAN San Diego	Iberia	17:20:00	T-8	C46	738
+IB 4036	SEA Seattle	Iberia	18:35:00	T-8	C41	738
+IB 4100	DFW Dallas	Iberia	16:15:00	T-8	C45	738
+IB 4158	CDG Paris	Iberia	17:10:00	T-8	C47	763
+IB 4185	BCN Barcelona	Iberia	17:25:00	T-8	B8	763
+IB 4218	LHR London	Iberia	18:22:00	T-8	B6	77W
+IB 4220	LHR London	Iberia	20:30:00	T-8	B4	77W
+IB 4222	LHR London	Iberia	19:31:00	T-8	B14	77W
+IB 4224	AUS Austin	Iberia	17:00:00	T-8	B1	738
+IB 4224	AUS Austin	Iberia	17:00:00	T-8	B1	738
+IB 4230	CDG Paris	Iberia	21:05:00	T-8	C37	757
+IB 4230	CDG Paris	Iberia	21:05:00	T-8	C37	757
+IB 4252	MXP Milan	Iberia	18:00:00	T-8	B12	763
+IB 4252	MXP Milan	Iberia	18:00:00	T-8	B12	763
+IB 4254	MAN Manchester	Iberia	19:25:00	T-8	C35	757
+IB 4338	LAS Las Vegas	Iberia	17:29:00	T-8	C42	738
+IB 4370	BOS Boston	Iberia	20:25:00	T-8	B2	738
+IB 4430	BWI Baltimore	Iberia	16:29:00	T-8	C32G	ER4
+IB 4436	YUL Montreal	Iberia	21:20:00	T-8	C31B	ERD
+IB 4481	MCO Orlando	Iberia	14:59:00	T-8	B2	738
+IB 4481	MCO Orlando	Iberia	14:59:00	T-8	B2	738
+IB 4525	CMH Columbus	Iberia	15:30:00	T-8	C31E	ER4
+IB 4530	CLE Cleveland	Iberia	15:10:00	T-8	C31B	ER4
+IB 4546	BNA Nashville	Iberia	16:55:00	T-8	C31D	ER4
+IB 4546	BNA Nashville	Iberia	16:55:00	T-8	C31D	ER4
+IB 4548	CVG Cincinnati	Iberia	15:10:00	T-8	C32F	ER4
+IB 4551	LAX Los Angeles	Iberia	20:55:00	T-8	C36	32B
+IB 4551	LAX Los Angeles	Iberia	20:55:00	T-8	C36	32B
+IB 4555	IND Indianapolis	Iberia	15:30:00	T-8	C32H	ER4
+IB 4556	ORF Norfolk	Iberia	15:30:00	T-8	C31C	ER4
+IB 4558	PIT Pittsburgh	Iberia	15:14:00	T-8	C32I	E75
+IB 4561	YYZ Toronto	Iberia	20:15:00	T-8	C31D	CR7
+IB 4562	YYZ Toronto	Iberia	14:57:00	T-8	C31D	CR7
+IB 4562	YYZ Toronto	Iberia	14:57:00	T-8	C31D	CR7
+IB 4566	CMH Columbus	Iberia	18:50:00	T-8	C31B	ERD
+IB 4600	LCY London	Iberia	18:55:00	T-7		318
+IB 4600	LCY London	Iberia	18:55:00	T-7		318
+IB 4610	LHR London	Iberia	18:30:00	T-7		744
+IB 4612	LHR London	Iberia	21:30:00	T-7		777
+IB 4614	LHR London	Iberia	18:55:00	T-7		744
+IB 4614	LHR London	Iberia	18:55:00	T-7		744
+IB 4616	LHR London	Iberia	19:20:00	T-7		744
+IB 4618	LHR London	Iberia	08:30:00	T-7		744
+IB 4620	LHR London	Iberia	23:05:00	T-7		777
+IB 4620	LHR London	Iberia	23:05:00	T-7		777
+IB 4686	LHR London	Iberia	20:00:00	T-7		744
+IB 4686	LHR London	Iberia	20:00:00	T-7		744
+IB 4690	LHR London	Iberia	21:00:00	T-7		744
+IB 4690	LHR London	Iberia	21:00:00	T-7		744
+IB 6250	MAD Madrid	Iberia	17:25:00	T-7		333
+IB 6252	MAD Madrid	Iberia	20:30:00	T-7		333
+IB 7016	LAX Los Angeles	Iberia	17:30:00	T-8	C42	32B
+IB 7039	SFO San Francisco	Iberia	17:45:00	T-8	C39	32B
+IB 7190	RDU Raleigh/Durham	Iberia	19:55:00	T-8	C31C	ERD
+IB 7190	RDU Raleigh/Durham	Iberia	19:55:00	T-8	C31C	ERD
+IB 7410	HEL Helsinki	Iberia	17:45:00	T-8		333
+IB 7517	ORY Paris	Iberia	21:30:00	T-7		752
+TN 1101	LAX Los Angeles	Air Tahiti Nui	09:00:00	T-8	B2	32B
+TN 1101	LAX Los Angeles	Air Tahiti Nui	09:00:00	T-8	B2	32B
+TN 1103	LAX Los Angeles	Air Tahiti Nui	12:30:00	T-8	C41	32B
+TN 1105	LAX Los Angeles	Air Tahiti Nui	18:45:00	T-8	C44	32B
+TN 1107	LAX Los Angeles	Air Tahiti Nui	17:30:00	T-8	C42	32B
+TN 1109	LAX Los Angeles	Air Tahiti Nui	19:45:00	T-8	B1	32B
+JJ 2000	LAX Los Angeles	TAM Linhas Aereas	09:00:00	T-8	B2	32B
+JJ 2000	LAX Los Angeles	TAM Linhas Aereas	09:00:00	T-8	B2	32B
+JJ 2002	LAX Los Angeles	TAM Linhas Aereas	08:00:00	T-8	B3	32B
+JJ 2002	LAX Los Angeles	TAM Linhas Aereas	08:00:00	T-8	B3	32B
+JJ 2012	SFO San Francisco	TAM Linhas Aereas	10:30:00	T-8	C46	32B
+JJ 2062	SFO San Francisco	TAM Linhas Aereas	08:00:00	T-8	C44	32B
+JJ 2062	SFO San Francisco	TAM Linhas Aereas	08:00:00	T-8	C44	32B
+JJ 2138	RDU Raleigh/Durham	TAM Linhas Aereas	08:15:00	T-8	C32G	ERD
+JJ 2152	RDU Raleigh/Durham	TAM Linhas Aereas	12:40:00	T-8	C32G	ERD
+JJ 2178	BOS Boston	TAM Linhas Aereas	07:30:00	T-8	C46	738
+JJ 2279	MIA Miami	TAM Linhas Aereas	17:00:00	T-8	C44	757
+JJ 2279	MIA Miami	TAM Linhas Aereas	17:00:00	T-8	C44	757
+JJ 2312	BOS Boston	TAM Linhas Aereas	12:40:00	T-8	B3	738
+JJ 6605	SCL Santiago	TAM Linhas Aereas	20:00:00	T-1	8	787
+JJ 6605	SCL Santiago	TAM Linhas Aereas	20:00:00	T-1	8	787
+JJ 6859	LIM Lima	TAM Linhas Aereas	22:45:00	T-8		763
+JJ 7834	PHX Phoenix	TAM Linhas Aereas	09:59:00	T-8	C35	320
+JJ 7834	PHX Phoenix	TAM Linhas Aereas	09:59:00	T-8	C35	320
+JJ 8079	GIG Rio De Janeiro	TAM Linhas Aereas	19:05:00	T-8		763
+JJ 8079	GIG Rio De Janeiro	TAM Linhas Aereas	19:05:00	T-8		763
+JJ 8081	GRU Sao Paulo	TAM Linhas Aereas	20:50:00	T-8		330
+JJ 8103	GRU Sao Paulo	TAM Linhas Aereas	18:15:00	T-8		763
+JJ 8373	MIA Miami	TAM Linhas Aereas	19:43:00	T-8	C46	757
+JJ 8405	GRU Sao Paulo	TAM Linhas Aereas	22:40:00	T-8	B14	77W
+JJ 8413	GIG Rio De Janeiro	TAM Linhas Aereas	21:35:00	T-8	B3	763
+JL 3	NRT Tokyo	JAL	09:25:00	T-1	3	788
+JL 5	NRT Tokyo	JAL	12:15:00	T-1	6	773
+JL 5820	BUF Buffalo	JAL	13:09:00	T-5	21	E90
+JL 5824	CLT Charlotte	JAL	17:30:00	T-5	7	E90
+JL 5826	FLL Fort Lauderdale	JAL	14:20:00	T-5	26	320
+JL 5828	HOU Houston	JAL	14:20:00	T-5	14	E90
+JL 5830	IAD Washington	JAL	17:29:00	T-5	3	E90
+JL 5832	JAX Jacksonville	JAL	14:59:00	T-5	8	320
+JL 5832	JAX Jacksonville	JAL	14:59:00	T-5	8	320
+JL 5834	MCO Orlando	JAL	13:45:00	T-5	17	320
+JL 5836 �	MSY New Orleans	JAL	15:00:00	T-5	1	E90
+JL 5836 �	MSY New Orleans	JAL	15:00:00	T-5	1	E90
+JL 5838	PBI West Palm Beach	JAL	13:05:00	T-5	9	320
+JL 5838	PBI West Palm Beach	JAL	13:05:00	T-5	9	320
+JL 5840	PWM Portland	JAL	13:25:00	T-5	4	E90
+JL 5842	ROC Rochester	JAL	14:29:00	T-5	3	E90
+JL 5844	RSW Fort Myers	JAL	15:45:00	T-5	2	E90
+JL 5848	SYR Syracuse	JAL	22:29:00	T-5	19	E90
+JL 5850	TPA Tampa	JAL	14:30:00	T-5	16	320
+JL 5898	BTV Burlington	JAL	22:45:00	T-5	7	E90
+JL 5920	BUF Buffalo	JAL	21:36:00	T-5	9	E90
+JL 5922	FLL Fort Lauderdale	JAL	21:50:00	T-5	8	320
+JL 5924	JAX Jacksonville	JAL	20:29:00	T-5	26	320
+JL 5926	MCO Orlando	JAL	21:51:00	T-5	12	320
+JL 5930	PWM Portland	JAL	22:45:00	T-5	4	E90
+JL 5934	ROC Rochester	JAL	22:29:00	T-5	3	E90
+JL 5936	RSW Fort Myers	JAL	20:46:00	T-5	3	320
+JL 7200	GRU Sao Paulo	JAL	22:40:00	T-8	B14	77W
+JL 7208	GIG Rio De Janeiro	JAL	21:35:00	T-8	B3	763
+JL 7452	BOS Boston	JAL	20:25:00	T-8	B2	738
+JL 7454	BOS Boston	JAL	12:40:00	T-8	B3	738
+JL 7456	DCA Washington	JAL	21:42:00	T-8	C31D	CR7
+JL 7460	DCA Washington	JAL	13:05:00	T-8	C32F	CR7
+JL 7460	DCA Washington	JAL	13:05:00	T-8	C32F	CR7
+JL 7466	YUL Montreal	JAL	15:03:00	T-8	C32G	ERD
+JL 7466	YUL Montreal	JAL	15:03:00	T-8	C32G	ERD
+JL 7470	MIA Miami	JAL	14:03:00	T-8	C42	757
+JL 7470	MIA Miami	JAL	14:03:00	T-8	C42	757
+JL 7474	YUL Montreal	JAL	21:20:00	T-8	C31B	ERD
+JL 7478	RDU Raleigh/Durham	JAL	15:05:00	T-8	C31A	ERD
+JL 7478	RDU Raleigh/Durham	JAL	15:05:00	T-8	C31A	ERD
+JL 7515	LAX Los Angeles	JAL	07:00:00	T-8	B5	32B
+JL 7515	LAX Los Angeles	JAL	07:00:00	T-8	B5	32B
+JL 7545	SFO San Francisco	JAL	19:55:00	T-8	C41	32B
+JL 7545	SFO San Francisco	JAL	19:55:00	T-8	C41	32B
+JL 7575	SFO San Francisco	JAL	17:45:00	T-8	C39	32B
+JL 7624	LIM Lima	JAL	22:45:00	T-8		763
+JL 7626	SCL Santiago	JAL	20:00:00	T-1	8	787
+JL 7626	SCL Santiago	JAL	20:00:00	T-1	8	787
+K4 9329	CVG Cincinnati	Kalitta Air	16:40:00			
+K4 9736	NRT Tokyo	Kalitta Air	03:12:00			
+KL 5040	LAS Las Vegas	KLM	19:51:00	T-2		738
+KL 5048	PDX Portland	KLM	18:29:00	T-4	B24	73H
+KL 5105	ATL Atlanta	KLM	15:35:00	T-2	C68	M88
+KL 5126	FLL Fort Lauderdale	KLM	16:00:00	T-2	C63	M88
+KL 5126	FLL Fort Lauderdale	KLM	16:00:00	T-2	C63	M88
+KL 5158	MCO Orlando	KLM	16:04:00	T-2	C69	M88
+KL 5158	MCO Orlando	KLM	16:04:00	T-2	C69	M88
+KL 5180	ATL Atlanta	KLM	06:10:00	T-4	B26	M88
+KL 5232	ATL Atlanta	KLM	08:30:00	T-4	B32	75W
+KL 5278 �	SEA Seattle	KLM	16:05:00	T-4	B38	73H
+KL 5278 �	SEA Seattle	KLM	16:05:00	T-4	B38	73H
+KL 5294	SJU San Juan	KLM	07:10:00	T-4	B20	738
+KL 5308	LAX Los Angeles	KLM	15:23:00	T-4	B30	76W
+KL 5318	DEN Denver	KLM	18:15:00	T-2	C62	73H
+KL 5324	FLL Fort Lauderdale	KLM	18:59:00	T-4	B33	M88
+KL 5324	FLL Fort Lauderdale	KLM	18:59:00	T-4	B33	M88
+KL 5326	SEA Seattle	KLM	18:15:00	T-4	B35	738
+KL 5370	SAN San Diego	KLM	19:15:00	T-4		738
+KL 5392	FLL Fort Lauderdale	KLM	07:00:00	T-2	C63	M88
+KL 5392	FLL Fort Lauderdale	KLM	07:00:00	T-2	C63	M88
+KL 5408	MIA Miami	KLM	18:45:00	T-2	C63	M88
+KL 5418	SFO San Francisco	KLM	19:00:00	T-4	B39	752
+KL 5418	SFO San Francisco	KLM	19:00:00	T-4	B39	752
+KL 5490	RIC Richmond	KLM	18:45:00	T-4		CRJ
+KL 5536	TPA Tampa	KLM	14:55:00	T-2	C67	717
+KL 5536	TPA Tampa	KLM	14:55:00	T-2	C67	717
+KL 5542	PHX Phoenix	KLM	17:10:00	T-4	B37	73H
+KL 5584	BUF Buffalo	KLM	15:30:00	T-4	B44	CR9
+KL 5604	PIT Pittsburgh	KLM	14:59:00	T-4	B43	CR9
+KL 5604	PIT Pittsburgh	KLM	14:59:00	T-4	B43	CR9
+KL 5612	ORD Chicago	KLM	16:15:00	T-4	B45	CR9
+KL 5620	LAX Los Angeles	KLM	21:15:00	T-4		76W
+KL 5642	CVG Cincinnati	KLM	16:45:00	T-4	B45	CR9
+KL 5696	AUS Austin	KLM	17:35:00	T-2	C70	738
+KL 5720	LAS Las Vegas	KLM	15:08:00	T-4	B33	738
+KL 5748	MSP Minneapolis	KLM	10:51:00	T-4	B33	717
+KL 5812	ORD Chicago	KLM	19:50:00	T-4		CR9
+KL 5840	RDU Raleigh/Durham	KLM	16:30:00	T-4	B51	CR9
+KL 5848	ROC Rochester	KLM	15:45:00	T-4	B53	CR9
+KL 5851	DTW Detroit	KLM	16:15:00	T-4	B25	319
+KL 5898	SFO San Francisco	KLM	15:15:00	T-4	B34	75W
+KL 6005	LHR London	KLM	22:30:00	T-4		76W
+KL 6070	AMS Amsterdam	KLM	16:29:00	T-4	B24	333
+KL 6094	BCN Barcelona	KLM	19:31:00	T-4	B32	764
+KL 6103	LHR London	KLM	19:00:00	T-4	B22	76W
+KL 6103	LHR London	KLM	19:00:00	T-4	B22	76W
+KL 6106	FRA Frankfurt	KLM	19:43:00	T-4	B34	76W
+KL 6126	MAD Madrid	KLM	19:51:00	T-4	B26	76W
+KL 6140	BRU Brussels	KLM	19:30:00	T-4		76W
+KL 6192	DUB Dublin	KLM	20:59:00	T-4		764
+KL 6192	DUB Dublin	KLM	20:59:00	T-4		764
+KL 6258	SJU San Juan	KLM	14:59:00	T-4	B22	738
+KL 6258	SJU San Juan	KLM	14:59:00	T-4	B22	738
+KL 6264	JAX Jacksonville	KLM	14:45:00	T-4	B45	CR9
+KL 6320	BOS Boston	KLM	07:00:00	T-4	B37	717
+KL 6320	BOS Boston	KLM	07:00:00	T-4	B37	717
+KL 6338	SJU San Juan	KLM	20:30:00	T-2		738
+KL 6362	LAX Los Angeles	KLM	18:15:00	T-4	B41	75W
+KL 642	AMS Amsterdam	KLM	17:50:00	T-4		777
+KL 6422	SLC Salt Lake City	KLM	15:52:00	T-4	B41	320
+KL 644	AMS Amsterdam	KLM	21:40:00	T-4		74M
+KL 6502	MCO Orlando	KLM	18:50:00	T-2	C69	M88
+KL 6594	DTW Detroit	KLM	09:15:00	T-4	B55	CR9
+KL 6610	DFW Dallas	KLM	18:55:00	T-4		CR9
+KL 6610	DFW Dallas	KLM	18:55:00	T-4		CR9
+KL 6612	DCA Washington	KLM	15:30:00	T-4	B55	CR9
+KL 6633 �	MSP Minneapolis	KLM	16:00:00	T-4	B46	CR9
+KL 6633 �	MSP Minneapolis	KLM	16:00:00	T-4	B46	CR9
+KL 6750	SLC Salt Lake City	KLM	07:00:00	T-4	B35	752
+KL 6750	SLC Salt Lake City	KLM	07:00:00	T-4	B35	752
+KL 6754	SLC Salt Lake City	KLM	17:35:00	T-4	B20	73H
+KL 6762	BUF Buffalo	KLM	20:15:00	T-4		CR9
+KL 6772	RDU Raleigh/Durham	KLM	19:25:00	T-4		CR9
+KL 6896	TPA Tampa	KLM	18:45:00	T-4	B42	717
+KL 6966	BOS Boston	KLM	20:05:00	T-4		717
+KL 6966	BOS Boston	KLM	20:05:00	T-4		717
+KL 7084	MSY New Orleans	KLM	18:29:00	T-4	B47	319
+KL 7124	ROC Rochester	KLM	20:10:00	T-4		CR9
+KL 7208	DCA Washington	KLM	20:30:00	T-4		CR9
+KL 7226	BOS Boston	KLM	15:55:00	T-4	B25	717
+KL 7226	BOS Boston	KLM	15:55:00	T-4	B25	717
+KL 7342	ATL Atlanta	KLM	17:35:00	T-4	B32	752
+KL 7550	YYZ Toronto	KLM	20:50:00	T-4		CR7
+KL 7582	MIA Miami	KLM	15:30:00	T-2	C62	M88
+KL 7696	PIT Pittsburgh	KLM	21:15:00	T-4		CR9
+KL 7802	JAX Jacksonville	KLM	20:15:00	T-4		CR9
+KL 8032	YYZ Toronto	KLM	15:30:00	T-4	B42	CR7
+KL 8067	DTW Detroit	KLM	19:29:00	T-4		CR9
+KL 8412	SAT San Antonio	KLM	17:32:00	T-4	B25	319
+KU 118 �	KWI Kuwait	Kuwait Airways	21:00:00	T-4		777
+KU 118 �	KWI Kuwait	Kuwait Airways	21:00:00	T-4		777
+KX 793	GCM Grand Cayman Island	Cayman Airways	08:00:00	T-1	1	733
+KX 793	GCM Grand Cayman Island	Cayman Airways	08:00:00	T-1	1	733
+LA 2531	LIM Lima	LAN Airlines	22:45:00	T-8		763
+LA 533	SCL Santiago	LAN Airlines	20:00:00	T-1	8	787
+LA 533	SCL Santiago	LAN Airlines	20:00:00	T-1	8	787
+LA 6009	GIG Rio De Janeiro	LAN Airlines	19:05:00	T-8		763
+LA 6009	GIG Rio De Janeiro	LAN Airlines	19:05:00	T-8		763
+LA 6085	HKG Hong Kong	LAN Airlines	13:55:00	T-7		77W
+LA 6085	HKG Hong Kong	LAN Airlines	13:55:00	T-7		77W
+LA 6087	HKG Hong Kong	LAN Airlines	09:00:00	T-7		77W
+LA 6087	HKG Hong Kong	LAN Airlines	09:00:00	T-7		77W
+LA 8083	GRU Sao Paulo	LAN Airlines	18:15:00	T-8		763
+LA 8210	MIA Miami	LAN Airlines	10:45:00	T-8	C39	738
+LA 8249	BOS Boston	LAN Airlines	16:00:00	T-8	C43	738
+LA 8249	BOS Boston	LAN Airlines	16:00:00	T-8	C43	738
+LA 8368	NRT Tokyo	LAN Airlines	12:15:00	T-1	6	773
+LA 8528	GRU Sao Paulo	LAN Airlines	20:50:00	T-8		330
+LA 8615	MIA Miami	LAN Airlines	14:03:00	T-8	C42	757
+LA 8615	MIA Miami	LAN Airlines	14:03:00	T-8	C42	757
+LA 8618	BOS Boston	LAN Airlines	12:40:00	T-8	B3	738
+LA 8675	MIA Miami	LAN Airlines	08:20:00	T-8	B6	757
+LA 8739	MIA Miami	LAN Airlines	19:43:00	T-8	C46	757
+LH 401	FRA Frankfurt	Lufthansa	15:55:00	T-1	8	346
+LH 401	FRA Frankfurt	Lufthansa	15:55:00	T-1	8	346
+LH 411	MUC Munich	Lufthansa	17:30:00	T-1	9	333
+LH 5621 �	BRU Brussels	Lufthansa	17:55:00	T-1		333
+LH 5621 �	BRU Brussels	Lufthansa	17:55:00	T-1		333
+LO 27	WAW Warsaw	LOT - Polish Airlines	22:15:00	T-1		788
+LR 671 �	SAL San Salvador	LACSA	04:05:00			
+CA 1020 �	PVG Shanghai	Air China	03:05:00			77F
+CA 1056 �	PVG Shanghai	Air China	03:05:00			77F
+CA 7243	LAX Los Angeles	Air China	11:25:00	T-7	9	757
+CA 7244	LAX Los Angeles	Air China	14:30:00	T-7	7	757
+CA 7245	LAX Los Angeles	Air China	17:00:00	T-7	12	757
+CA 7245	LAX Los Angeles	Air China	17:00:00	T-7	12	757
+CA 7246	LAX Los Angeles	Air China	19:52:00	T-7	7	757
+CA 7247	SFO San Francisco	Air China	06:08:00	T-7	8	757
+CA 982	PEK Beijing	Air China	15:50:00	T-1		747
+CA 990	PEK Beijing	Air China	11:50:00	T-1		773
+LX 15	ZRH Zurich	SWISS	21:25:00	T-4		333
+LX 17	ZRH Zurich	SWISS	18:20:00	T-4		333
+LX 23	GVA Geneva	SWISS	19:45:00	T-4		333
+LY 8022	CDG Paris	El Al	17:10:00	T-8	C47	763
+LY 8035	ZRH Zurich	El Al	18:05:00	T-8	B2	763
+LY 8035	ZRH Zurich	El Al	18:05:00	T-8	B2	763
+LY 8051	LHR London	El Al	18:22:00	T-8	B6	77W
+LY 8053	LHR London	El Al	20:30:00	T-8	B4	77W
+LY 8062	LHR London	El Al	19:31:00	T-8	B14	77W
+LY 8063	CDG Paris	El Al	21:05:00	T-8	C37	757
+LY 8063	CDG Paris	El Al	21:05:00	T-8	C37	757
+LY 8237	BCN Barcelona	El Al	17:25:00	T-8	B8	763
+LY 8605	AUS Austin	El Al	08:45:00	T-5	21	320
+LY 8609	BOS Boston	El Al	10:30:00	T-5	20	E90
+LY 8613	BTV Burlington	El Al	07:50:00	T-5	4	E90
+LY 8623	BUF Buffalo	El Al	10:35:00	T-5	5	E90
+LY 8629	CHS Charleston	El Al	07:45:00	T-5	3	320
+LY 8633	CLT Charlotte	El Al	08:10:00	T-5	11	E90
+LY 8637	FLL Fort Lauderdale	El Al	07:50:00	T-5	15	321
+LY 8647	HOU Houston	El Al	14:20:00	T-5	14	E90
+LY 8649	IAD Washington	El Al	08:01:00	T-5	27	E90
+LY 8649	IAD Washington	El Al	08:01:00	T-5	27	E90
+LY 8657	JAX Jacksonville	El Al	08:00:00	T-5	5	320
+LY 8657	JAX Jacksonville	El Al	08:00:00	T-5	5	320
+LY 8661	LAS Las Vegas	El Al	09:57:00	T-5	23	320
+LY 8661	LAS Las Vegas	El Al	09:57:00	T-5	23	320
+LY 8668	LAX Los Angeles	El Al	08:15:00	T-5	24	32S
+LY 8672	LGB Long Beach	El Al	13:55:00	T-5		320
+LY 8672	LGB Long Beach	El Al	13:55:00	T-5		320
+LY 8676	MCO Orlando	El Al	08:00:00	T-5	7	320
+LY 8676	MCO Orlando	El Al	08:00:00	T-5	7	320
+LY 8680 �	MSY New Orleans	El Al	15:00:00	T-5	1	E90
+LY 8680 �	MSY New Orleans	El Al	15:00:00	T-5	1	E90
+LY 8689	ORD Chicago	El Al	08:52:00	T-5	17	320
+LY 8692	PBI West Palm Beach	El Al	08:30:00	T-5	2	320
+LY 8698	PWM Portland	El Al	09:04:00	T-5	4	E90
+LY 8698	PWM Portland	El Al	09:04:00	T-5	4	E90
+LY 8706	ROC Rochester	El Al	09:30:00	T-5	7	320
+LY 8714	RSW Fort Myers	El Al	09:10:00	T-5	25	E90
+LY 8718	SAN San Diego	El Al	09:30:00	T-5	19	320
+LY 8720	SAV Savannah	El Al	07:50:00	T-5	18	320
+LY 8729	SFO San Francisco	El Al	08:59:00	T-5	26	32S
+LY 8729	SFO San Francisco	El Al	08:59:00	T-5	26	32S
+LY 8737	SJU San Juan	El Al	10:05:00	T-5	21	320
+LY 8737	SJU San Juan	El Al	10:05:00	T-5	21	320
+LY 8752	SYR Syracuse	El Al	09:36:00	T-5	11	E90
+LY 8758	TPA Tampa	El Al	08:05:00	T-5	19	320
+LY 8758	TPA Tampa	El Al	08:05:00	T-5	19	320
+MS 9317	SFO San Francisco	EgyptAir	17:28:00	T-7	7	757
+MS 9319	LAX Los Angeles	EgyptAir	19:52:00	T-7	7	757
+MS 986	CAI Cairo	EgyptAir	18:30:00	T-4		773
+MU 3885	LAX Los Angeles	China Eastern Airlines	07:00:00	T-4	A2	320
+MU 3885	LAX Los Angeles	China Eastern Airlines	07:00:00	T-4	A2	320
+MU 3887	LAX Los Angeles	China Eastern Airlines	13:00:00	T-4	A6	320
+MU 3887	LAX Los Angeles	China Eastern Airlines	13:00:00	T-4	A6	320
+MU 3889	LAX Los Angeles	China Eastern Airlines	16:55:00	T-4	A2	320
+MU 3889	LAX Los Angeles	China Eastern Airlines	16:55:00	T-4	A2	320
+MU 3891	LAX Los Angeles	China Eastern Airlines	20:05:00	T-4	A2	320
+MU 3891	LAX Los Angeles	China Eastern Airlines	20:05:00	T-4	A2	320
+MU 4179	LAX Los Angeles	China Eastern Airlines	15:23:00	T-4	B30	76W
+MU 588	PVG Shanghai	China Eastern Airlines	15:25:00	T-1		773
+MU 8803	DFW Dallas	China Eastern Airlines	18:55:00	T-4		CR9
+MU 8803	DFW Dallas	China Eastern Airlines	18:55:00	T-4		CR9
+MU 8805	LAS Las Vegas	China Eastern Airlines	17:00:00	T-4	B22	738
+MU 8805	LAS Las Vegas	China Eastern Airlines	17:00:00	T-4	B22	738
+MU 8807 �	MSP Minneapolis	China Eastern Airlines	16:00:00	T-4	B46	CR9
+MU 8807 �	MSP Minneapolis	China Eastern Airlines	16:00:00	T-4	B46	CR9
+MU 8809	PDX Portland	China Eastern Airlines	18:29:00	T-4	B24	73H
+MU 8811	SAN San Diego	China Eastern Airlines	19:15:00	T-4		738
+MU 8813 �	SEA Seattle	China Eastern Airlines	16:05:00	T-4	B38	73H
+MU 8813 �	SEA Seattle	China Eastern Airlines	16:05:00	T-4	B38	73H
+MU 8815	TPA Tampa	China Eastern Airlines	18:45:00	T-4	B42	717
+MU 8863	DCA Washington	China Eastern Airlines	15:30:00	T-4	B55	CR9
+MU 8865	BOS Boston	China Eastern Airlines	15:55:00	T-4	B25	717
+MU 8865	BOS Boston	China Eastern Airlines	15:55:00	T-4	B25	717
+MU 8867	MIA Miami	China Eastern Airlines	15:30:00	T-2	C62	M88
+MU 8869	ATL Atlanta	China Eastern Airlines	15:35:00	T-2	C68	M88
+MU 8871	BUF Buffalo	China Eastern Airlines	15:30:00	T-4	B44	CR9
+MU 8873	MCO Orlando	China Eastern Airlines	16:04:00	T-2	C69	M88
+MU 8873	MCO Orlando	China Eastern Airlines	16:04:00	T-2	C69	M88
+MU 8879	ORD Chicago	China Eastern Airlines	16:15:00	T-4	B45	CR9
+MU 9875	SFO San Francisco	China Eastern Airlines	07:30:00	T-4	A2	320
+MU 9877	SFO San Francisco	China Eastern Airlines	16:30:00	T-4	A2	320
+NH 1009	NRT Tokyo	ANA	16:55:00	T-7		77W
+NH 1009	NRT Tokyo	ANA	16:55:00	T-7		77W
+NH 9	NRT Tokyo	ANA	11:15:00	T-7		77W
+NZ 9049	SFO San Francisco	Air New Zealand	18:16:00	T-7	10	757
+NZ 9136	LAX Los Angeles	Air New Zealand	06:05:00	T-7	9	757
+NZ 9136	LAX Los Angeles	Air New Zealand	06:05:00	T-7	9	757
+NZ 9143	LAX Los Angeles	Air New Zealand	08:30:00	T-7	12	757
+NZ 9147	LAX Los Angeles	Air New Zealand	11:25:00	T-7	9	757
+NZ 9149	LAX Los Angeles	Air New Zealand	14:30:00	T-7	7	757
+NZ 9150	LAX Los Angeles	Air New Zealand	19:52:00	T-7	7	757
+NZ 9151	LAX Los Angeles	Air New Zealand	17:00:00	T-7	12	757
+NZ 9151	LAX Los Angeles	Air New Zealand	17:00:00	T-7	12	757
+NZ 9216	SFO San Francisco	Air New Zealand	12:00:00	T-7	8	757
+NZ 9216	SFO San Francisco	Air New Zealand	12:00:00	T-7	8	757
+NZ 9591	SFO San Francisco	Air New Zealand	06:08:00	T-7	8	757
+NZ 9593	SFO San Francisco	Air New Zealand	09:30:00	T-7	9	757
+NZ 9595 �	SFO San Francisco	Air New Zealand	15:30:00	T-7	10	757
+NZ 9597	SFO San Francisco	Air New Zealand	14:00:00	T-7	12	757
+NZ 9597	SFO San Francisco	Air New Zealand	14:00:00	T-7	12	757
+NZ 9599	SFO San Francisco	Air New Zealand	17:28:00	T-7	7	757
+OK 3013	BRU Brussels	CSA	19:30:00	T-4		76W
+OK 3017	FRA Frankfurt	CSA	19:43:00	T-4	B34	76W
+OK 3019	MXP Milan	CSA	18:12:00	T-4	B38	764
+OK 3030	DTW Detroit	CSA	19:29:00	T-4		CR9
+OK 3058	DCA Washington	CSA	20:30:00	T-4		CR9
+OK 3060	CVG Cincinnati	CSA	16:45:00	T-4	B45	CR9
+OK 3070	ORD Chicago	CSA	19:50:00	T-4		CR9
+OK 3080	ATL Atlanta	CSA	19:45:00	T-4		738
+OK 3092	SEA Seattle	CSA	18:15:00	T-4	B35	738
+OK 3094	LAX Los Angeles	CSA	18:15:00	T-4	B41	75W
+OK 3098	SFO San Francisco	CSA	19:00:00	T-4	B39	752
+OK 3098	SFO San Francisco	CSA	19:00:00	T-4	B39	752
+OK 3100	BOS Boston	CSA	17:00:00	T-4	B44	CR9
+OK 3100	BOS Boston	CSA	17:00:00	T-4	B44	CR9
+OS 7989	SFO San Francisco	Austrian	17:28:00	T-7	7	757
+OS 7997	LAX Los Angeles	Austrian	17:00:00	T-7	12	757
+OS 7997	LAX Los Angeles	Austrian	17:00:00	T-7	12	757
+OZ 221	ICN Seoul	Asiana Airlines	13:00:00	T-4		77W
+OZ 221	ICN Seoul	Asiana Airlines	13:00:00	T-4		77W
+OZ 267	ANC Anchorage	Asiana Airlines	07:15:00			74Y
+OZ 9456	PTY Panama City	Asiana Airlines	01:10:00	T-4	A7	738
+OZ 9458	PTY Panama City	Asiana Airlines	08:55:00	T-4	A7	738
+OZ 9458	PTY Panama City	Asiana Airlines	08:55:00	T-4	A7	738
+OZ 9460	PTY Panama City	Asiana Airlines	14:05:00	T-4	A2	738
+OZ 9460	PTY Panama City	Asiana Airlines	14:05:00	T-4	A2	738
+QF 18	LAX Los Angeles	Qantas	18:35:00	T-7		744
+QF 3030	LAX Los Angeles	Qantas	14:45:00	T-8	C46	32B
+QF 3074	SFO San Francisco	Qantas	08:00:00	T-8	C44	32B
+QF 3074	SFO San Francisco	Qantas	08:00:00	T-8	C44	32B
+QF 3078	SFO San Francisco	Qantas	15:30:00	T-8	B10	32B
+QF 3080	SFO San Francisco	Qantas	17:45:00	T-8	C39	32B
+QF 3088	SFO San Francisco	Qantas	10:30:00	T-8	C46	32B
+QF 3094	LAX Los Angeles	Qantas	12:30:00	T-8	C41	32B
+QF 3096	LAX Los Angeles	Qantas	08:00:00	T-8	B3	32B
+QF 3096	LAX Los Angeles	Qantas	08:00:00	T-8	B3	32B
+QF 3098	LAX Los Angeles	Qantas	11:00:00	T-8	C40	32B
+QF 3098	LAX Los Angeles	Qantas	11:00:00	T-8	C40	32B
+QF 3100	LAX Los Angeles	Qantas	09:00:00	T-8	B2	32B
+QF 3100	LAX Los Angeles	Qantas	09:00:00	T-8	B2	32B
+QF 3108	LAX Los Angeles	Qantas	20:55:00	T-8	C36	32B
+QF 3108	LAX Los Angeles	Qantas	20:55:00	T-8	C36	32B
+QF 3112	LAX Los Angeles	Qantas	17:30:00	T-8	C42	32B
+QF 3184	LAX Los Angeles	Qantas	16:30:00	T-8	C39	32B
+QF 3186	LAX Los Angeles	Qantas	18:45:00	T-8	C44	32B
+QF 3194	LAX Los Angeles	Qantas	07:00:00	T-8	B5	32B
+QF 3194	LAX Los Angeles	Qantas	07:00:00	T-8	B5	32B
+QF 3210	SFO San Francisco	Qantas	19:55:00	T-8	C41	32B
+QF 3210	SFO San Francisco	Qantas	19:55:00	T-8	C41	32B
+QF 3212	LAX Los Angeles	Qantas	06:00:00	T-8	B12	32B
+QF 3212	LAX Los Angeles	Qantas	06:00:00	T-8	B12	32B
+QF 3218	LAX Los Angeles	Qantas	10:00:00	T-8	C38	32B
+QF 3218	LAX Los Angeles	Qantas	10:00:00	T-8	C38	32B
+QF 3230	LAX Los Angeles	Qantas	19:45:00	T-8	B1	32B
+QF 3265	YYZ Toronto	Qantas	20:15:00	T-8	C31D	CR7
+QF 3267	YYZ Toronto	Qantas	14:57:00	T-8	C31D	CR7
+QF 3267	YYZ Toronto	Qantas	14:57:00	T-8	C31D	CR7
+QF 3269	YYZ Toronto	Qantas	09:00:00	T-8	C32F	CR7
+QF 3269	YYZ Toronto	Qantas	09:00:00	T-8	C32F	CR7
+QF 3311	RDU Raleigh/Durham	Qantas	15:05:00	T-8	C31A	ERD
+QF 3311	RDU Raleigh/Durham	Qantas	15:05:00	T-8	C31A	ERD
+QF 3335	YUL Montreal	Qantas	15:03:00	T-8	C32G	ERD
+QF 3335	YUL Montreal	Qantas	15:03:00	T-8	C32G	ERD
+QF 3339	YUL Montreal	Qantas	21:20:00	T-8	C31B	ERD
+QF 4593	MCO Orlando	Qantas	14:59:00	T-8	B2	738
+QF 4593	MCO Orlando	Qantas	14:59:00	T-8	B2	738
+QF 4629	BWI Baltimore	Qantas	16:29:00	T-8	C32G	ER4
+QF 4635	PIT Pittsburgh	Qantas	15:14:00	T-8	C32I	E75
+QF 4638	RDU Raleigh/Durham	Qantas	19:55:00	T-8	C31C	ERD
+QF 4638	RDU Raleigh/Durham	Qantas	19:55:00	T-8	C31C	ERD
+QF 4639	RDU Raleigh/Durham	Qantas	12:40:00	T-8	C32G	ERD
+QF 4644	BOS Boston	Qantas	16:00:00	T-8	C43	738
+QF 4644	BOS Boston	Qantas	16:00:00	T-8	C43	738
+QF 4645	BOS Boston	Qantas	20:25:00	T-8	B2	738
+QF 4647	BOS Boston	Qantas	12:40:00	T-8	B3	738
+QR 4067	BUF Buffalo	Qatar Airways	18:40:00	T-5	2	E90
+QR 4069	BUF Buffalo	Qatar Airways	16:30:00	T-5	6	E90
+QR 4071	BUR Burbank	Qatar Airways	17:30:00	T-5		320
+QR 4079	CLT Charlotte	Qatar Airways	17:30:00	T-5	7	E90
+QR 4087	FLL Fort Lauderdale	Qatar Airways	20:10:00	T-5	23	320
+QR 4089	FLL Fort Lauderdale	Qatar Airways	16:59:00	T-5	25	321
+QR 4089	FLL Fort Lauderdale	Qatar Airways	16:59:00	T-5	25	321
+QR 4095	LGB Long Beach	Qatar Airways	18:11:00	T-5	26	320
+QR 4103	OAK Oakland	Qatar Airways	17:11:00	T-5	18	320
+QR 4115	PHX Phoenix	Qatar Airways	19:20:00	T-5	8	320
+QR 4135	SJC San Jose	Qatar Airways	18:30:00	T-5	17	320
+QR 4139	SLC Salt Lake City	Qatar Airways	18:45:00	T-5	23	320
+QR 4143	SMF Sacramento	Qatar Airways	19:31:00	T-5	27	320
+QR 4155	MCO Orlando	Qatar Airways	17:59:00	T-5	16	320
+QR 4155	MCO Orlando	Qatar Airways	17:59:00	T-5	16	320
+QR 4157	MCO Orlando	Qatar Airways	20:00:00	T-5		320
+QR 4157	MCO Orlando	Qatar Airways	20:00:00	T-5		320
+QR 4159	SJU San Juan	Qatar Airways	19:30:00	T-5	9	320
+QR 4163	TPA Tampa	Qatar Airways	19:30:00	T-5	1	320
+QR 5102	LAX Los Angeles	Qatar Airways	16:30:00	T-8	C39	32B
+QR 5108	DFW Dallas	Qatar Airways	16:15:00	T-8	C45	738
+QR 5113	BOS Boston	Qatar Airways	16:00:00	T-8	C43	738
+QR 5113	BOS Boston	Qatar Airways	16:00:00	T-8	C43	738
+QR 5118	SEA Seattle	Qatar Airways	18:35:00	T-8	C41	738
+QR 5125	CDG Paris	Qatar Airways	21:05:00	T-8	C37	757
+QR 5125	CDG Paris	Qatar Airways	21:05:00	T-8	C37	757
+QR 5129	MXP Milan	Qatar Airways	18:00:00	T-8	B12	763
+QR 5129	MXP Milan	Qatar Airways	18:00:00	T-8	B12	763
+QR 5133	LAS Las Vegas	Qatar Airways	17:29:00	T-8	C42	738
+QR 5142	ORD Chicago	Qatar Airways	17:10:00	T-8	C37	738
+QR 5164	MAN Manchester	Qatar Airways	19:25:00	T-8	C35	757
+QR 5165	SJU San Juan	Qatar Airways	16:00:00	T-8	C40	757
+QR 5165	SJU San Juan	Qatar Airways	16:00:00	T-8	C40	757
+QR 5175	MAD Madrid	Qatar Airways	19:15:00	T-8	B7	757
+QR 5202	BNA Nashville	Qatar Airways	16:55:00	T-8	C31D	ER4
+QR 5202	BNA Nashville	Qatar Airways	16:55:00	T-8	C31D	ER4
+QR 5216	ORF Norfolk	Qatar Airways	15:30:00	T-8	C31C	ER4
+QR 5226	IND Indianapolis	Qatar Airways	15:30:00	T-8	C32H	ER4
+QR 5236	CDG Paris	Qatar Airways	17:10:00	T-8	C47	763
+QR 5274	BCN Barcelona	Qatar Airways	17:25:00	T-8	B8	763
+QR 5290	LHR London	Qatar Airways	18:22:00	T-8	B6	77W
+QR 5292	LHR London	Qatar Airways	20:30:00	T-8	B4	77W
+QR 5294	LHR London	Qatar Airways	19:31:00	T-8	B14	77W
+QR 5342	SFO San Francisco	Qatar Airways	15:30:00	T-8	B10	32B
+QR 5344	MIA Miami	Qatar Airways	17:00:00	T-8	C44	757
+QR 5344	MIA Miami	Qatar Airways	17:00:00	T-8	C44	757
+QR 5390	BWI Baltimore	Qatar Airways	16:29:00	T-8	C32G	ER4
+QR 5466	RDU Raleigh/Durham	Qatar Airways	19:55:00	T-8	C31C	ERD
+QR 5466	RDU Raleigh/Durham	Qatar Airways	19:55:00	T-8	C31C	ERD
+QR 5468	CMH Columbus	Qatar Airways	15:30:00	T-8	C31E	ER4
+QR 5514	AUS Austin	Qatar Airways	17:00:00	T-8	B1	738
+QR 5514	AUS Austin	Qatar Airways	17:00:00	T-8	B1	738
+QR 5567	SAN San Diego	Qatar Airways	17:20:00	T-8	C46	738
+QR 702	DOH Doha	Qatar Airways	21:20:00	T-8		77W
+RO 9526	CDG Paris	TAROM	19:10:00	T-1		388
+RO 9528	CDG Paris	TAROM	23:35:00	T-1		772
+RO 9530	CDG Paris	TAROM	21:50:00	T-1		77W
+SA 204	JNB Johannesburg	South African Airways	10:40:00	T-4		343
+SA 7306	YYZ Toronto	South African Airways	10:35:00	T-7	11	CRA
+SA 7341	IAD Washington	South African Airways	17:29:00	T-5	3	E90
+SA 7343	IAD Washington	South African Airways	08:01:00	T-5	27	E90
+SA 7343	IAD Washington	South African Airways	08:01:00	T-5	27	E90
+SA 7354	BOS Boston	South African Airways	10:30:00	T-5	20	E90
+SA 7356	CLT Charlotte	South African Airways	17:30:00	T-5	7	E90
+SA 7360	FLL Fort Lauderdale	South African Airways	09:00:00	T-5	3	320
+SA 7360	FLL Fort Lauderdale	South African Airways	09:00:00	T-5	3	320
+SA 7362	LAS Las Vegas	South African Airways	09:57:00	T-5	23	320
+SA 7362	LAS Las Vegas	South African Airways	09:57:00	T-5	23	320
+SA 7364	LAX Los Angeles	South African Airways	09:50:00	T-5	27	32S
+SA 7366	MCO Orlando	South African Airways	09:10:00	T-5	18	320
+SA 7368 �	MSY New Orleans	South African Airways	15:00:00	T-5	1	E90
+SA 7368 �	MSY New Orleans	South African Airways	15:00:00	T-5	1	E90
+SA 7370	ORD Chicago	South African Airways	08:52:00	T-5	17	320
+SA 7378	RDU Raleigh/Durham	South African Airways	17:22:00	T-5	4	E90
+SA 7380	SAN San Diego	South African Airways	09:30:00	T-5	19	320
+SA 7382	SEA Seattle	South African Airways	17:42:00	T-5	27	320
+SA 7384	SFO San Francisco	South African Airways	08:59:00	T-5	26	32S
+SA 7384	SFO San Francisco	South African Airways	08:59:00	T-5	26	32S
+SA 7386	TPA Tampa	South African Airways	09:48:00	T-5	2	320
+SA 7460	LAX Los Angeles	South African Airways	11:25:00	T-7	9	757
+SA 7462	SFO San Francisco	South African Airways	09:30:00	T-7	9	757
+9W 6404	AUH Abu Dhabi	Jet Airways (India)	21:55:00	T-4		77W
+9W 6404	AUH Abu Dhabi	Jet Airways (India)	21:55:00	T-4		77W
+9W 6524	AUH Abu Dhabi	Jet Airways (India)	11:40:00	T-4		77W
+SQ 1415	LAX Los Angeles	Singapore Airlines	09:20:00	T-4	A2	320
+SQ 1416	LAX Los Angeles	Singapore Airlines	07:00:00	T-4	A2	320
+SQ 1416	LAX Los Angeles	Singapore Airlines	07:00:00	T-4	A2	320
+SQ 1417	SFO San Francisco	Singapore Airlines	07:30:00	T-4	A2	320
+SQ 1418	SFO San Francisco	Singapore Airlines	16:30:00	T-4	A2	320
+SQ 1419	SFO San Francisco	Singapore Airlines	18:50:00	T-4	A2	320
+SQ 1450	BOS Boston	Singapore Airlines	13:59:00	T-5	20	E90
+SQ 1450	BOS Boston	Singapore Airlines	13:59:00	T-5	20	E90
+SQ 1456	BUF Buffalo	Singapore Airlines	16:30:00	T-5	6	E90
+SQ 1459	FLL Fort Lauderdale	Singapore Airlines	14:20:00	T-5	26	320
+SQ 1465	JAX Jacksonville	Singapore Airlines	14:59:00	T-5	8	320
+SQ 1465	JAX Jacksonville	Singapore Airlines	14:59:00	T-5	8	320
+SQ 1466	ROC Rochester	Singapore Airlines	14:29:00	T-5	3	E90
+SQ 1468	SYR Syracuse	Singapore Airlines	22:29:00	T-5	19	E90
+SQ 1471	TPA Tampa	Singapore Airlines	14:30:00	T-5	16	320
+SQ 1473	AUS Austin	Singapore Airlines	20:59:00	T-5	16	320
+SQ 1473	AUS Austin	Singapore Airlines	20:59:00	T-5	16	320
+SQ 1475	CLT Charlotte	Singapore Airlines	17:30:00	T-5	7	E90
+SQ 1477	IAD Washington	Singapore Airlines	17:29:00	T-5	3	E90
+SQ 1479	MCO Orlando	Singapore Airlines	13:45:00	T-5	17	320
+SQ 1483	HOU Houston	Singapore Airlines	14:20:00	T-5	14	E90
+SQ 1485 �	MSY New Orleans	Singapore Airlines	15:00:00	T-5	1	E90
+SQ 1485 �	MSY New Orleans	Singapore Airlines	15:00:00	T-5	1	E90
+SQ 1487	ORD Chicago	Singapore Airlines	19:30:00	T-5	20	E90
+SQ 1489	PBI West Palm Beach	Singapore Airlines	15:59:00	T-5	9	321
+SQ 1489	PBI West Palm Beach	Singapore Airlines	15:59:00	T-5	9	321
+SQ 1494	PWM Portland	Singapore Airlines	13:25:00	T-5	4	E90
+SQ 25	FRA Frankfurt	Singapore Airlines	20:25:00	T-4		388
+SQ 2510	LHR London	Singapore Airlines	21:30:00	T-4		333
+SQ 2526	LHR London	Singapore Airlines	08:15:00	T-4		346
+SQ 2546	LHR London	Singapore Airlines	19:30:00	T-4		744
+SQ 5831	TPE Taipei	Singapore Airlines	00:20:00	T-1		77W
+SQ 5915	NRT Tokyo	Singapore Airlines	11:15:00	T-7		77W
+KE 252	ANC Anchorage	Korean Air	08:42:00			
+KE 252 �	ICN Seoul	Korean Air	08:00:00			74Y
+KE 252 �	ICN Seoul	Korean Air	08:00:00			74Y
+KE 7846	HNL Honolulu	Korean Air	09:35:00	T-5	14	332
+KE 82	ICN Seoul	Korean Air	12:00:00	T-1		388
+KE 82	ICN Seoul	Korean Air	12:00:00	T-1		388
+KE 86	ICN Seoul	Korean Air	00:50:00	T-1		388
+SU 101 �	SVO Moscow	Aeroflot	14:20:00	T-1		333
+SU 103 �	SVO Moscow	Aeroflot	19:20:00	T-1		333
+SU 4003	ATL Atlanta	Aeroflot	15:35:00	T-2	C68	M88
+SU 4004	LAS Las Vegas	Aeroflot	15:08:00	T-4	B33	738
+SU 4005	DEN Denver	Aeroflot	18:15:00	T-2	C62	73H
+SU 4007	ATL Atlanta	Aeroflot	19:45:00	T-4		738
+SU 4010	MCO Orlando	Aeroflot	16:04:00	T-2	C69	M88
+SU 4010	MCO Orlando	Aeroflot	16:04:00	T-2	C69	M88
+SU 4012	BOS Boston	Aeroflot	15:55:00	T-4	B25	717
+SU 4012	BOS Boston	Aeroflot	15:55:00	T-4	B25	717
+SU 4013	LAX Los Angeles	Aeroflot	15:23:00	T-4	B30	76W
+SU 4014	MIA Miami	Aeroflot	18:45:00	T-2	C63	M88
+SU 4017	PHX Phoenix	Aeroflot	17:10:00	T-4	B37	73H
+SU 4019	SFO San Francisco	Aeroflot	09:00:00	T-4	B35	75W
+SU 4019	SFO San Francisco	Aeroflot	09:00:00	T-4	B35	75W
+SU 4020	BOS Boston	Aeroflot	20:05:00	T-4		717
+SU 4020	BOS Boston	Aeroflot	20:05:00	T-4		717
+SU 4024	LAX Los Angeles	Aeroflot	17:00:00	T-4	B36	76W
+SU 4024	LAX Los Angeles	Aeroflot	17:00:00	T-4	B36	76W
+SU 4025	ATL Atlanta	Aeroflot	08:30:00	T-4	B32	75W
+SU 4027	MIA Miami	Aeroflot	11:29:00	T-4	B24	M88
+SU 4029	SLC Salt Lake City	Aeroflot	19:05:00	T-2	C68	757
+SU 4029	SLC Salt Lake City	Aeroflot	19:05:00	T-2	C68	757
+SU 4034	LAX Los Angeles	Aeroflot	09:15:00	T-4	B32	75W
+SU 4035	SLC Salt Lake City	Aeroflot	11:50:00	T-4	B37	73H
+SU 4038	MSP Minneapolis	Aeroflot	10:51:00	T-4	B33	717
+SU 4043	TPA Tampa	Aeroflot	11:35:00	T-4	B38	717
+SU 4044	TPA Tampa	Aeroflot	18:45:00	T-4	B42	717
+SU 4046	LAX Los Angeles	Aeroflot	11:39:00	T-4	B34	75W
+SU 4049	MIA Miami	Aeroflot	08:00:00	T-2	C69	M88
+SU 4049	MIA Miami	Aeroflot	08:00:00	T-2	C69	M88
+SU 4050	MCO Orlando	Aeroflot	11:15:00	T-2	C62	M88
+SU 4052	LAX Los Angeles	Aeroflot	18:15:00	T-4	B41	75W
+SU 4054	LAS Las Vegas	Aeroflot	08:00:00	T-4	B38	739
+SU 4054	LAS Las Vegas	Aeroflot	08:00:00	T-4	B38	739
+SU 4055	SFO San Francisco	Aeroflot	19:00:00	T-4	B39	752
+SU 4055	SFO San Francisco	Aeroflot	19:00:00	T-4	B39	752
+SU 4056	LAS Las Vegas	Aeroflot	10:00:00	T-4	B39	738
+SU 4056	LAS Las Vegas	Aeroflot	10:00:00	T-4	B39	738
+SU 4057	LAX Los Angeles	Aeroflot	07:10:00	T-4	B24	76W
+SU 4058	LAS Las Vegas	Aeroflot	17:00:00	T-4	B22	738
+SU 4058	LAS Las Vegas	Aeroflot	17:00:00	T-4	B22	738
+SU 4060	LAS Las Vegas	Aeroflot	19:51:00	T-2		738
+SU 4061	ATL Atlanta	Aeroflot	06:10:00	T-4	B26	M88
+SU 4067	SFO San Francisco	Aeroflot	11:29:00	T-4	B35	75W
+SU 4069	SLC Salt Lake City	Aeroflot	17:35:00	T-4	B20	73H
+SU 4070	MCO Orlando	Aeroflot	08:15:00	T-4	B20	M88
+SU 4073	RDU Raleigh/Durham	Aeroflot	19:25:00	T-4		CR9
+SU 4075	MCO Orlando	Aeroflot	18:50:00	T-2	C69	M88
+SU 4082	LAX Los Angeles	Aeroflot	21:15:00	T-4		76W
+SU 4083	LAX Los Angeles	Aeroflot	08:10:00	T-4	B39	75W
+SU 4087 �	SEA Seattle	Aeroflot	16:05:00	T-4	B38	73H
+SU 4087 �	SEA Seattle	Aeroflot	16:05:00	T-4	B38	73H
+SU 4091	SEA Seattle	Aeroflot	18:15:00	T-4	B35	738
+SU 4098	PDX Portland	Aeroflot	18:29:00	T-4	B24	73H
+SU 4103	SAN San Diego	Aeroflot	19:15:00	T-4		738
+SU 4107	DTW Detroit	Aeroflot	16:15:00	T-4	B25	319
+SU 4115	DCA Washington	Aeroflot	09:30:00	T-4	B48	CR9
+SU 4116	DCA Washington	Aeroflot	15:30:00	T-4	B55	CR9
+SU 4117	DCA Washington	Aeroflot	20:30:00	T-4		CR9
+SU 4119	DFW Dallas	Aeroflot	18:55:00	T-4		CR9
+SU 4119	DFW Dallas	Aeroflot	18:55:00	T-4		CR9
+SU 4125	DTW Detroit	Aeroflot	09:15:00	T-4	B55	CR9
+SU 4127	MSP Minneapolis	Aeroflot	08:00:00	T-4	B32	752
+SU 4127	MSP Minneapolis	Aeroflot	08:00:00	T-4	B32	752
+SU 4131	ORD Chicago	Aeroflot	08:22:00	T-4	B55	CR9
+SU 4132	ORD Chicago	Aeroflot	16:15:00	T-4	B45	CR9
+SU 4135	RDU Raleigh/Durham	Aeroflot	07:20:00	T-4	B43	CR9
+SU 4136	RDU Raleigh/Durham	Aeroflot	16:30:00	T-4	B51	CR9
+SU 4141	SLC Salt Lake City	Aeroflot	07:00:00	T-4	B35	752
+SU 4141	SLC Salt Lake City	Aeroflot	07:00:00	T-4	B35	752
+SU 4144	SLC Salt Lake City	Aeroflot	15:52:00	T-4	B41	320
+SU 4149	BOS Boston	Aeroflot	10:30:00	T-4	B22	717
+SU 4201	ORD Chicago	Aeroflot	19:50:00	T-4		CR9
+SU 4205	SFO San Francisco	Aeroflot	15:15:00	T-4	B34	75W
+SU 4206	BOS Boston	Aeroflot	13:00:00	T-4	B47	CR9
+SU 4206	BOS Boston	Aeroflot	13:00:00	T-4	B47	CR9
+SU 4208 �	MSP Minneapolis	Aeroflot	16:00:00	T-4	B46	CR9
+SU 4208 �	MSP Minneapolis	Aeroflot	16:00:00	T-4	B46	CR9
+SU 4209	SFO San Francisco	Aeroflot	16:30:00	T-4	B35	75W
+SU 4216	RDU Raleigh/Durham	Aeroflot	12:30:00	T-4	B48	CR9
+SU 4219	BOS Boston	Aeroflot	07:00:00	T-4	B37	717
+SU 4219	BOS Boston	Aeroflot	07:00:00	T-4	B37	717
+SU 4221	BOS Boston	Aeroflot	17:00:00	T-4	B44	CR9
+SU 4221	BOS Boston	Aeroflot	17:00:00	T-4	B44	CR9
+SU 4228	CVG Cincinnati	Aeroflot	16:45:00	T-4	B45	CR9
+SU 4237	TPA Tampa	Aeroflot	08:05:00	T-2	C63	717
+SU 4237	TPA Tampa	Aeroflot	08:05:00	T-2	C63	717
+SU 4238	DTW Detroit	Aeroflot	19:29:00	T-4		CR9
+SU 4249	PHX Phoenix	Aeroflot	08:35:00	T-4	B36	752
+SU 4251	TPA Tampa	Aeroflot	14:55:00	T-2	C67	717
+SU 4251	TPA Tampa	Aeroflot	14:55:00	T-2	C67	717
+SU 4253	MCO Orlando	Aeroflot	12:59:00	T-4	B36	319
+SU 4253	MCO Orlando	Aeroflot	12:59:00	T-4	B36	319
+SU 4262	ATL Atlanta	Aeroflot	17:35:00	T-4	B32	752
+SU 4266	SEA Seattle	Aeroflot	09:00:00	T-4	B37	738
+SU 4266	SEA Seattle	Aeroflot	09:00:00	T-4	B37	738
+SU 4278	MIA Miami	Aeroflot	15:30:00	T-2	C62	M88
+SV 22 �	RUH Riyadh	Saudia	20:30:00	T-1		77W
+SV 22 �	OERY Riyadh	Saudia	20:41:00			
+SY 244	MSP Minneapolis	Sun Country Airlines	11:25:00	T-4		73G
+TG 6097	NRT Tokyo	Thai Airways International	11:15:00	T-7		77W
+TG 6173	NRT Tokyo	Thai Airways International	16:55:00	T-7		77W
+TG 6173	NRT Tokyo	Thai Airways International	16:55:00	T-7		77W
+TG 6513 �	BRU Brussels	Thai Airways International	17:55:00	T-1		333
+TG 6513 �	BRU Brussels	Thai Airways International	17:55:00	T-1		333
+TG 7701	FRA Frankfurt	Thai Airways International	15:55:00	T-1	8	346
+TG 7701	FRA Frankfurt	Thai Airways International	15:55:00	T-1	8	346
+TK 12	IST Istanbul	Turkish Airlines	23:40:00	T-1		330
+TK 4	IST Istanbul	Turkish Airlines	13:15:00	T-1		330
+TK 8501	SJU San Juan	Turkish Airlines	23:59:00	T-5	9	320
+TK 8503	SLC Salt Lake City	Turkish Airlines	18:45:00	T-5	23	320
+TK 8509	SYR Syracuse	Turkish Airlines	22:29:00	T-5	19	E90
+TK 8511	TPA Tampa	Turkish Airlines	19:30:00	T-5	1	320
+TK 8513	TPA Tampa	Turkish Airlines	14:30:00	T-5	16	320
+TK 8517	FLL Fort Lauderdale	Turkish Airlines	21:50:00	T-5	8	320
+TK 8929	BTV Burlington	Turkish Airlines	22:45:00	T-5	7	E90
+TK 8933	BUF Buffalo	Turkish Airlines	18:40:00	T-5	2	E90
+TK 8935	BUF Buffalo	Turkish Airlines	21:36:00	T-5	9	E90
+TK 8937	BUF Buffalo	Turkish Airlines	16:30:00	T-5	6	E90
+TK 8939	BUF Buffalo	Turkish Airlines	22:59:00	T-5	6	E90
+TK 8939	BUF Buffalo	Turkish Airlines	22:59:00	T-5	6	E90
+TK 8943	CHS Charleston	Turkish Airlines	15:40:00	T-5	5	320
+TK 8945	CLT Charlotte	Turkish Airlines	17:30:00	T-5	7	E90
+TK 8947	FLL Fort Lauderdale	Turkish Airlines	15:54:00	T-5	23	320
+TK 8949	FLL Fort Lauderdale	Turkish Airlines	14:20:00	T-5	26	320
+TK 8953	FLL Fort Lauderdale	Turkish Airlines	20:10:00	T-5	23	320
+TK 8955	JAX Jacksonville	Turkish Airlines	14:59:00	T-5	8	320
+TK 8955	JAX Jacksonville	Turkish Airlines	14:59:00	T-5	8	320
+TK 8957	JAX Jacksonville	Turkish Airlines	20:29:00	T-5	26	320
+TK 8959	LGB Long Beach	Turkish Airlines	13:55:00	T-5		320
+TK 8959	LGB Long Beach	Turkish Airlines	13:55:00	T-5		320
+TK 8961	LGB Long Beach	Turkish Airlines	18:11:00	T-5	26	320
+TK 8965	PBI West Palm Beach	Turkish Airlines	15:59:00	T-5	9	321
+TK 8965	PBI West Palm Beach	Turkish Airlines	15:59:00	T-5	9	321
+TK 8967	PBI West Palm Beach	Turkish Airlines	21:55:00	T-5	6	320
+TK 8967	PBI West Palm Beach	Turkish Airlines	21:55:00	T-5	6	320
+TK 8969	PHX Phoenix	Turkish Airlines	19:20:00	T-5	8	320
+TK 8971	PWM Portland	Turkish Airlines	22:45:00	T-5	4	E90
+TK 8979	RDU Raleigh/Durham	Turkish Airlines	17:22:00	T-5	4	E90
+TK 8981	ROC Rochester	Turkish Airlines	22:29:00	T-5	3	E90
+TK 8983	ROC Rochester	Turkish Airlines	14:29:00	T-5	3	E90
+TK 8987	RSW Fort Myers	Turkish Airlines	20:46:00	T-5	3	320
+TK 8989	RSW Fort Myers	Turkish Airlines	15:45:00	T-5	2	E90
+TK 8991	SJU San Juan	Turkish Airlines	19:30:00	T-5	9	320
+TK 8993	SJU San Juan	Turkish Airlines	14:54:00	T-5	25	320
+TK 8997	SJU San Juan	Turkish Airlines	20:50:00	T-5	7	320
+SN 502 �	BRU Brussels	Brussels Airlines	17:55:00	T-1		333
+SN 502 �	BRU Brussels	Brussels Airlines	17:55:00	T-1		333
+SN 7231	FRA Frankfurt	Brussels Airlines	15:55:00	T-1	8	346
+SN 7231	FRA Frankfurt	Brussels Airlines	15:55:00	T-1	8	346
+SN 7235	MUC Munich	Brussels Airlines	17:30:00	T-1	9	333
+SN 8821	LAX Los Angeles	Brussels Airlines	17:00:00	T-7	12	757
+SN 8821	LAX Los Angeles	Brussels Airlines	17:00:00	T-7	12	757
+SN 8823 �	SFO San Francisco	Brussels Airlines	15:30:00	T-7	10	757
+UA 2163	MCN Macon	United Airlines	17:00:00			
+UA 2163	MCN Macon	United Airlines	17:00:00			
+UA 257	SFO San Francisco	United Airlines	14:00:00	T-7	12	757
+UA 257	SFO San Francisco	United Airlines	14:00:00	T-7	12	757
+UA 415	SFO San Francisco	United Airlines	06:08:00	T-7	8	757
+UA 441	LAX Los Angeles	United Airlines	06:05:00	T-7	9	757
+UA 441	LAX Los Angeles	United Airlines	06:05:00	T-7	9	757
+UA 443	LAX Los Angeles	United Airlines	08:30:00	T-7	12	757
+UA 445	LAX Los Angeles	United Airlines	19:52:00	T-7	7	757
+UA 510 �	SFO San Francisco	United Airlines	15:30:00	T-7	10	757
+UA 512	SFO San Francisco	United Airlines	17:28:00	T-7	7	757
+UA 514	SFO San Francisco	United Airlines	18:16:00	T-7	10	757
+UA 535	LAX Los Angeles	United Airlines	17:00:00	T-7	12	757
+UA 535	LAX Los Angeles	United Airlines	17:00:00	T-7	12	757
+UA 541	SFO San Francisco	United Airlines	09:30:00	T-7	9	757
+UA 6632	SAL San Salvador	United Airlines	09:30:00	T-4		320
+UA 6658	BOG Bogota	United Airlines	06:35:00	T-4		330
+UA 703	LAX Los Angeles	United Airlines	11:25:00	T-7	9	757
+UA 7129	PTY Panama City	United Airlines	14:05:00	T-4	A2	738
+UA 7129	PTY Panama City	United Airlines	14:05:00	T-4	A2	738
+UA 7153	PTY Panama City	United Airlines	08:55:00	T-4	A7	738
+UA 7153	PTY Panama City	United Airlines	08:55:00	T-4	A7	738
+UA 7226	JNB Johannesburg	United Airlines	10:40:00	T-4		343
+UA 7294	ICN Seoul	United Airlines	13:00:00	T-4		77W
+UA 7294	ICN Seoul	United Airlines	13:00:00	T-4		77W
+UA 7611	PEK Beijing	United Airlines	15:50:00	T-1		747
+UA 7632	DUB Dublin	United Airlines	17:30:00	T-5		330
+UA 766	SFO San Francisco	United Airlines	12:00:00	T-7	8	757
+UA 766	SFO San Francisco	United Airlines	12:00:00	T-7	8	757
+UA 7669	ZRH Zurich	United Airlines	21:25:00	T-4		333
+UA 7671	ZRH Zurich	United Airlines	18:20:00	T-4		333
+UA 7673	GVA Geneva	United Airlines	19:45:00	T-4		333
+UA 7928	NRT Tokyo	United Airlines	16:55:00	T-7		77W
+UA 7928	NRT Tokyo	United Airlines	16:55:00	T-7		77W
+UA 7998	NRT Tokyo	United Airlines	11:15:00	T-7		77W
+UA 841	LAX Los Angeles	United Airlines	14:30:00	T-7	7	757
+UA 8840	FRA Frankfurt	United Airlines	15:55:00	T-1	8	346
+UA 8840	FRA Frankfurt	United Airlines	15:55:00	T-1	8	346
+UA 8870	MUC Munich	United Airlines	17:30:00	T-1	9	333
+UA 9856	CAI Cairo	United Airlines	18:30:00	T-4		773
+UA 9928 �	BRU Brussels	United Airlines	17:55:00	T-1		333
+UA 9928 �	BRU Brussels	United Airlines	17:55:00	T-1		333
+UL 2600	AUH Abu Dhabi	SriLankan Airlines	21:55:00	T-4		77W
+UL 2600	AUH Abu Dhabi	SriLankan Airlines	21:55:00	T-4		77W
+UN 2222 �	VKO Moscow	Transaero Airlines	14:25:00	T-4		777
+UX 3303	BOS Boston	Air Europa	15:55:00	T-4	B25	717
+UX 3303	BOS Boston	Air Europa	15:55:00	T-4	B25	717
+UX 3305	BOS Boston	Air Europa	17:00:00	T-4	B44	CR9
+UX 3305	BOS Boston	Air Europa	17:00:00	T-4	B44	CR9
+UX 3306	DTW Detroit	Air Europa	16:15:00	T-4	B25	319
+UX 3307	DTW Detroit	Air Europa	19:29:00	T-4		CR9
+UX 3309	DCA Washington	Air Europa	15:30:00	T-4	B55	CR9
+UX 3318	SAN San Diego	Air Europa	19:15:00	T-4		738
+UX 3319	SFO San Francisco	Air Europa	15:15:00	T-4	B34	75W
+UX 3325	SFO San Francisco	Air Europa	16:30:00	T-4	B35	75W
+UX 3326	PHX Phoenix	Air Europa	17:10:00	T-4	B37	73H
+UX 3327	MSY New Orleans	Air Europa	18:29:00	T-4	B47	319
+UX 3329	ORD Chicago	Air Europa	16:15:00	T-4	B45	CR9
+UX 3335	LAX Los Angeles	Air Europa	17:00:00	T-4	B36	76W
+UX 3335	LAX Los Angeles	Air Europa	17:00:00	T-4	B36	76W
+UX 3336	LAX Los Angeles	Air Europa	21:15:00	T-4		76W
+UX 3337	LAX Los Angeles	Air Europa	15:23:00	T-4	B30	76W
+UX 3339	LAS Las Vegas	Air Europa	17:00:00	T-4	B22	738
+UX 3339	LAS Las Vegas	Air Europa	17:00:00	T-4	B22	738
+UX 3340 �	SEA Seattle	Air Europa	16:05:00	T-4	B38	73H
+UX 3340 �	SEA Seattle	Air Europa	16:05:00	T-4	B38	73H
+UX 3392	MAD Madrid	Air Europa	19:51:00	T-4	B26	76W
+UX 3395	MCO Orlando	Air Europa	16:04:00	T-2	C69	M88
+UX 3395	MCO Orlando	Air Europa	16:04:00	T-2	C69	M88
+UX 3398	BCN Barcelona	Air Europa	19:31:00	T-4	B32	764
+UX 3415	SEA Seattle	Air Europa	18:15:00	T-4	B35	738
+UX 3807	LAX Los Angeles	Air Europa	18:15:00	T-4	B41	75W
+VA 6510	LAX Los Angeles	Virgin Australia	09:15:00	T-4	B32	75W
+VA 6525	LAX Los Angeles	Virgin Australia	15:23:00	T-4	B30	76W
+VA 6534	LAX Los Angeles	Virgin Australia	11:39:00	T-4	B34	75W
+VA 6550	LAX Los Angeles	Virgin Australia	17:00:00	T-4	B36	76W
+VA 6550	LAX Los Angeles	Virgin Australia	17:00:00	T-4	B36	76W
+VA 6572	LAX Los Angeles	Virgin Australia	18:15:00	T-4	B41	75W
+VA 6636	LAX Los Angeles	Virgin Australia	21:15:00	T-4		76W
+VA 6671	LAX Los Angeles	Virgin Australia	07:10:00	T-4	B24	76W
+VA 6701	LAX Los Angeles	Virgin Australia	08:10:00	T-4	B39	75W
+VN 3061	NRT Tokyo	Vietnam Airlines	11:57:00	T-4	B28	777
+VN 3061	NRT Tokyo	Vietnam Airlines	11:57:00	T-4	B28	777
+VN 3062	FRA Frankfurt	Vietnam Airlines	19:43:00	T-4	B34	76W
+VS 10	LHR London	Virgin Atlantic	21:30:00	T-4		333
+VS 26	LHR London	Virgin Atlantic	08:15:00	T-4		346
+VS 2914	RIC Richmond	Virgin Atlantic	18:45:00	T-4		CRJ
+VS 4	LHR London	Virgin Atlantic	18:30:00	T-4		333
+VS 46	LHR London	Virgin Atlantic	19:30:00	T-4		744
+VS 4601	MSY New Orleans	Virgin Atlantic	18:29:00	T-4	B47	319
+VS 4603	DTW Detroit	Virgin Atlantic	16:15:00	T-4	B25	319
+VS 4605	JAX Jacksonville	Virgin Atlantic	20:15:00	T-4		CR9
+VS 4609	BUF Buffalo	Virgin Atlantic	15:30:00	T-4	B44	CR9
+VS 4611	BOS Boston	Virgin Atlantic	15:55:00	T-4	B25	717
+VS 4611	BOS Boston	Virgin Atlantic	15:55:00	T-4	B25	717
+VS 4613	PIT Pittsburgh	Virgin Atlantic	14:59:00	T-4	B43	CR9
+VS 4613	PIT Pittsburgh	Virgin Atlantic	14:59:00	T-4	B43	CR9
+VS 4621	BUF Buffalo	Virgin Atlantic	20:15:00	T-4		CR9
+VS 4623 �	MSP Minneapolis	Virgin Atlantic	16:00:00	T-4	B46	CR9
+VS 4623 �	MSP Minneapolis	Virgin Atlantic	16:00:00	T-4	B46	CR9
+VS 4625	DTW Detroit	Virgin Atlantic	19:29:00	T-4		CR9
+VS 4627	DFW Dallas	Virgin Atlantic	18:55:00	T-4		CR9
+VS 4627	DFW Dallas	Virgin Atlantic	18:55:00	T-4		CR9
+VS 4629	ORD Chicago	Virgin Atlantic	16:15:00	T-4	B45	CR9
+VS 4631	DTW Detroit	Virgin Atlantic	09:15:00	T-4	B55	CR9
+VS 4633	DCA Washington	Virgin Atlantic	20:30:00	T-4		CR9
+VS 4635	ORD Chicago	Virgin Atlantic	19:50:00	T-4		CR9
+VS 4639	PHL Philadelphia	Virgin Atlantic	15:30:00	T-4	B53	ERJ
+VS 4641	RDU Raleigh/Durham	Virgin Atlantic	16:30:00	T-4	B51	CR9
+VS 4643	PHL Philadelphia	Virgin Atlantic	08:29:00	T-4	B48	ERJ
+VS 4645	SAT San Antonio	Virgin Atlantic	17:32:00	T-4	B25	319
+VS 4647	RDU Raleigh/Durham	Virgin Atlantic	19:25:00	T-4		CR9
+VS 4649	DCA Washington	Virgin Atlantic	15:30:00	T-4	B55	CR9
+VS 4651	PIT Pittsburgh	Virgin Atlantic	21:15:00	T-4		CR9
+VS 4657	BOS Boston	Virgin Atlantic	07:00:00	T-4	B37	717
+VS 4657	BOS Boston	Virgin Atlantic	07:00:00	T-4	B37	717
+VS 4661	CVG Cincinnati	Virgin Atlantic	16:45:00	T-4	B45	CR9
+VS 4663	BOS Boston	Virgin Atlantic	17:00:00	T-4	B44	CR9
+VS 4663	BOS Boston	Virgin Atlantic	17:00:00	T-4	B44	CR9
+VS 4665	MSY New Orleans	Virgin Atlantic	08:10:00	T-4	B25	319
+VS 4667	ORD Chicago	Virgin Atlantic	08:22:00	T-4	B55	CR9
+VS 4669	MSP Minneapolis	Virgin Atlantic	08:00:00	T-4	B32	752
+VS 4669	MSP Minneapolis	Virgin Atlantic	08:00:00	T-4	B32	752
+VS 4671	MSP Minneapolis	Virgin Atlantic	10:51:00	T-4	B33	717
+VS 4673	YUL Montreal	Virgin Atlantic	19:50:00	T-4		ERJ
+VS 4675	PHL Philadelphia	Virgin Atlantic	20:10:00	T-4		ERJ
+VS 4683	ROC Rochester	Virgin Atlantic	20:10:00	T-4		CR9
+VS 4685	YQB Quebec	Virgin Atlantic	21:15:00	T-4		ERJ
+VS 4691	ROC Rochester	Virgin Atlantic	15:45:00	T-4	B53	CR9
+VS 4693	YYZ Toronto	Virgin Atlantic	09:00:00	T-4	B47	CR7
+VS 4693	YYZ Toronto	Virgin Atlantic	09:00:00	T-4	B47	CR7
+VS 4695	CHS Charleston	Virgin Atlantic	17:59:00	T-4	B43	ERJ
+VS 4695	CHS Charleston	Virgin Atlantic	17:59:00	T-4	B43	ERJ
+VS 4697	CLE Cleveland	Virgin Atlantic	19:10:00	T-4		ERJ
+VS 4705	BWI Baltimore	Virgin Atlantic	16:10:00	T-4	B48	ERJ
+VS 4707	YYZ Toronto	Virgin Atlantic	20:50:00	T-4		CR7
+VS 4709	CMH Columbus	Virgin Atlantic	14:59:00	T-4	B47	ERJ
+VS 4709	CMH Columbus	Virgin Atlantic	14:59:00	T-4	B47	ERJ
+VS 4713	IAD Washington	Virgin Atlantic	14:54:00	T-4	B55	ERJ
+VS 4715	CLE Cleveland	Virgin Atlantic	14:25:00	T-4	B51	CR9
+VS 4717	IAD Washington	Virgin Atlantic	19:35:00	T-4		ERJ
+VS 4719	YYZ Toronto	Virgin Atlantic	15:30:00	T-4		CR7
+VS 4721	RDU Raleigh/Durham	Virgin Atlantic	07:20:00	T-4	B43	CR9
+VS 4723	YUL Montreal	Virgin Atlantic	08:29:00	T-4	B53	CRJ
+VS 4725	ORF Norfolk	Virgin Atlantic	14:51:00	T-4	B46	ERJ
+VS 4727	LAX Los Angeles	Virgin Atlantic	17:00:00	T-4	B36	76W
+VS 4727	LAX Los Angeles	Virgin Atlantic	17:00:00	T-4	B36	76W
+VS 4729	ATL Atlanta	Virgin Atlantic	08:30:00	T-4	B32	75W
+VS 4731	SLC Salt Lake City	Virgin Atlantic	15:52:00	T-4	B41	320
+VS 4733	MIA Miami	Virgin Atlantic	11:29:00	T-4	B24	M88
+VS 4735	SLC Salt Lake City	Virgin Atlantic	19:05:00	T-2	C68	757
+VS 4735	SLC Salt Lake City	Virgin Atlantic	19:05:00	T-2	C68	757
+VS 4737	ATL Atlanta	Virgin Atlantic	17:35:00	T-4	B32	752
+VS 4739	LAX Los Angeles	Virgin Atlantic	15:23:00	T-4	B30	76W
+VS 4741	LAX Los Angeles	Virgin Atlantic	09:15:00	T-4	B32	75W
+VS 4745	SFO San Francisco	Virgin Atlantic	16:30:00	T-4	B35	75W
+VS 4747 �	SEA Seattle	Virgin Atlantic	16:05:00	T-4	B38	73H
+VS 4747 �	SEA Seattle	Virgin Atlantic	16:05:00	T-4	B38	73H
+VS 4749	SEA Seattle	Virgin Atlantic	09:00:00	T-4	B37	738
+VS 4749	SEA Seattle	Virgin Atlantic	09:00:00	T-4	B37	738
+VS 4751	PHX Phoenix	Virgin Atlantic	08:35:00	T-4	B36	752
+VS 4755	SAN San Diego	Virgin Atlantic	19:15:00	T-4		738
+VS 4757	PDX Portland	Virgin Atlantic	18:29:00	T-4	B24	73H
+VS 4759	MCO Orlando	Virgin Atlantic	11:15:00	T-2	C62	M88
+VS 4761	AUS Austin	Virgin Atlantic	17:35:00	T-2	C70	738
+VS 4763	LAX Los Angeles	Virgin Atlantic	07:10:00	T-4	B24	76W
+VS 4765	TPA Tampa	Virgin Atlantic	08:05:00	T-2	C63	717
+VS 4765	TPA Tampa	Virgin Atlantic	08:05:00	T-2	C63	717
+VS 4769	ATL Atlanta	Virgin Atlantic	15:35:00	T-2	C68	M88
+VS 4773	LAX Los Angeles	Virgin Atlantic	11:39:00	T-4	B34	75W
+VS 4775	DEN Denver	Virgin Atlantic	18:15:00	T-2	C62	73H
+VS 4777	BOS Boston	Virgin Atlantic	20:05:00	T-4		717
+VS 4777	BOS Boston	Virgin Atlantic	20:05:00	T-4		717
+VS 4779	LAX Los Angeles	Virgin Atlantic	18:15:00	T-4	B41	75W
+VS 4781	BOS Boston	Virgin Atlantic	10:30:00	T-4	B22	717
+VS 4783	SLC Salt Lake City	Virgin Atlantic	17:35:00	T-4	B20	73H
+VS 4785	FLL Fort Lauderdale	Virgin Atlantic	18:59:00	T-4	B33	M88
+VS 4785	FLL Fort Lauderdale	Virgin Atlantic	18:59:00	T-4	B33	M88
+VS 4787	MIA Miami	Virgin Atlantic	18:45:00	T-2	C63	M88
+VS 4789	SLC Salt Lake City	Virgin Atlantic	11:50:00	T-4	B37	73H
+VS 4795	FLL Fort Lauderdale	Virgin Atlantic	16:00:00	T-2	C63	M88
+VS 4795	FLL Fort Lauderdale	Virgin Atlantic	16:00:00	T-2	C63	M88
+VS 4797	SLC Salt Lake City	Virgin Atlantic	07:00:00	T-4	B35	752
+VS 4797	SLC Salt Lake City	Virgin Atlantic	07:00:00	T-4	B35	752
+VS 4799	LAS Las Vegas	Virgin Atlantic	08:00:00	T-4	B38	739
+VS 4799	LAS Las Vegas	Virgin Atlantic	08:00:00	T-4	B38	739
+VS 4801	SFO San Francisco	Virgin Atlantic	19:00:00	T-4	B39	752
+VS 4801	SFO San Francisco	Virgin Atlantic	19:00:00	T-4	B39	752
+VS 4803	AUS Austin	Virgin Atlantic	08:15:00	T-2	C70	319
+VS 4805	LAS Las Vegas	Virgin Atlantic	10:00:00	T-4	B39	738
+VS 4805	LAS Las Vegas	Virgin Atlantic	10:00:00	T-4	B39	738
+VS 4809	SFO San Francisco	Virgin Atlantic	15:15:00	T-4	B34	75W
+VS 4811	LAS Las Vegas	Virgin Atlantic	19:51:00	T-2		738
+VS 4813	LAS Las Vegas	Virgin Atlantic	17:00:00	T-4	B22	738
+VS 4813	LAS Las Vegas	Virgin Atlantic	17:00:00	T-4	B22	738
+VS 4815	SEA Seattle	Virgin Atlantic	18:15:00	T-4	B35	738
+VS 4817	ATL Atlanta	Virgin Atlantic	06:10:00	T-4	B26	M88
+VS 4819	SFO San Francisco	Virgin Atlantic	11:29:00	T-4	B35	75W
+VS 4823	LAS Las Vegas	Virgin Atlantic	15:08:00	T-4	B33	738
+VS 4825	MCO Orlando	Virgin Atlantic	08:15:00	T-4	B20	M88
+VS 4831	MIA Miami	Virgin Atlantic	08:00:00	T-2	C69	M88
+VS 4831	MIA Miami	Virgin Atlantic	08:00:00	T-2	C69	M88
+VS 4833	MCO Orlando	Virgin Atlantic	18:50:00	T-2	C69	M88
+VS 4835	LAX Los Angeles	Virgin Atlantic	21:15:00	T-4		76W
+VS 4837	TPA Tampa	Virgin Atlantic	18:45:00	T-4	B42	717
+VS 4839	PHX Phoenix	Virgin Atlantic	17:10:00	T-4	B37	73H
+VS 4841	MCO Orlando	Virgin Atlantic	16:04:00	T-2	C69	M88
+VS 4841	MCO Orlando	Virgin Atlantic	16:04:00	T-2	C69	M88
+VS 4849	CMH Columbus	Virgin Atlantic	18:55:00	T-4		ERJ
+VS 4849	CMH Columbus	Virgin Atlantic	18:55:00	T-4		ERJ
+VS 4853	MBJ Montego Bay	Virgin Atlantic	09:00:00	T-4	B20	738
+VS 4853	MBJ Montego Bay	Virgin Atlantic	09:00:00	T-4	B20	738
+VS 4855	ATL Atlanta	Virgin Atlantic	19:45:00	T-4		738
+VS 4861	YQB Quebec	Virgin Atlantic	13:00:00	T-4	B43	ERJ
+VS 4861	YQB Quebec	Virgin Atlantic	13:00:00	T-4	B43	ERJ
+VS 4863	MIA Miami	Virgin Atlantic	15:30:00	T-2	C62	M88
+VS 4867	LAX Los Angeles	Virgin Atlantic	08:10:00	T-4	B39	75W
+VS 4869	SFO San Francisco	Virgin Atlantic	09:00:00	T-4	B35	75W
+VS 4869	SFO San Francisco	Virgin Atlantic	09:00:00	T-4	B35	75W
+VS 4871	RDU Raleigh/Durham	Virgin Atlantic	12:30:00	T-4	B48	CR9
+VS 4875	MCO Orlando	Virgin Atlantic	12:59:00	T-4	B36	319
+VS 4875	MCO Orlando	Virgin Atlantic	12:59:00	T-4	B36	319
+VS 4877	BOS Boston	Virgin Atlantic	13:00:00	T-4	B47	CR9
+VS 4877	BOS Boston	Virgin Atlantic	13:00:00	T-4	B47	CR9
+VS 4879	JAX Jacksonville	Virgin Atlantic	14:45:00	T-4	B45	CR9
+VS 4893	TPA Tampa	Virgin Atlantic	14:55:00	T-2	C67	717
+VS 4893	TPA Tampa	Virgin Atlantic	14:55:00	T-2	C67	717
+VS 4895	TPA Tampa	Virgin Atlantic	11:35:00	T-4	B38	717
+VS 4897	MSY New Orleans	Virgin Atlantic	13:59:00	T-4	B35	319
+VS 4897	MSY New Orleans	Virgin Atlantic	13:59:00	T-4	B35	319
+VS 4905	SAV Savannah	Virgin Atlantic	13:45:00	T-4	B53	CR9
+VS 4907	SYR Syracuse	Virgin Atlantic	19:19:00	T-4		ERJ
+VS 4909	SJU San Juan	Virgin Atlantic	20:30:00	T-2		738
+VS 4911	SJU San Juan	Virgin Atlantic	14:59:00	T-4	B22	738
+VS 4911	SJU San Juan	Virgin Atlantic	14:59:00	T-4	B22	738
+VS 4915	SYR Syracuse	Virgin Atlantic	14:40:00	T-4	B48	ERJ
+VS 5401	LHR London	Virgin Atlantic	19:00:00	T-4	B22	76W
+VS 5401	LHR London	Virgin Atlantic	19:00:00	T-4	B22	76W
+VS 5403	LHR London	Virgin Atlantic	22:30:00	T-4		76W
+VS 5849	IAD Washington	Virgin Atlantic	08:00:00	T-4	B51	ERJ
+VS 5849	IAD Washington	Virgin Atlantic	08:00:00	T-4	B51	ERJ
+VS 5960	STT Saint Thomas	Virgin Atlantic	08:35:00	T-4	B41	757
+VX 11	SFO San Francisco	Virgin America	07:30:00	T-4	A2	320
+VX 23	SFO San Francisco	Virgin America	10:30:00	T-4	A7	320
+VX 251	LAS Las Vegas	Virgin America	09:45:00	T-4	A2	320
+VX 27	SFO San Francisco	Virgin America	16:30:00	T-4	A2	320
+VX 29	SFO San Francisco	Virgin America	18:50:00	T-4	A2	320
+VX 399	LAX Los Angeles	Virgin America	07:00:00	T-4	A2	320
+VX 399	LAX Los Angeles	Virgin America	07:00:00	T-4	A2	320
+VX 407	LAX Los Angeles	Virgin America	09:20:00	T-4	A2	320
+VX 411	LAX Los Angeles	Virgin America	13:00:00	T-4	A6	320
+VX 411	LAX Los Angeles	Virgin America	13:00:00	T-4	A6	320
+VX 413	LAX Los Angeles	Virgin America	16:55:00	T-4	A2	320
+VX 413	LAX Los Angeles	Virgin America	16:55:00	T-4	A2	320
+VX 415	LAX Los Angeles	Virgin America	20:05:00	T-4	A2	320
+VX 415	LAX Los Angeles	Virgin America	20:05:00	T-4	A2	320
+VX 501	FLL Fort Lauderdale	Virgin America	08:00:00	T-4	A5	320
+VX 501	FLL Fort Lauderdale	Virgin America	08:00:00	T-4	A5	320
+W3 108 �	LOS Lagos	Arik Air	20:35:00	T-4		332
+XL 539	GYE Guayaquil	Lan Ecuador	21:30:00	T-8	C45	763
+XL 6203	MIA Miami	Lan Ecuador	14:03:00	T-8	C42	757
+XL 6203	MIA Miami	Lan Ecuador	14:03:00	T-8	C42	757
+XL 6251	MIA Miami	Lan Ecuador	17:00:00	T-8	C44	757
+XL 6251	MIA Miami	Lan Ecuador	17:00:00	T-8	C44	757
+XL 6259	LAS Las Vegas	Lan Ecuador	06:35:00	T-8	C39	738
+XOJ 793	ECP Panama City	XOJET	20:55:00			
+XOJ 793	ECP Panama City	XOJET	20:55:00			

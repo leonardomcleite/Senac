@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/6c3ac1b36ebc5ea451f07cdd02efe5093a65945e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/leonardo/git/Aplicativo-imc-android/app/build/intermediates/pre-dexed/release/classes_cd230d76743298cab48d10d3f54c385aabc464a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/fd3311962bc3ca9e367a225e07860bf6f320680c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/leonardo/git/Aplicativo-imc-android/app/build/intermediates/pre-dexed/release/classes_3272201b0e229d8e13d92af0005fd9b1dfcba9e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/leonardo/git/Aplicativo-imc-android/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_1eb28628d30061d6d14b2ab07e6306df4d4c555d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/526d988220992c46c8a6f37788a2271c8901236f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/leonardo/git/Aplicativo-imc-android/app/build/intermediates/pre-dexed/release/classes_b2b86e01469bf0d5e95cacef85ac56f1e6686262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/fd3311962bc3ca9e367a225e07860bf6f320680c/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/leonardo/git/Aplicativo-imc-android/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_c9bf178ad2f01473a0999f7c23b8db562363181f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/leonardo/.android/build-cache/2d7d1740d808b7804da7dab0a0a0d72e68fbd7ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/leonardo/git/Aplicativo-imc-android/app/build/intermediates/pre-dexed/release/classes_4db0b451f24faeb6a1786bea769d1ed699f6f1a3.jar" />
+    </item>
+
+</items>
