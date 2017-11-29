@@ -18,9 +18,9 @@ int simulador(char MatrizI[][4], int Vetor[], int *RI, int *PC, int *AC, int *En
       return 1;
     } else if (!strcmp(MatrizI[*PC] , "NOP")) //Se a instrução digitada seja NOP
       {
-        printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
+        printf("\n%s\n", MatrizI[*PC]);
         printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
-        printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
+        printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s) eh transferido para o RI.\n", MatrizI[*PC]);
         printf("- O RI passa a instrucao para o UC.\n");
         printf("- A UC decodifica a instrucao.\n");
         printf("- Como se trata de NOP, nada eh executado.\n");
@@ -49,9 +49,12 @@ int simulador(char MatrizI[][4], int Vetor[], int *RI, int *PC, int *AC, int *En
       printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de LDA (Carrega AC), a UC passa para ULA a realizacao da operacao IGUAL:\n");
+      printf("- Como se trata de LDA (Carrega AC), a UC passa para ULA a realizacao da operacao LOGICA:\n");
       printf("  - Eh realizada uma busca na MP no endereco (%d), retornado o dado (%d)\n", Vetor[*PC], atoi (MatrizI[Vetor[*PC]]));
       printf("  - O resultado (%d) desta operacao eh enviado para o AC.\n", *AC);
+
+      printf("AC recebe o resultado da operação, Logo AC = %d\n",*AC);
+
       if (*AC < 0){ //Acumulador seja negativo
         printf("  - Como o resultado (%d) desta operacao eh negativo a flag JN eh ativada.\n", *AC);
         JN = 1;
@@ -75,114 +78,295 @@ int simulador(char MatrizI[][4], int Vetor[], int *RI, int *PC, int *AC, int *En
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
       printf("- Como se trata de ADD (Soma ao AC), a UC passa para ULA a realizacao da operacao SOMA:\n");
-      printf("  - Esta recebe o dado do AC, e logo apos eh realizada uma busca na MP no endereco (%d), retornado o dado (%d), e somado-o ao dado do AC;\n", Vetor[*PC], MatrizI[*PC]);
+      printf("  - Esta recebe o dado do AC, e logo apos eh realizada uma busca na MP no endereco (%d), retornado o dado (%d), e somado-o ao dado do AC\n", Vetor[*PC], atoi (MatrizI[Vetor[*PC]]));
       printf("  - O resultado (%d) desta operacao eh enviado para o AC.\n", *AC);
-      if (*AC < 0)
-        printf("  - Como o resultado (%d) desta operacao eh negativo a flag N eh ativada.\n", *AC);
-      else
-        printf("  - Como o resultado (%d) desta operacao eh positivo a flag Z eh ativada.\n", *AC);
 
+      if (*AC < 0){ //Acumulador seja negativo
+        printf("  - Como o resultado (%d) desta operacao eh negativo a flag JN eh ativada.\n", *AC);
+        JN = 1;
+      }else if (*AC == 0) {
+        printf("  - Como o resultado (%d) desta operacao eh zero a flag JZ eh ativada.\n", *AC);
+        JZ = 1;
+        JN = 0;
+      } else if (*AC > 0) {
+        JN = 0;
+        JZ = 0;
+      }
       *PC += 1; // Incremento PC
       printf("- Por fim o PC eh incrementado: PC = %d", *PC);
 
     }else if(!strcmp(MatrizI[*PC] , "OR ")) //Se a instrução digitada seja OR
     {
+      int BinAC[8], BinED[8];
+      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
       printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
       printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de ADD (Soma ao AC), a UC passa para ULA a realizacao da operacao SOMA:\n");
+      printf("- Como se trata de OR, a UC passa para ULA a realizacao da operacao LOGICA:\n");
 
-      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
-      *PC += 1; // Incremento PC
-      printf("- Incrementa o PC: PC = %d", *PC);
+      printf("\n  AC = %d\n", *AC);
+      printf("  Valor do endereço buscado = %d\n\n",atoi(MatrizI[Vetor[*PC]]));
+
+      Trasnformacao(*AC, &BinAC);
+      Trasnformacao(atoi(MatrizI[Vetor[*PC]]), &BinED);
+
+      for(int indice=0;indice<=6;indice++){
+        if (BinAC[indice] == 1 || BinED[indice] == 1)
+          BinAC[indice] = 1;
+        else
+          BinAC[indice] = 0;
+      }
+
+      printf("  ____________________\n");
+
+      for(int indice=0;indice<=6;indice++)
+        printf("  %d", BinAC[indice]);
+
+      printf("\n");
+
+      int temp = 0;
+
+      if (BinAC[0] == 1)
+        temp += 1;
+
+      if (BinAC[1] == 1)
+        temp += 2;
+
+      if (BinAC[2] == 1)
+        temp += 4;
+
+      if (BinAC[3] == 1)
+        temp += 8;
+
+      if (BinAC[4] == 1)
+        temp += 16;
+
+      if (BinAC[5] == 1)
+        temp += 32;
+
+      if (BinAC[6] == 1)
+        temp += 64;
+
+      if (BinAC[7] == 1)
+        temp += 128;
+
+      *AC = temp;
+
+      printf("AC recebe o resultado da operação, Logo AC = %d\n",*AC);
+
+      if (*AC < 0){ //Acumulador seja negativo
+        printf("  - Como o resultado (%d) desta operacao eh negativo a flag JN eh ativada.\n", *AC);
+        JN = 1;
+      }else if (*AC == 0) {
+        printf("  - Como o resultado (%d) desta operacao eh zero a flag JZ eh ativada.\n", *AC);
+        JZ = 1;
+        JN = 0;
+      } else if (*AC > 0) {
+        JN = 0;
+        JZ = 0;
+      }
+      *PC += 1;  // Incremento PC
+      printf("- Por fim o PC eh incrementado: PC = %d", *PC);
 
     }else if(!strcmp(MatrizI[*PC] , "AND")) //Se a instrução digitada seja ADD
     {
-      char BinAC[8], BinED[8];
+      int BinAC[8], BinED[8];
       printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
       printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
       printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de AND, a UC passa para ULA a realizacao da operacao IGUAL:\n");
+      printf("- Como se trata de AND, a UC passa para ULA a realizacao da operacao LOGICA:\n");
 
-      //Trasnformacao2(&AC, &BinAC);
-      //Trasnformacao(&MatrizI[Vetor[*PC]], &BinED);
+      printf("\n  AC = %d\n", *AC);
+      printf("  Valor do endereço buscado = %d\n\n",atoi(MatrizI[Vetor[*PC]]));
 
-      //for(int indice=0;indice<=7;indice++)
-      //printf("%d", BinAC[indice]);
+      Trasnformacao(*AC, &BinAC);
+      Trasnformacao(atoi(MatrizI[Vetor[*PC]]), &BinED);
 
-      printf("- Compara AC com Valor da Memoria no Endereco: %d\n", Vetor[*PC]);
-      if (MatrizI[Vetor[*PC]][0] == *AC)
-      {
-        printf("  - AC igual ao Valor da Memoria no Endereco %d\n", Vetor[*PC]);
-        *PC = 5;
-        printf("-Incrementa o PC: ");
-        printf("PC = %d", *PC);
-      }else
-      {
-        printf("  - AC diferente ao Valor da Memoria no Endereco %d\n", Vetor[*PC]);
-        *PC += 1; // Incremento PC
-        printf("-Incrementa o PC: ");
-        printf("PC = %d", *PC);
+      for(int indice=0;indice<=6;indice++){
+        if (BinAC[indice] == 1 && BinED[indice] == 1)
+          BinAC[indice] = 1;
+        else
+          BinAC[indice] = 0;
       }
+
+      printf("  ____________________\n");
+
+      for(int indice=0;indice<=6;indice++)
+        printf("  %d", BinAC[indice]);
+
+      printf("\n");
+
+      int temp = 0;
+
+      if (BinAC[0] == 1)
+        temp += 1;
+
+      if (BinAC[1] == 1)
+        temp += 2;
+
+      if (BinAC[2] == 1)
+        temp += 4;
+
+      if (BinAC[3] == 1)
+        temp += 8;
+
+      if (BinAC[4] == 1)
+        temp += 16;
+
+      if (BinAC[5] == 1)
+        temp += 32;
+
+      if (BinAC[6] == 1)
+        temp += 64;
+
+      if (BinAC[7] == 1)
+        temp += 128;
+
+      *AC = temp;
+
+      printf("AC recebe o resultado da operação, Logo AC = %d\n",*AC);
+
+      if (*AC < 0){ //Acumulador seja negativo
+        printf("  - Como o resultado (%d) desta operacao eh negativo a flag JN eh ativada.\n", *AC);
+        JN = 1;
+      }else if (*AC == 0) {
+        printf("  - Como o resultado (%d) desta operacao eh zero a flag JZ eh ativada.\n", *AC);
+        JZ = 1;
+        JN = 0;
+      } else if (*AC > 0) {
+        JN = 0;
+        JZ = 0;
+      }
+      *PC += 1;  // Incremento PC
+      printf("- Por fim o PC eh incrementado: PC = %d", *PC);
+
     }else if(!strcmp(MatrizI[*PC] , "NOT")) //Se a instrução digitada seja NOT
     {
+      int BinAC[8], BinED[8];
+      printf("\n%s\n", MatrizI[*PC]);
       printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
-      printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
+      printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s) eh transferido para o RI.\n", MatrizI[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de ADD (Soma ao AC), a UC passa para ULA a realizacao da operacao SOMA:\n");
+      printf("- Como se trata de NOT, a UC passa para ULA a realizacao da operacao LOGICA:\n");
 
-      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
-      *PC += 1; // Incremento PC
-      printf("- Incrementa o PC: ");
-      printf("- PC = %d", *PC);
+      printf("\n  AC = %d\n", *AC);
+
+      Trasnformacao(*AC, &BinAC);
+
+      for(int indice=0;indice<=6;indice++){
+        if (BinAC[indice] == 1)
+          BinAC[indice] = 0;
+        else
+          BinAC[indice] = 1;
+      }
+
+      printf("  ____________________\n");
+
+      for(int indice=0;indice<=6;indice++)
+        printf("  %d", BinAC[indice]);
+
+      printf("\n");
+
+      int temp = 0;
+
+      if (BinAC[0] == 1)
+        temp += 1;
+
+      if (BinAC[1] == 1)
+        temp += 2;
+
+      if (BinAC[2] == 1)
+        temp += 4;
+
+      if (BinAC[3] == 1)
+        temp += 8;
+
+      if (BinAC[4] == 1)
+        temp += 16;
+
+      if (BinAC[5] == 1)
+        temp += 32;
+
+      if (BinAC[6] == 1)
+        temp += 64;
+
+      if (BinAC[7] == 1)
+        temp += 128;
+
+      *AC = temp;
+
+      printf("AC recebe o resultado da operação, Logo AC = %d\n",*AC);
+
+      if (*AC < 0){ //Acumulador seja negativo
+        printf("  - Como o resultado (%d) desta operacao eh negativo a flag JN eh ativada.\n", *AC);
+        JN = 1;
+      }else if (*AC == 0) {
+        printf("  - Como o resultado (%d) desta operacao eh zero a flag JZ eh ativada.\n", *AC);
+        JZ = 1;
+        JN = 0;
+      } else if (*AC > 0) {
+        JN = 0;
+        JZ = 0;
+      }
+      *PC += 1;  // Incremento PC
+      printf("- Por fim o PC eh incrementado: PC = %d", *PC);
 
     }else if(!strcmp(MatrizI[*PC] , "JMP")) //Se a instrução digitada seja JMP
     {
+      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
       printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
       printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de ADD (Soma ao AC), a UC passa para ULA a realizacao da operacao SOMA:\n");
-
-      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
+      printf("- Como se trata de JMP (Pula instrução), a UC passa para ULA a realizacao da operacao SOMA:\n");
       printf("- Pula para instrucao da linha de comandos %d.\n", Vetor[*PC]);
-      *PC = Vetor[*PC];
-      printf("PC = %d", *PC);
-    }else if(!strcmp(MatrizI[*PC] , "JN")) //Se a instrução digitada seja JMP
+      *PC += 1;  // Incremento PC
+      printf("- Por fim o PC eh incrementado: PC = %d", *PC);
+    }else if(!strcmp(MatrizI[*PC] , "JN ")) //Se a instrução digitada seja JMP
     {
+      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
       printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
       printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de ADD (Soma ao AC), a UC passa para ULA a realizacao da operacao SOMA:\n");
+      printf("- Como se trata de JN (JUMP Condicional NEGATIVO), a UC verifica se a FLAG JN:\n");
 
-      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
-      printf("- VerificaPula para instrucao da linha de comandos %d.\n", Vetor[*PC]);
-      *PC = Vetor[*PC];
-      printf("PC = %d", *PC);
-    }else if(!strcmp(MatrizI[*PC] , "JZ")) //Se a instrução digitada seja JMP
+      if (*JN == 1){
+        printf("- Como JN esta flegada, o PC recebe o endereço (%d) informado e pula-se para esta instrucao da linha de comandos.\n", Vetor[*PC]);
+        *PC = Vetor[*PC];
+      } else {
+        printf("- Como JN não esta flegada, nada acontece.\n");
+      }
+      *PC += 1;  // Incremento PC
+      printf("- Por fim o PC eh incrementado: PC = %d", *PC);
+    }else if(!strcmp(MatrizI[*PC] , "JZ ")) //Se a instrução digitada seja JMP
     {
+      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
       printf("- A CPU enviou o conteudo do PC (%d) que no caso eh endereco da proxima instrucao via BE, para o REM.\n", *PC);
       printf("- A MP le o REM e retorna para o RDM o conteudo deste endereco via BD. Logo depois o dado (%s %d) eh transferido para o RI.\n", MatrizI[*PC], Vetor[*PC]);
       printf("- O RI passa a instrucao para o UC.\n");
       printf("- A UC decodifica a instrucao.\n");
-      printf("- Como se trata de ADD (Soma ao AC), a UC passa para ULA a realizacao da operacao SOMA:\n");
+      printf("- Como se trata de JZ (JUMP Condicional ZERO), a UC verifica a FLAG JZ:\n");
 
-      printf("\n%s %d\n", MatrizI[*PC], Vetor[*PC]);
-      printf("- Pula para instrucao da linha de comandos %d.\n", Vetor[*PC]);
-      *PC = Vetor[*PC];
-      printf("PC = %d", *PC);
+      if (*JZ == 1){
+        printf("- Como JZ esta flegada, o PC recebe o endereço (%d) informado e pula-se para esta instrucao da linha de comandos.\n", Vetor[*PC]);
+        *PC = Vetor[*PC];
+      } else {
+        printf("- Como JZ não esta flegada, nada acontece.\n");
+      }
+      *PC += 1;  // Incremento PC
+      printf("- Por fim o PC eh incrementado: PC = %d", *PC);
     }
     printf("\n");
   } else
   {
     if (Vetor[*PC] < -127 & Vetor[*PC] > 128) // Numero de contas
     {
-      printf("ERRO: Este micro, so pode realizar contas com numeros > -126 e < 129\n");
+      printf("ERRO: Este micro, so pode realizar contas com numeros > -127 e < 128\n");
     } else {
       printf("ERRO: Fim das instrucaes, sem sererem finalizadas com HALT\n");
     }
@@ -191,24 +375,25 @@ int simulador(char MatrizI[][4], int Vetor[], int *RI, int *PC, int *AC, int *En
   return 0;
 }
 
-int Trasnformacao(int *decimal, int binario[]){
+int Trasnformacao(int decimal, int *binario){
 
   int indice, resto;
 
-  while( *decimal < 0 || *decimal > 127 );
+  while( decimal < -127 || decimal > 128 );
 
-    for( indice=0;indice<=7;indice++)
+    for( indice=0;indice<=6;indice++)
       binario[indice] = 0;
 
-    indice = 7;
-    while( *decimal >= 1 )
+    indice = 6;
+    while( decimal >= 1 )
     {
-    resto = *decimal % 2;
+    resto = decimal % 2;
     binario[indice--] = resto;
-    *decimal = *decimal / 2;
+    decimal = decimal / 2;
     }
 
-    for(int indice=0;indice<=7;indice++)
-    printf("%d", binario[indice]);
+    for(int indice=0;indice<=6;indice++)
+      printf("  %d", binario[indice]);
 
+    printf("\n" );
 }
