@@ -22,7 +22,7 @@ int ler_arquivo(FILE *arquivotxt, char MatrizI[][4], int Vetor[], char Stexto[],
   while (!feof(arquivotxt))
   {
     if (i > 256){
-      printf("ERRO: Este micro, dispõe de 256 posições de memória, contudo é impossivel continuar...!\n");
+      printf("ERRO: Este micro, dispoe de 256 posicoes de memoria, contudo eh impossivel continuar...!\n");
       return 1;
     }
 
