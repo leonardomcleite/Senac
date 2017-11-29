@@ -12,7 +12,7 @@ int main (void)
 
   informacoes();
 
-  printf("Pressione qualquer tecla para iniciar a simulação...\n");
+  printf("Pressione qualquer tecla para iniciar a simulacao...\n");
   getc(stdin); // esvazia o buffer e continua sem esperar
 
   retorno = ler_arquivo(&arquivotxt, &MatrizI, &Vetor, &Stexto, &EndMem);
@@ -21,7 +21,7 @@ int main (void)
     return 0;
   }
   while (simulador(&MatrizI, &Vetor, &RI, &PC, &AC, &EndMem) != 1) {
-    printf("Pressione qualquer tecla para iniciar a simulação...\n");
+    printf("Pressione qualquer tecla para iniciar a simulacao...\n");
     getc(stdin); // esvazia o buffer e continua sem esperar
   }
 }
