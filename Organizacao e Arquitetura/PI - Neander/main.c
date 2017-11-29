@@ -6,9 +6,9 @@
 
 int main (void)
 {
-  FILE *arquivotxt;
-  char MatrizI[256][4], Stexto[9];
-  int Vetor[256], RI = 0, PC = 0, AC = 0, retorno = 0, EndMem = 0;
+  FILE *arquivotxt; // Arquivo.txt
+  char MatrizI[256][4], Stexto[9]; // Matriz de até 256 linhas e 4 colunas(4 caracteres)
+  int Vetor[256], RI = 0, PC = 0, AC = 0, retorno = 0, EndMem = 0; //Vetor de até 256 linhas - Regitrador de Instrução - PC - Acumulador
 
   informacoes();
 
@@ -17,8 +17,8 @@ int main (void)
 
   retorno = ler_arquivo(&arquivotxt, &MatrizI, &Vetor, &Stexto, &EndMem);
 
-  if (retorno == 1){
-    return 0;
+  if (retorno == 1){ // Caso a "Memória" fiquei com um número maior que 256 posições.
+    return 0; // O programa para.
   }
   while (simulador(&MatrizI, &Vetor, &RI, &PC, &AC, &EndMem) != 1) {
     printf("Pressione qualquer tecla para iniciar a simulacao...\n");
