@@ -1,6 +1,8 @@
+AND 7
 ADD 5
 STA 7
 NOP
-LDA 5 
+LDA 5
 ADD 5
 HLT
+5
