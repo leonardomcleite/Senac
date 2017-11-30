@@ -9,11 +9,11 @@ void informacoes()
 
   printf("\nSIMULADOR NEANDER \n\n");
 
-  printf("1ª GRANDE OBSERVACAO:\n#QUANDO FOR ENDERECAR A MEMORIA LEMBRE-SE DE QUE NO EDITOR DE TEXTO AS LINHAS COMECAM DO NUMERO '1' E PARA O NOSSO SIMULADOR EH '0'#\n\n\n");
-  printf("2ª GRANDE OBSERVACAO:\n#O CORRETO SERIA NO MOMENTO DE PASSAR AS INSTRUÇÕES VIA MP, PASSAR A INSTRUÇÃO EM UMA LINHA E NA SEGUINTE O ENDEREÇO#\n\n\n");
+  printf("1ª OBSERVACAO:\n#QUANDO FOR ENDERECAR A MEMORIA LEMBRE-SE DE QUE O PC INICIA EM '1'#\n\n\n");
+  printf("2ª OBSERVACAO:\n#O CORRETO SERIA NO MOMENTO DE PASSAR AS INSTRUÇÕES VIA MP, PASSAR A INSTRUÇÃO EM UMA LINHA E NA SEGUINTE O ENDEREÇO, ENTRETANTO PARA FICAR MELHOR E SO PASSAR A INSTRUCAO SEGUIDA DE UM ESPACO E O ENDERECO 'EX: ADD 100'#\n\n\n");
 
-
-  printf("ARQUITETURA\n");
+  printf("\nORGANIZACAO E ARQUITETURA\n");
+  printf("- Uma memoria (MP) de 256 posicoes (enderecos) x 8 bits\n");
   printf("- Largura de dados (BD), enderecos (BE) de 8 bits\n");
   printf("- Dados representados em complemento de 2 (-127 à 128)\n");
   printf("- 1 acumulador de 8 bits (AC)\n");
@@ -39,13 +39,6 @@ void informacoes()
   printf("|  1010  | JZ end    | IF Z=1 THEN PC <- end |\n");
   printf("|  1111  | HLT       | Para processamento    |\n");
   printf("----------------------------------------------\n");
-
-  printf("\nORGANIZACAO\n");
-  printf("- Um registrador de 8 bits para servir de acumulador\n");
-  printf("- Um registrador de 8 bits para o PC (registrador-contador)\n");
-  printf("- Dois flip-flops: um para o codigo de condicao N e outro para Z\n");
-  printf("- Uma memoria (MP) de 256 posicoes (enderecos) x 8 bits\n");
-
 
   printf("\n=================================================================\n");
   printf("SIMULADOR\n");

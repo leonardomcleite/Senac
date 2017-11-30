@@ -9,7 +9,7 @@
 
 int ler_arquivo(FILE *arquivotxt, char MatrizI[][4], int Vetor[], char Stexto[], int *EndMem)
 {
-  int i = 0, j = 0; // Variaveis de auxilio
+  int i = 1, j = 1; // Variaveis de auxilio
   char temp[10], temp1[2], temp2[2], temp3[2], temp4[2], texto[1];
 
   strcpy(temp1, "0");// Inicializando variaveis
@@ -48,7 +48,7 @@ int ler_arquivo(FILE *arquivotxt, char MatrizI[][4], int Vetor[], char Stexto[],
     temp2[0] = Stexto[j+1];
     temp3[0] = Stexto[j+2];
 
-    strcpy(temp, temp1); // Realizando a cópia do conteúdo de uma variável a outra. 
+    strcpy(temp, temp1); // Realizando a cópia do conteúdo de uma variável a outra.
     strcat(temp, temp2); // Realizando a cópia do conteúdo de uma variável a outra.
     strcat(temp, temp3); // Realizando a cópia do conteúdo de uma variável a outra.
 
